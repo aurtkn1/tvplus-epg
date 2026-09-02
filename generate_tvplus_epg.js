@@ -366,13 +366,13 @@ async function main() {
     new Date()
 
   /*
-   BUGÜN + SONRAKİ 2 GÜN
-   TOPLAM 3 GÜN
+   BUGÜN + SONRAKİ 6 GÜN
+   TOPLAM 7 GÜN
   */
 
   const days = []
 
-  for (let i = 0; i < 3; i++) {
+  for (let i = 0; i < 7; i++) {
     days.push(
       new Date(
         now.getTime() +
@@ -705,7 +705,7 @@ async function main() {
   )
 
   console.log(
-    "Gün sayısı: 3"
+    "Gün sayısı: 7"
   )
 
   console.log(
