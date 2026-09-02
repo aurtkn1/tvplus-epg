@@ -1,5 +1,4 @@
 const fs = require("fs")
-
 const axios = require("axios")
 
 const BASE_URL =
@@ -11,11 +10,10 @@ const AUTH_URL =
 const PLAYBILL_URL =
   `${BASE_URL}/PlayBillList`
 
-const PAGE_SIZE = 100
-
 
 function formatDate(date) {
   const year = date.getFullYear()
+
   const month = String(
     date.getMonth() + 1
   ).padStart(2, "0")
@@ -84,14 +82,9 @@ function parseTvPlusTime(value) {
     )
 
   if (match) {
-    const datePart =
-      match[1]
-
-    const timePart =
-      match[2]
-
-    const offset =
-      match[3]
+    const datePart = match[1]
+    const timePart = match[2]
+    const offset = match[3]
 
     const isoOffset =
       `${offset.slice(0, 3)}:${offset.slice(3)}`
@@ -283,41 +276,7 @@ async function getPlaybill(
 }
 
 
-function findChannelName(
-  channelId,
-  apiChannels
-) {
-  const id =
-    String(channelId)
-
-  const found =
-    apiChannels.find(
-      channel =>
-        String(
-          channel?.id ??
-          channel?.channelid ??
-          channel?.channelId ??
-          channel?._id ??
-          ""
-        ) === id
-    )
-
-  if (found) {
-    return (
-      found.channel_name ||
-      found.channelName ||
-      found.name ||
-      id
-    )
-  }
-
-  return id
-}
-
-
-function findChannelXmltvId(
-  channelId
-) {
+function findChannelXmltvId(channelId) {
   const map = {
     "124": "ATV.tr@SD",
     "144": "TRT1.tr@SD",
@@ -407,13 +366,13 @@ async function main() {
     new Date()
 
   /*
-   TV+ EPG:
-   Bugün + sonraki 29 gün = 30 gün
+   BUGÜN + SONRAKİ 2 GÜN
+   TOPLAM 3 GÜN
   */
 
   const days = []
 
-  for (let i = 0; i < 30; i++) {
+  for (let i = 0; i < 3; i++) {
     days.push(
       new Date(
         now.getTime() +
@@ -423,14 +382,10 @@ async function main() {
   }
 
   const allPrograms = []
-
   const channelNames = {}
 
-  const channelXmltvIds = {}
-
   for (
-    const day
-    of days
+    const day of days
   ) {
     const beginTime =
       formatDate(
@@ -466,8 +421,7 @@ async function main() {
       )
 
     for (
-      const channelId
-      of channelIds
+      const channelId of channelIds
     ) {
       try {
         const data =
@@ -499,18 +453,23 @@ async function main() {
             channelId
           ].name
 
-        channelXmltvIds[channelId] =
-          xmltvId
-
         for (
-          const item
-          of items
+          const item of items
         ) {
           if (
             !item ||
             !item.starttime ||
             !item.endtime
           ) {
+            continue
+          }
+
+          const title =
+            String(
+              item.name || ""
+            ).trim()
+
+          if (!title) {
             continue
           }
 
@@ -524,21 +483,9 @@ async function main() {
               item.endtime
             )
 
-          const title =
-            String(
-              item.name || ""
-            ).trim()
-
-          if (!title) {
-            continue
-          }
-
           allPrograms.push({
-            channel:
-              channelId,
-
+            channel: channelId,
             xmltvId,
-
             title,
 
             description:
@@ -563,7 +510,6 @@ async function main() {
               null,
 
             start,
-
             stop
           })
         }
@@ -587,8 +533,7 @@ async function main() {
     new Map()
 
   for (
-    const program
-    of allPrograms
+    const program of allPrograms
   ) {
     const key =
       [
@@ -608,6 +553,12 @@ async function main() {
     Array.from(
       uniquePrograms.values()
     )
+
+  programs.sort(
+    (a, b) =>
+      a.start.getTime() -
+      b.start.getTime()
+  )
 
   const xml = []
 
@@ -629,12 +580,12 @@ async function main() {
     ].sort()
 
   for (
-    const xmltvId
-    of usedIds
+    const xmltvId of usedIds
   ) {
     const program =
       programs.find(
-        p => p.xmltvId === xmltvId
+        p =>
+          p.xmltvId === xmltvId
       )
 
     if (!program) {
@@ -662,15 +613,8 @@ async function main() {
     )
   }
 
-  programs.sort(
-    (a, b) =>
-      a.start.getTime() -
-      b.start.getTime()
-  )
-
   for (
-    const program
-    of programs
+    const program of programs
   ) {
     xml.push(
       `  <programme ` +
@@ -685,9 +629,7 @@ async function main() {
       `</title>`
     )
 
-    if (
-      program.description
-    ) {
+    if (program.description) {
       xml.push(
         `    <desc lang="tr">` +
         `${escapeXml(
@@ -697,21 +639,25 @@ async function main() {
       )
     }
 
-    if (
-      program.category
-    ) {
-      xml.push(
-        `    <category lang="tr">` +
-        `${escapeXml(
-          program.category
-        )}` +
-        `</category>`
-      )
+    if (program.category) {
+      for (
+        const category of
+        program.category.split("/")
+      ) {
+        const value =
+          category.trim()
+
+        if (value) {
+          xml.push(
+            `    <category lang="tr">` +
+            `${escapeXml(value)}` +
+            `</category>`
+          )
+        }
+      }
     }
 
-    if (
-      program.icon
-    ) {
+    if (program.icon) {
       xml.push(
         `    <icon src="${escapeXml(
           program.icon
@@ -719,9 +665,7 @@ async function main() {
       )
     }
 
-    if (
-      program.image
-    ) {
+    if (program.image) {
       xml.push(
         `    <image src="${escapeXml(
           program.image
@@ -761,7 +705,7 @@ async function main() {
   )
 
   console.log(
-    "Gün sayısı: 30"
+    "Gün sayısı: 3"
   )
 
   console.log(
@@ -772,201 +716,55 @@ async function main() {
 
 const CHANNEL_MAP = {
 
-  "2": {
-    name: "A2"
-  },
-
-  "3": {
-    name: "A SPOR"
-  },
-
-  "8": {
-    name: "DISCOVERY CHANNEL"
-  },
-
-  "11": {
-    name: "S SPORT"
-  },
-
-  "18": {
-    name: "NBA TV"
-  },
-
-  "21": {
-    name: "TRT BELGESEL"
-  },
-
-  "30": {
-    name: "TRT HABER"
-  },
-
-  "31": {
-    name: "TRT SPOR"
-  },
-
-  "32": {
-    name: "24"
-  },
-
-  "34": {
-    name: "TGRT HABER"
-  },
-
-  "81": {
-    name: "NTV"
-  },
-
-  "83": {
-    name: "TRT 2"
-  },
-
-  "87": {
-    name: "HABERTÜRK"
-  },
-
-  "88": {
-    name: "KANAL D"
-  },
-
-  "89": {
-    name: "STAR TV"
-  },
-
-  "90": {
-    name: "KANAL 7"
-  },
-
-  "91": {
-    name: "HALK TV"
-  },
-
-  "93": {
-    name: "NOW"
-  },
-
-  "95": {
-    name: "TEVE2"
-  },
-
-  "96": {
-    name: "BLOOMBERG HT"
-  },
-
-  "99": {
-    name: "TRT ÇOCUK"
-  },
-
-  "100": {
-    name: "EKOTÜRK"
-  },
-
-  "101": {
-    name: "A NEWS"
-  },
-
-  "124": {
-    name: "ATV"
-  },
-
-  "129": {
-    name: "SİNEMA TV AKSİYON"
-  },
-
-  "130": {
-    name: "SHOW TV"
-  },
-
-  "134": {
-    name: "TV8"
-  },
-
-  "144": {
-    name: "TRT1"
-  },
-
-  "145": {
-    name: "ÜLKE TV"
-  },
-
-  "153": {
-    name: "DREAM TÜRK"
-  },
-
-  "154": {
-    name: "SİNEMA KOMEDİ"
-  },
-
-  "155": {
-    name: "SİNEMA AİLE"
-  },
-
-  "156": {
-    name: "TRT TÜRK"
-  },
-
-  "158": {
-    name: "CNN TÜRK"
-  },
-
-  "159": {
-    name: "TRT MÜZİK"
-  },
-
-  "160": {
-    name: "A HABER"
-  },
-
-  "166": {
-    name: "SİNEMA TV"
-  },
-
-  "170": {
-    name: "S SPORT 2"
-  },
-
-  "173": {
-    name: "SPORTS TV"
-  },
-
-  "174": {
-    name: "TLC"
-  },
-
-  "179": {
-    name: "TV100"
-  },
-
-  "180": {
-    name: "DMAX"
-  },
-
-  "181": {
-    name: "SİNEMA TV 1001"
-  },
-
-  "188": {
-    name: "TV8,5"
-  },
-
-  "189": {
-    name: "TELE1"
-  },
-
-  "190": {
-    name: "SİNEMA 1002"
-  },
-
-  "193": {
-    name: "TRT AVAZ"
-  },
-
-  "199": {
-    name: "SİNEMA TV 2"
-  },
-
-  "2799": {
-    name: "NATIONAL GEOGRAPHIC"
-  }
+  "2": { name: "A2" },
+  "3": { name: "A SPOR" },
+  "8": { name: "DISCOVERY CHANNEL" },
+  "11": { name: "S SPORT" },
+  "18": { name: "NBA TV" },
+  "21": { name: "TRT BELGESEL" },
+  "30": { name: "TRT HABER" },
+  "31": { name: "TRT SPOR" },
+  "32": { name: "24" },
+  "34": { name: "TGRT HABER" },
+  "81": { name: "NTV" },
+  "83": { name: "TRT 2" },
+  "87": { name: "HABERTÜRK" },
+  "88": { name: "KANAL D" },
+  "89": { name: "STAR TV" },
+  "90": { name: "KANAL 7" },
+  "91": { name: "HALK TV" },
+  "93": { name: "NOW" },
+  "95": { name: "TEVE2" },
+  "96": { name: "BLOOMBERG HT" },
+  "99": { name: "TRT ÇOCUK" },
+  "100": { name: "EKOTÜRK" },
+  "101": { name: "A NEWS" },
+  "124": { name: "ATV" },
+  "129": { name: "SİNEMA TV AKSİYON" },
+  "130": { name: "SHOW TV" },
+  "134": { name: "TV8" },
+  "144": { name: "TRT1" },
+  "145": { name: "ÜLKE TV" },
+  "153": { name: "DREAM TÜRK" },
+  "154": { name: "SİNEMA KOMEDİ" },
+  "155": { name: "SİNEMA AİLE" },
+  "156": { name: "TRT TÜRK" },
+  "158": { name: "CNN TÜRK" },
+  "159": { name: "TRT MÜZİK" },
+  "160": { name: "A HABER" },
+  "166": { name: "SİNEMA TV" },
+  "170": { name: "S SPORT 2" },
+  "173": { name: "SPORTS TV" },
+  "174": { name: "TLC" },
+  "179": { name: "TV100" },
+  "180": { name: "DMAX" },
+  "181": { name: "SİNEMA TV 1001" },
+  "188": { name: "TV8,5" },
+  "189": { name: "TELE1" },
+  "190": { name: "SİNEMA 1002" },
+  "193": { name: "TRT AVAZ" },
+  "199": { name: "SİNEMA TV 2" },
+  "2799": { name: "NATIONAL GEOGRAPHIC" }
 }
 
 
@@ -975,9 +773,7 @@ main().catch(error => {
     "TV+ EPG HATASI:"
   )
 
-  console.error(
-    error
-  )
+  console.error(error)
 
   process.exit(1)
 })
