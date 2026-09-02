@@ -1,0 +1,56 @@
+name: Update TV+ EPG
+
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-tvplus-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository indir
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Node.js kurulumu
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Axios kurulumu
+        run: npm install axios
+
+      - name: TV+ EPG oluştur
+        run: |
+          node generate_tvplus_epg.js
+
+      - name: EPG kontrolü
+        run: |
+          test -f tvplus.xml
+          echo "tvplus.xml oluşturuldu."
+          wc -c tvplus.xml
+
+      - name: EPG'yi kaydet
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add tvplus.xml
+
+          if git diff --cached --quiet; then
+            echo "TV+ EPG değişmemiş."
+            exit 0
+          fi
+
+          git commit -m "Update TV+ EPG"
+
+          git pull --rebase origin main
+
+          git push origin HEAD:main
