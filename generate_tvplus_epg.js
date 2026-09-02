@@ -68,17 +68,6 @@ function escapeXml(value) {
 }
 
 
-/*
- TV+ API tarihleri genellikle şu yapıda gelir:
-
- 2026-09-02 14:40:00 UTC+0000
-
- veya:
-
- 2026-09-02 14:40:00 UTC+0300
-
- Bunları gerçek ISO tarihine çeviriyoruz.
-*/
 function parseTvPlusTime(value) {
   const text =
     String(value || "").trim()
@@ -112,10 +101,6 @@ function parseTvPlusTime(value) {
     )
   }
 
-  /*
-   Bazı cevaplarda doğrudan ISO formatı
-   gelebilir.
-  */
   const parsed =
     new Date(text)
 
@@ -130,18 +115,6 @@ function parseTvPlusTime(value) {
 
 
 function xmltvTime(date) {
-  /*
-   XMLTV'yi UTC olarak yazıyoruz.
-
-   Örnek:
-
-   2026-09-02T14:40:00Z
-
-   ->
-
-   20260902144000 +0000
-  */
-
   const year =
     date.getUTCFullYear()
 
@@ -345,15 +318,6 @@ function findChannelName(
 function findChannelXmltvId(
   channelId
 ) {
-  /*
-   Önce TV+ kanal ID'sine göre bilinen
-   XMLTV ID'lerini kullanıyoruz.
-
-   Buradaki eşleşmeler daha sonra
-   tvplus.com.tr.channels.xml dosyasından
-   otomatik okunacak şekilde genişletilebilir.
-  */
-
   const map = {
     "124": "ATV.tr@SD",
     "144": "TRT1.tr@SD",
@@ -443,30 +407,26 @@ async function main() {
     new Date()
 
   /*
-   TV+ config.js:
-   days: 2
-
-   Bugün + yarın.
+   TV+ EPG:
+   Bugün + sonraki 29 gün = 30 gün
   */
 
-  const days = [
-    new Date(now),
-    new Date(
-      now.getTime() +
-      24 * 60 * 60 * 1000
+  const days = []
+
+  for (let i = 0; i < 30; i++) {
+    days.push(
+      new Date(
+        now.getTime() +
+        i * 24 * 60 * 60 * 1000
+      )
     )
-  ]
+  }
 
   const allPrograms = []
 
   const channelNames = {}
 
   const channelXmltvIds = {}
-
-  /*
-   Kanal listesini API'den alabilmek için
-   bugün için geniş bir aralık sorguluyoruz.
-  */
 
   for (
     const day
@@ -496,29 +456,14 @@ async function main() {
         )
       )
 
-    /*
-     TV+ kanal ID'leri bizim
-     channels.xml dosyamızda biliniyor.
-     
-     API'nin mevcut yapısından program
-     kanallarını öğrenmek için ilk olarak
-     boş channelid isteği yerine hata
-     vermeyen bir istek kullanıyoruz.
-    */
-
     console.log(
       `Gün: ${formatDay(day)}`
     )
 
-    /*
-     TV+ PlayBillList doğrudan kanal ID
-     istediği için channels.xml içerisindeki
-     kanal listesini kullanacağız.
-    */
-
-    let channelIds = Object.keys(
-      CHANNEL_MAP
-    )
+    const channelIds =
+      Object.keys(
+        CHANNEL_MAP
+      )
 
     for (
       const channelId
@@ -550,7 +495,9 @@ async function main() {
           )
 
         channelNames[channelId] =
-          CHANNEL_MAP[channelId].name
+          CHANNEL_MAP[
+            channelId
+          ].name
 
         channelXmltvIds[channelId] =
           xmltvId
@@ -636,10 +583,6 @@ async function main() {
     )
   }
 
-  /*
-   Aynı programları tekrar etmesini önle.
-  */
-
   const uniquePrograms =
     new Map()
 
@@ -666,10 +609,6 @@ async function main() {
       uniquePrograms.values()
     )
 
-  /*
-   XML
-  */
-
   const xml = []
 
   xml.push(
@@ -679,10 +618,6 @@ async function main() {
   xml.push(
     '<tv generator-info-name="TV+ EPG">'
   )
-
-  /*
-   Kanallar
-  */
 
   const usedIds =
     [
@@ -707,7 +642,9 @@ async function main() {
     }
 
     const channelName =
-      channelNames[program.channel] ||
+      channelNames[
+        program.channel
+      ] ||
       program.channel
 
     xml.push(
@@ -724,10 +661,6 @@ async function main() {
       "  </channel>"
     )
   }
-
-  /*
-   Programlar
-  */
 
   programs.sort(
     (a, b) =>
@@ -828,20 +761,14 @@ async function main() {
   )
 
   console.log(
+    "Gün sayısı: 30"
+  )
+
+  console.log(
     "========================================"
   )
 }
 
-
-/*
- TV+ channels.xml'den aldığımız
- kanal ID'leri.
-
- Şimdilik temel kanallar burada.
- Sonraki aşamada elimizdeki
- channels.xml'nin tamamını otomatik
- okumaya geçiririz.
-*/
 
 const CHANNEL_MAP = {
 
