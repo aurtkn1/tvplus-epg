@@ -4747,7 +4747,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260828/16/2204319412925eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260828/58/2204319412915eb9b42e.jpg" />
   </programme>
-  <programme start="20260903120000 +0000" stop="20260903140000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260903120000 +0000" stop="20260903130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Manşet 15</title>
     <desc lang="tr">Manşet 15, gündemin en önemli gelişmelerini ekrana taşıyan bir haber ve yorum programıdır. Siyaset, ekonomi ve toplumsal olaylar uzman konukların değerlendirmeleriyle ele alınır. Günün manşetleri tarafsız ve anlaşılır bir dille izleyiciye sunulur.</desc>
     <category lang="tr">Haber</category>
@@ -5078,6 +5078,13 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260828/66/2204288927245eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260828/64/2204288927235eb78424.jpg" />
+  </programme>
+  <programme start="20260903130000 +0000" stop="20260903150000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Gizem Çetin ile Parantez</title>
+    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260826/30/2305208838525eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260826/26/2305208838515eb9542c.jpg" />
   </programme>
   <programme start="20260903130000 +0000" stop="20260903140000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Finans Merkezi</title>
@@ -5483,13 +5490,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260828/68/2204288937325eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260828/17/2204288937315eb78424.jpg" />
-  </programme>
-  <programme start="20260903140000 +0000" stop="20260903150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260826/30/2305208838525eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260826/26/2305208838515eb9542c.jpg" />
   </programme>
   <programme start="20260903140000 +0000" stop="20260903144500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Kapanışa Doğru</title>
@@ -6574,11 +6574,11 @@ Başarıya ulaşmak, doğru  okul  ve doğru bölümü tercih etmek için Sait G
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260902/90/1305288030155eb8f42a.jpg" />
   </programme>
   <programme start="20260903170000 +0000" stop="20260904030000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Açıkça</title>
-    <desc lang="tr">Açıkça, güncel olaylar, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir şekilde aktarılır, doğru bilgi sağlanır.</desc>
+    <title lang="tr">Sinem Fıstıkoğlu ile Sansürsüz</title>
+    <desc lang="tr">Sinem Fıstıkoğlu ile Sansürsüz, güncel olaylar, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir şekilde sunularak doğru bilgiler aktarılır.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260826/4/2305208848685eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260826/11/2305208848675eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260903/62/1005169022065eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260903/27/1005169012055eb9b42e.jpg" />
   </programme>
   <programme start="20260903170000 +0000" stop="20260903191500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">İllegal Hayatlar: Meclis</title>
