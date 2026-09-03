@@ -15181,7 +15181,7 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260831/17/0700572571015eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260831/63/0700572571005eb7f426.jpg" />
   </programme>
-  <programme start="20260904194000 +0000" stop="20260904232000 +0000" channel="Kanal7.tr@SD">
+  <programme start="20260904194000 +0000" stop="20260904214000 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Fırtınaya Doğru</title>
     <desc lang="tr">Fırtınaya Doğru&apos;da bugün; kusursuz giden varlıklı hayatına düşen gölgeyle sarsılan Sara, kardeşinin kaybıyla intikam peşine düşen Saim&apos;le karşı karşıya geliyor. Sara ve Saim&apos;in yollarının kesişmesi, ikisini de geri dönüşü olmayan bir mücadelenin içine sürüklüyor.</desc>
     <category lang="tr">Dizi</category>
@@ -15609,6 +15609,13 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Çocuk</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260831/7/0700572591415eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260831/36/0700572591405eb7f426.jpg" />
+  </programme>
+  <programme start="20260904214000 +0000" stop="20260904232000 +0000" channel="Kanal7.tr@SD">
+    <title lang="tr">Her Halimle Sev</title>
+    <desc lang="tr">Hayatın farklı yollarında ilerleyen insanların kesişen hikâyeleri, dostluk ve aile bağlarını zorlu bir sınavdan geçiriyor. Geçmişten gelen hesaplar, saklanan gerçekler ve beklenmedik gelişmeler dengeleri değiştiriyor. Sevgi ve sadakatin öne çıktığı bu hikâyede, alınan kararlar herkesin hayatını derinden etkiliyor.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260903/90/2305236528835eb8f42a.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260903/42/2305236528825eb8f42a.jpg" />
   </programme>
   <programme start="20260904214500 +0000" stop="20260904223500 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Savaşın Efsaneleri</title>
