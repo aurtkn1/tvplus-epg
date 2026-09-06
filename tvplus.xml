@@ -11861,14 +11861,14 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260901/1/2204393325865eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260901/35/2204393325855eb88428.jpg" />
   </programme>
-  <programme start="20260907110000 +0000" stop="20260907124500 +0000" channel="HaberturkTV.tr@SD">
+  <programme start="20260907110000 +0000" stop="20260907130000 +0000" channel="HaberturkTV.tr@SD">
     <title lang="tr">Haber Hattı</title>
     <desc lang="tr">Haber sadece duyduğundan, gördüğünden ibaret değil... Öncesini, sonrasını ve perde arkasını da takip etmek gerekir.
 
 Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan ele alarak en doğru şekilde izleyiciye aktarıyor.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260901/97/2204272031425eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260901/34/2204272031415eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260906/60/1400160022705eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260906/1/1400160022695eb78424.jpg" />
   </programme>
   <programme start="20260907110000 +0000" stop="20260907134500 +0000" channel="KanalD.tr@SD">
     <title lang="tr">Gelinim Mutfakta</title>
@@ -12426,13 +12426,6 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260831/93/1206289484915eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202608/20260831/85/1206289484905eb9b42e.jpg" />
-  </programme>
-  <programme start="20260907124500 +0000" stop="20260907130000 +0000" channel="HaberturkTV.tr@SD">
-    <title lang="tr">Spor Bülteni</title>
-    <desc lang="tr">Sporun farklı dallarıyla ilgili en yeni haberler sporseverlerle buluşturuluyor. Özellikle futbol, basketbol, atletizm ve tenis gibi geniş kitleler tarafından takip edilen sporlara yer verilen bülten ekrana geliyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260901/77/2204272031505eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260901/24/2204272031495eb9542c.jpg" />
   </programme>
   <programme start="20260907124500 +0000" stop="20260907160000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Sevdiğim Sensin</title>
