@@ -6446,12 +6446,13 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/67/2204296918425eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/45/2204296918415eb88428.jpg" />
   </programme>
-  <programme start="20260909170000 +0000" stop="20260909213000 +0000" channel="StarTV.tr@SD">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&apos;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+  <programme start="20260909170000 +0000" stop="20260909201500 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Tuzlu Kahve</title>
+    <desc lang="tr">Yıllardır birbirine düşman olan İpekli ve Kutaygil ailelerinin kızları, farkında olmadan aynı ailenin iki oğluyla karşı karşıya gelir. Selin ve Murat evlilik hazırlıkları yaparken, diğer tarafta Murat&apos;ın Amerika&apos;dan yeni dönen abisi Mehmet&apos;in yolu Derin&apos;le kesişir.
+Hakan&apos;la evlenmeye hazırlanan Derin, ihaneti öğrenmesiyle ilişkisini bitirirken, Mehmet&apos;le arasında beklenmedik bir yakınlaşma başlar. Böylece geçmişten gelen büyük bir düşmanlığın ortasında, iki kızın kaderi Aydınoğlu ailesinin iki kardeşiyle birbirine bağlanır.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/67/2204327491415eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/73/2204327491405eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/65/1300169204605eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/40/1300169204595eb7f426.jpg" />
   </programme>
   <programme start="20260909170000 +0000" stop="20260910030000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Kürşad Oğuz ile Rota</title>
@@ -7314,6 +7315,14 @@ Sekiz yılın sonunda zindanın kapısı hiç beklemediği bir anda açılır. K
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/33/2204296877485eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/28/2204296877475eb88428.jpg" />
   </programme>
+  <programme start="20260909201500 +0000" stop="20260909230000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Tuzlu Kahve</title>
+    <desc lang="tr">Yıllardır birbirine düşman olan İpekli ve Kutaygil ailelerinin kızları, farkında olmadan aynı ailenin iki oğluyla karşı karşıya gelir. Selin ve Murat evlilik hazırlıkları yaparken, diğer tarafta Murat&apos;ın Amerika&apos;dan yeni dönen abisi Mehmet&apos;in yolu Derin&apos;le kesişir.
+Hakan&apos;la evlenmeye hazırlanan Derin, ihaneti öğrenmesiyle ilişkisini bitirirken, Mehmet&apos;le arasında beklenmedik bir yakınlaşma başlar. Böylece geçmişten gelen büyük bir düşmanlığın ortasında, iki kızın kaderi Aydınoğlu ailesinin iki kardeşiyle birbirine bağlanır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/97/1300169204685eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/94/1300169204675eb7f426.jpg" />
+  </programme>
   <programme start="20260909201500 +0000" stop="20260909232000 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Fırtınaya Doğru</title>
     <desc lang="tr">Fırtınaya Doğru&apos;da bugün; kusursuz giden varlıklı hayatına düşen gölgeyle sarsılan Sara, kardeşinin kaybıyla intikam peşine düşen Saim&apos;le karşı karşıya geliyor. Sara ve Saim&apos;in yollarının kesişmesi, ikisini de geri dönüşü olmayan bir mücadelenin içine sürüklüyor.</desc>
@@ -7622,13 +7631,6 @@ Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaş�
     <category lang="tr">Kültür &amp; Sanat</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/29/2204354443495eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/36/2204354443485eb9542c.jpg" />
-  </programme>
-  <programme start="20260909213000 +0000" stop="20260910000000 +0000" channel="StarTV.tr@SD">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&apos;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/81/2204327501495eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/39/2204327501485eb9b42e.jpg" />
   </programme>
   <programme start="20260909213000 +0000" stop="20260910010000 +0000" channel="TV100.tr@SD">
     <title lang="tr">Buket Aydın ile Doğrudan</title>
@@ -7994,6 +7996,13 @@ Sekiz yılın sonunda zindanın kapısı hiç beklemediği bir anda açılır. K
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/35/2204296918505eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/70/2204296918495eb88428.jpg" />
   </programme>
+  <programme start="20260909230000 +0000" stop="20260910003000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Sultan</title>
+    <desc lang="tr">Gecekondu semtinde yaşayan, civar evlere temizliğe giden dört çocuklu dul bir kadındır Sultan. Gönlünü minibüs şoförü Kemal&apos;e kaptırır. Kemal&apos;in muhtar babası, çevre yolu yapımı nedeniyle üzerinde gecekondu bulunan arsalara göz dikmiştir. Oysa bu arsalar vaktiyle muhtar tarafından satılmıştır. Değerinin yükseleceğini bildiği arsaları ucuz paralarla geri alıp gecekonducuları evlerinden çıkarmaktadır. Üç kağıtçı muhtara karşı toplu bir direniş başlar.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/69/1300169214765eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/89/1300169214755eb7f426.jpg" />
+  </programme>
   <programme start="20260909230000 +0000" stop="20260909233000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Maden Ve İnsan</title>
     <desc lang="tr">Maden ve İnsan, madencilik faaliyetleri, doğal kaynakların ekonomiye katkısı ve sürdürülebilir madencilik uygulamalarını ele alan bir programdır. Uzman görüşleriyle sektörün gelişmeleri, üretim süreçleri ve madenlerin yaşamımızdaki yeri izleyicilere aktarılır.</desc>
@@ -8211,15 +8220,6 @@ Programı gönderen arkadaşı olayın hemen arkasından gizemli bir uçak kazas
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/69/2204354473735eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/82/2204354473725eb9542c.jpg" />
   </programme>
-  <programme start="20260910000000 +0000" stop="20260910020000 +0000" channel="StarTV.tr@SD">
-    <title lang="tr">Güzel Köylü</title>
-    <desc lang="tr">Gül, evlilik hazırlığı yaptığı sevgilisi Kaan’ın ihanetine uğradığını düşünmektedir. Dünyası yıkılan Gül’e aynı gün Güzel Köy’den İstanbul’a gelen Cemal tarafından bir mektup getirilir. Gül mektubu okuyunca Muğla Güzelköy’de yaşayan ve babaannesi olduğu iddia edilen bir kadından, Sultan Ana’nın varlığından haberdar olur. Zaten İstanbul’dan kaçıp gitmek isteyen Gül’de, Cemal’in getirdiği mektup rehber olur. 
-
-Tam bir kentli olarak yetişmiş olan Gül, köye geldiğinde kendisini yeni bir kaosun içerisinde bulur.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260904/47/2204279421195eb7f426.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260904/4/2204279421185eb7f426.jpg" />
-  </programme>
   <programme start="20260910000000 +0000" stop="20260910010000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Gün Sonu</title>
     <desc lang="tr">Yurt içi ve küresel piyasaların gün sonu performansı ve yarına dair beklentiler bu programda ele alınır. Öne çıkan gelişmeler, konuşulan başlıklar ve uzman yorumlarıyla birlikte piyasa görünümü izleyiciye kapsamlı biçimde sunulur.</desc>
@@ -8361,6 +8361,15 @@ Hayallerinin peşinden koşarak birçok başarılı icada imza atan amcaoğullar
     <category lang="tr">Kültür &amp; Sanat</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/59/2204354473815eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/90/2204354473805eb9542c.jpg" />
+  </programme>
+  <programme start="20260910003000 +0000" stop="20260910020000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Güzel Köylü</title>
+    <desc lang="tr">Gül, evlilik hazırlığı yaptığı sevgilisi Kaan’ın ihanetine uğradığını düşünmektedir. Dünyası yıkılan Gül’e aynı gün Güzel Köy’den İstanbul’a gelen Cemal tarafından bir mektup getirilir. Gül mektubu okuyunca Muğla Güzelköy’de yaşayan ve babaannesi olduğu iddia edilen bir kadından, Sultan Ana’nın varlığından haberdar olur. Zaten İstanbul’dan kaçıp gitmek isteyen Gül’de, Cemal’in getirdiği mektup rehber olur. 
+
+Tam bir kentli olarak yetişmiş olan Gül, köye geldiğinde kendisini yeni bir kaosun içerisinde bulur.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/13/1300169214845eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/65/1300169214835eb7f426.jpg" />
   </programme>
   <programme start="20260910003000 +0000" stop="20260910014500 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Kanıt</title>
@@ -14270,10 +14279,11 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
   </programme>
   <programme start="20260910170000 +0000" stop="20260910213000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Sevdiğim Sensin</title>
-    <desc lang="tr">Bir dağ kulübesinde doğup büyüyen Dicle, acımasız abilerinin baskısı yüzünden adeta tutsak bir hayat sürmektedir. Annesiyle yaşadığı kulübenin bahçesinden öteye hiç çıkmamış, dünyaya çok yabancı kalmıştır. Bir gün bölgede yaşanan deprem nedeniyle yolu, İstanbul&apos;daki konforlu hayatını geride bırakıp vicdan borcuyla askerliğini yapan Erkan&apos;la kesişir. Kader, Dicle ve Erkan&apos;ın yolunu dökülen kanla bağlar ve Erkan, Dicle&apos;yi töre cinayetinden korumak için onunla evlenmek zorunda kalır. Dicle, saf kalbiyle bu evliliği gerçek sanırken, Erkan&apos;ı askerden dönüşünde ailesinin planladığı başka bir evlilik beklemektedir.</desc>
+    <desc lang="tr">Erkan, Ferman&apos;ın vurulmasını üstlenerek tutuklanır ve İstanbul&apos;da mahkemeye çıkarılır. Ancak Dicle&apos;nin önünde çözmesi gereken çok daha büyük sorunlar vardır. Ferman&apos;ın durumu kritiktir ve hayatta kalabilmesi için acilen böbrek nakline ihtiyacı vardır. Bu nedenle Ferman da İstanbul&apos;a getirilirken, Erkan&apos;ın tutuklu yargılanmasına karar verilmesiyle tüm dikkatler Ferman&apos;ın hayatta kalıp kalamayacağına çevrilir.
+Erkan&apos;ın tutuklanması, Aldur ailesini de büyük bir mücadelenin içine sürükler. Ferman&apos;ı İstanbul&apos;daki bir hastaneye nakleden aile, uygun böbrek donörünü bulabilmek için tüm imkânlarını seferber eder.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/17/2204327511815eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/28/2204327511805eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/63/1300169214925eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/70/1300169214915eb7f426.jpg" />
   </programme>
   <programme start="20260910170000 +0000" stop="20260911030000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Açıkça</title>
