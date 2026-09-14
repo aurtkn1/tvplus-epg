@@ -6295,7 +6295,7 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/23/1000171382175eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/42/1000171382165eb78424.jpg" />
   </programme>
-  <programme start="20260914170000 +0000" stop="20260915040000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260914170000 +0000" stop="20260915030000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Kürşad Oğuz ile Rota</title>
     <desc lang="tr">Deneyimli gazeteci Kürşad Oğuz, güncel gelişmeleri tarafsız ve cesur bir bakış açısıyla tartışırken, alanında uzman konuklar da yorumlarıyla tartışmalara katkı sağlıyor.</desc>
     <category lang="tr">Haber</category>
@@ -8851,6 +8851,13 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/45/2204265269975eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/48/2204265269965eb78424.jpg" />
   </programme>
+  <programme start="20260915030000 +0000" stop="20260915040000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Günaydın Türkiye</title>
+    <desc lang="tr">Günaydın Türkiye, günün öne çıkan haberlerini, politika ve toplumsal gelişmeleri ele alan bilgilendirici programdır. Uzman yorumları ve analizlerle desteklenen içerikler, izleyiciye olayları farklı açılardan değerlendirme ve bilinçli bir bakış kazandırır. Program gündemi tarafsız ve anlaşılır bir dille sunar.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/34/2305180980545eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/34/2305180980535eb78424.jpg" />
+  </programme>
   <programme start="20260915030000 +0000" stop="20260915041500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Şahane Hayatım</title>
     <desc lang="tr">Derin uçurumların ve ayrıcalıklı insanların dünyasında başarılı, burslu, matematik şampiyonu bir genç kız Etrafını sarmış ilgisizliğe, sevgisizliğe, hoyratlığa rağmen hayallerini ayakta tutmaya çalışıyor. Hayatın her hücresine işlemiş adaletsizlik ise onu çok büyük bir seçim yapmaya ve haydut olmaya zorluyor.</desc>
@@ -9341,11 +9348,9 @@ Bu sırada Civan bir düğünün yemeklerini yapmak üzere İstanbul yoluna dü�
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/49/1105353352585eb78424.jpg" />
   </programme>
   <programme start="20260915040000 +0000" stop="20260915050000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Günaydın Türkiye</title>
-    <desc lang="tr">Günaydın Türkiye, günün öne çıkan haberlerini, politika ve toplumsal gelişmeleri ele alan bilgilendirici programdır. Uzman yorumları ve analizlerle desteklenen içerikler, izleyiciye olayları farklı açılardan değerlendirme ve bilinçli bir bakış kazandırır. Program gündemi tarafsız ve anlaşılır bir dille sunar.</desc>
+    <title lang="tr">Deniz Bayramoğlu İle Gün Doğarken</title>
+    <desc lang="tr">Gün yeni başlıyor, gündem hızla değişiyor. Deniz Bayramoğlu ile Gün Doğarken, Türkiye&apos;den ve dünyadan öne çıkan gelişmeleri, gündemin perde arkasını ve hayatın içinden hikâyeleri samimi bir anlatımla ekrana taşıyor. Güne doğru bilgiler, güçlü yorumlar ve keyifli sohbetlerle başlayın.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/34/2305180980545eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/34/2305180980535eb78424.jpg" />
   </programme>
   <programme start="20260915040000 +0000" stop="20260915051500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">İlk Söz</title>
