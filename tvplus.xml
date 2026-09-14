@@ -6733,7 +6733,7 @@ Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/54/2204587233865eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/85/2204587233855eb78424.jpg" />
   </programme>
-  <programme start="20260914184500 +0000" stop="20260915040000 +0000" channel="SSport2.tr@SD">
+  <programme start="20260914184500 +0000" stop="20260914210000 +0000" channel="SSport2.tr@SD">
     <title lang="tr">Inter - Udinese</title>
     <desc lang="tr">İtalya Serie A 4. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
@@ -6772,6 +6772,13 @@ Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini 
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/69/2204301903455eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/14/2204301903445eb9542c.jpg" />
+  </programme>
+  <programme start="20260914190000 +0000" stop="20260914210000 +0000" channel="SSport.tr@SD">
+    <title lang="tr">Villareal - Real Betis</title>
+    <desc lang="tr">La Liga 5. Hafta Maçı</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/14/0841101166895eb88428.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/55/0841101166885eb88428.webp" />
   </programme>
   <programme start="20260914190000 +0000" stop="20260914203000 +0000" channel="TRTSpor.tr@SD">
     <title lang="tr">Stadyum</title>
@@ -7252,6 +7259,13 @@ Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/10/2204262248455eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/73/2204262248445eb78424.jpg" />
   </programme>
+  <programme start="20260914210000 +0000" stop="20260914230000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">NBA</title>
+    <desc lang="tr">Sezon Maçları</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/81/0841123150035eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/0/0841123150025eb9542c.jpg" />
+  </programme>
   <programme start="20260914210000 +0000" stop="20260914231500 +0000" channel="Sinema1001.tr@SD">
     <title lang="tr">Parazit</title>
     <desc lang="tr">Kim-woo Kim, Güney Kore&apos;deki isimsiz bir şehrin kenar mahallesinde ailesi ile beraber yoksulluk içinde yaşamaktadır. Bir gün Kim-woo&apos;nun varlıklı arkadaşı Min-hyuk, aileyi ziyarete gelir ve hediye olarak elinde bulundurana şans ve zenginlik getirdiğine inanılan bir taş getirir. Aynı zamanda ailenin kızı Ki-jung&apos;a aşık olan Min-hyuk, onu üniversitede başka erkeklerden uzak tutması için Kim-woo ile anlaşır. Bir iş görüşmesine de yönlendirilen Kim-woo ve ailesinin hayatı değişmek üzeredir. Parasite, birbirlerine benzeyen ama farklı görünen iki ailenin aracılığı ile günümüz insanlarının nasıl yaşadığını konu almaktadır.</desc>
@@ -7716,6 +7730,13 @@ Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/88/2204293081665eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/53/2204293081655eb7f426.jpg" />
   </programme>
+  <programme start="20260914230000 +0000" stop="20260915010000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Euroleague</title>
+    <desc lang="tr">Sezon Maçları</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/17/0841123150115eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/88/0841123150105eb9542c.jpg" />
+  </programme>
   <programme start="20260914230500 +0000" stop="20260914233000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Ege ile Gaga</title>
     <desc lang="tr">Gizemlerin peşini bırakmayan bir çocuk ve maceracı bir karga. Doğa dedektifleri işbaşında. Bu meraklı ikilinin heyecan dolu serüvenine katılmaya hazır olun!</desc>
@@ -8179,6 +8200,13 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/0/2204407168255eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/97/2204407168245eb8f42a.jpg" />
   </programme>
+  <programme start="20260915010000 +0000" stop="20260915020000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Moto 3</title>
+    <desc lang="tr">San Marino</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/56/0841123160195eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/70/0841123160185eb9542c.jpg" />
+  </programme>
   <programme start="20260915010000 +0000" stop="20260915020000 +0000" channel="TV100.tr@SD">
     <title lang="tr">Haber Bülteni</title>
     <desc lang="tr">Siyaset, ekonomi, spor ve daha birçok alanda yaşanan olaylar, öne çıkan gelişmeler, saat başlarında yayınlanan haber bültenleriyle ekranlara taşınıyor.</desc>
@@ -8509,6 +8537,13 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/11/2204293091825eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/65/2204293091815eb7f426.jpg" />
+  </programme>
+  <programme start="20260915020000 +0000" stop="20260915040000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/2/0841123160275eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/73/0841123160265eb9542c.jpg" />
   </programme>
   <programme start="20260915020000 +0000" stop="20260915030000 +0000" channel="TV100.tr@SD">
     <title lang="tr">Gün&apos;den Kalan</title>
@@ -9310,12 +9345,12 @@ Bu sırada Civan bir düğünün yemeklerini yapmak üzere İstanbul yoluna dü�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/51/2204293102065eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/82/2204293102055eb7f426.jpg" />
   </programme>
-  <programme start="20260915040000 +0000" stop="20260916040000 +0000" channel="SSport2.tr@SD">
-    <title lang="tr">İtalya Serie A</title>
-    <desc lang="tr">Geniş Özetler</desc>
+  <programme start="20260915040000 +0000" stop="20260915060000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Euroleague</title>
+    <desc lang="tr">Sezon Maçları</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/48/2204178708485eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/82/2204178708475eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/7/0841123160355eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/13/0841123160345eb9542c.jpg" />
   </programme>
   <programme start="20260915040000 +0000" stop="20260915043000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Emlak Avcıları Amerika</title>
@@ -9922,6 +9957,13 @@ Selma, İstanbul’da Mihran’ı bulur. Böylece sadece Selma ve Mihran’ın d
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/13/2204293112385eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/47/2204293112375eb7f426.jpg" />
   </programme>
+  <programme start="20260915060000 +0000" stop="20260915070000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Moto 2</title>
+    <desc lang="tr">San Marino</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/30/0841123160435eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/82/0841123160425eb9542c.jpg" />
+  </programme>
   <programme start="20260915060000 +0000" stop="20260915062000 +0000" channel="SportsTV.tr@SD">
     <title lang="tr">Dinamik Sabahlar</title>
     <desc lang="tr">Dinamik Sabahlar, günün öne çıkan spor gündemini, maç analizlerini ve kulislerden yansıyan gelişmeleri ekrana taşıyor. Futboldan basketbola uzanan içerik, izleyiciye tempolu bir sabah yayını sunuyor ve gün içi programlara güçlü bir başlangıç sağlıyor sabah enerjisi veriyor.</desc>
@@ -10269,6 +10311,13 @@ Ayrıca sosyal sorumluluk projelerine yer veriliyor. Özellikle kadın sağlığ
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/44/2204293122545eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/82/2204293122535eb7f426.jpg" />
+  </programme>
+  <programme start="20260915070000 +0000" stop="20260915090000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Como - Parma</title>
+    <desc lang="tr">İtalya Serie A</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/93/0841123170515eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/19/0841123170505eb9542c.jpg" />
   </programme>
   <programme start="20260915070000 +0000" stop="20260915100000 +0000" channel="TV100.tr@SD">
     <title lang="tr">Günün Rotası</title>
@@ -11005,6 +11054,12 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/62/2204293142865eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/92/2204293142855eb7f426.jpg" />
   </programme>
+  <programme start="20260915090000 +0000" stop="20260915093000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Inside Sailing</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/77/0841123170595eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/57/0841123170585eb9542c.jpg" />
+  </programme>
   <programme start="20260915090000 +0000" stop="20260915100000 +0000" channel="SportsTV.tr@SD">
     <title lang="tr">Reaction Sports</title>
     <desc lang="tr">Maç özetleri, kritik anlar ve önemli gelişmeler ekranınıza geliyor. Spor tutkunları için hazırlanan bu programda takım performansları, stratejiler ve oyuncu analizleri tüm detaylarıyla izleyiciye aktarılıyor. Haftanın en çarpıcı karşılaşmaları, öne çıkan sporcular ve önemli lig gelişmeleri ekranlara taşınıyor,</desc>
@@ -11169,6 +11224,13 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Gün Or
     <category lang="tr">Film</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/88/2204203089325eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/62/2204203089315eb88428.jpg" />
+  </programme>
+  <programme start="20260915093000 +0000" stop="20260915113000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">NBA</title>
+    <desc lang="tr">Sezon Maçları</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/23/0841123180675eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/42/0841123180665eb9542c.jpg" />
   </programme>
   <programme start="20260915093000 +0000" stop="20260915100000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Ada Avcıları</title>
@@ -11935,6 +11997,13 @@ Maç öncesi rakiplerini yakından tanımak isteyen gençler, kendilerini İstan
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/88/0600186042935eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/67/0600186042925eb78424.jpg" />
   </programme>
+  <programme start="20260915113000 +0000" stop="20260915123000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">İspanya Laliga</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/54/0841123180755eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/34/0841123180745eb9542c.jpg" />
+  </programme>
   <programme start="20260915113000 +0000" stop="20260915120000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Ada Avcıları</title>
     <desc lang="tr">Sunucu Chris Krolow potansiyel alıcılarla birlikte tropik yazlıkların kralını arıyor, hedefleri ise özel adada bir malikane!</desc>
@@ -12298,6 +12367,13 @@ Kuzey, yıllar önce binbir umutla geldiği ve hayallerini, en güzel günlerini
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/21/0600247572325eb9b42e.jpg" />
   </programme>
+  <programme start="20260915123000 +0000" stop="20260915133000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Moto 3</title>
+    <desc lang="tr">San Marino</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/9/0841123190835eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/85/0841123190825eb9542c.jpg" />
+  </programme>
   <programme start="20260915123000 +0000" stop="20260915133000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Görevimiz Şato</title>
     <desc lang="tr">Daphne ve Ian düğün etkinliklerini arttırmak için tuvaletleri lüks banyolara dönüştürür. Ormandaki gizli köprü Rönesans tarzı fresklere ilham olur.</desc>
@@ -12621,6 +12697,13 @@ Murat&apos;ın kayboluşunun ardından Murat&apos;ın memleketi Halfeti&apos;ye 
     <category lang="tr">Müzik</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/89/0600186043145eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/4/0600186043135eb78424.jpg" />
+  </programme>
+  <programme start="20260915133000 +0000" stop="20260915153000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">İtalya Serie A</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/13/0841123190915eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/80/0841123190905eb9542c.jpg" />
   </programme>
   <programme start="20260915133000 +0000" stop="20260915140000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Karayip Evleri</title>
@@ -13334,6 +13417,13 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/89/2204407383135eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/76/2204407383125eb8f42a.jpg" />
   </programme>
+  <programme start="20260915153000 +0000" stop="20260915173000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Euroleague</title>
+    <desc lang="tr">Sezon Maçları</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/62/0841123190995eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/83/0841123190985eb9542c.jpg" />
+  </programme>
   <programme start="20260915153000 +0000" stop="20260915163000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Ya Sev Ya Sat Kanada</title>
     <desc lang="tr">Joyce ve Steven&apos;ın geniş evinin büyük sorunları var. İç mimar Jillian Harris ve emlakçı Todd Talbot,  evin planını değiştirmekle taşınmak arasında karar vermelerine yardımcı olur.</desc>
@@ -13800,8 +13890,8 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <title lang="tr">Rayo Vallecano - Espanyol</title>
     <desc lang="tr">İspanya Laliga 6. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/49/0800197315295eb88428.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/90/0800197315285eb88428.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/86/0841101176985eb88428.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/40/0841101176975eb88428.webp" />
   </programme>
   <programme start="20260915170000 +0000" stop="20260915174500 +0000" channel="TRTHaber.tr@SD">
     <title lang="tr">Ana Haber 20</title>
@@ -14063,6 +14153,12 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/90/0600247582645eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/30/0600247582635eb9b42e.jpg" />
   </programme>
+  <programme start="20260915173000 +0000" stop="20260915180000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">World Of Free Sports</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/71/0841123191075eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/16/0841123191065eb9542c.jpg" />
+  </programme>
   <programme start="20260915174500 +0000" stop="20260915200000 +0000" channel="TRTHaber.tr@SD">
     <title lang="tr">Birinci Sayfa</title>
     <desc lang="tr">Gündeme dair önemli başlıklar, muhabir bağlantıları, alanında uzman konuklarla mercek altına alınıyor.</desc>
@@ -14195,6 +14291,13 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <desc lang="tr">Türk sanat müziğinin sevilen sesi Aslı Hünel&apos;in yorumu ve sunumuyla ekrana gelen programda, sürpriz konuklarla en sevilen eserler icra ediliyor, müziğe dair keyifli sohbetler yapılıyor.</desc>
     <category lang="tr">Diğer</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/12/0600186063485eb78424.jpg" />
+  </programme>
+  <programme start="20260915180000 +0000" stop="20260915200000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Alaves - Valencia</title>
+    <desc lang="tr">İspanya Laliga 6. Hafta Maçı</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/95/0841123201155eb9542c.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/6/0841123201145eb9542c.webp" />
   </programme>
   <programme start="20260915180000 +0000" stop="20260915190000 +0000" channel="Tele1.tr@SD">
     <title lang="tr">Yılanların Öcü - Özel</title>
@@ -14455,8 +14558,8 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <title lang="tr">Elche - Real Madrid</title>
     <desc lang="tr">İspanya Laliga 6. Hafta Maçı</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/16/0800197315455eb88428.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/50/0800197315445eb88428.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/8/0841101177055eb88428.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/11/0841101177045eb88428.webp" />
   </programme>
   <programme start="20260915193000 +0000" stop="20260915203000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Çiftlik Hayatı Zordur</title>
@@ -14596,6 +14699,13 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/0/2305245394545eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/30/2305245394535eb78424.jpg" />
+  </programme>
+  <programme start="20260915200000 +0000" stop="20260915210000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">Almanya Bundesliga</title>
+    <desc lang="tr">Geniş Özetler</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/38/0841123201245eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/57/0841123201235eb9542c.jpg" />
   </programme>
   <programme start="20260915200000 +0000" stop="20260916040000 +0000" channel="Tele1.tr@SD">
     <title lang="tr">Yılanların Öcü</title>
