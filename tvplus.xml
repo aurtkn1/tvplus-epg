@@ -9347,7 +9347,7 @@ Bu sırada Civan bir düğünün yemeklerini yapmak üzere İstanbul yoluna dü�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/93/1105353352595eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/49/1105353352585eb78424.jpg" />
   </programme>
-  <programme start="20260915040000 +0000" stop="20260915050000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260915040000 +0000" stop="20260915070000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Deniz Bayramoğlu İle Gün Doğarken</title>
     <desc lang="tr">Gün yeni başlıyor, gündem hızla değişiyor. Deniz Bayramoğlu ile Gün Doğarken, Türkiye&apos;den ve dünyadan öne çıkan gelişmeleri, gündemin perde arkasını ve hayatın içinden hikâyeleri samimi bir anlatımla ekrana taşıyor. Güne doğru bilgiler, güçlü yorumlar ve keyifli sohbetlerle başlayın.</desc>
     <category lang="tr">Haber</category>
@@ -9675,13 +9675,6 @@ Ali ise zengin bir ailenin oğludur. Öğretmenlik eğitimi alan Ali, Kınalı K
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/45/1105353352675eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/36/1105353352665eb78424.jpg" />
-  </programme>
-  <programme start="20260915050000 +0000" stop="20260915080000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Ebru Baki İle Para Siyaset</title>
-    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/27/2305180980625eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/98/2305180980615eb78424.jpg" />
   </programme>
   <programme start="20260915050000 +0000" stop="20260915074500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">İlker Karagöz İle Çalar Saat Hafta Sonu</title>
@@ -10338,6 +10331,13 @@ Selma, İstanbul’da Mihran’ı bulur. Böylece sadece Selma ve Mihran’ın d
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/11/1105353362755eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/21/1105353352745eb78424.jpg" />
   </programme>
+  <programme start="20260915070000 +0000" stop="20260915100000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Ebru Baki İle Para Siyaset</title>
+    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/27/2305180980625eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/98/2305180980615eb78424.jpg" />
+  </programme>
   <programme start="20260915070000 +0000" stop="20260915072500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
     <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
@@ -10692,13 +10692,6 @@ Bunların yanı sıra Çağla Şıkel; hayatınızı kolaylaştıracak, bütçe 
     <category lang="tr">Kültür &amp; Sanat</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/6/2204347991725eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/68/2204347991715eb78424.jpg" />
-  </programme>
-  <programme start="20260915080000 +0000" stop="20260915100000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Mehmet Tezkan ile Neden Sonuç</title>
-    <desc lang="tr">Güncel gelişmeler, toplumsal ve siyasi konuları ele alan bilgilendirici bir programdır. Mehmet Tezkan&apos;ın sunumuyla ekrana gelen programda uzman konuklar analiz ve yorumlarla gündemi tartışır. İzleyici olayları daha iyi anlar, farklı bakış açıları kazanır bilinçli perspektif elde eder.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/8/2305180990705eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/81/2305180990695eb78424.jpg" />
   </programme>
   <programme start="20260915080000 +0000" stop="20260915100000 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Hanımın Çiftliği</title>
@@ -11458,7 +11451,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/29/2204348011965eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/31/2204348011955eb78424.jpg" />
   </programme>
-  <programme start="20260915100000 +0000" stop="20260915120000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260915100000 +0000" stop="20260915130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Haber Masası</title>
     <desc lang="tr">Günün en önemli gelişmelerini tarafsız bir bakış açısıyla ekrana taşıyan bir haber programıdır. Siyasetten ekonomiye, dünyadan ülke gündemine uzanan geniş içerik yelpazesiyle izleyiciyi bilgilendirir. Uzman konuklar ve canlı bağlantılarla gündem derinlemesine analiz edilir.</desc>
     <category lang="tr">Haber</category>
@@ -12221,13 +12214,6 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/53/2204221566945eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/73/2204221556935eb9b42e.jpg" />
   </programme>
-  <programme start="20260915120000 +0000" stop="20260915140000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Manşet 15</title>
-    <desc lang="tr">Manşet 15, gündemin en önemli gelişmelerini ekrana taşıyan bir haber ve yorum programıdır. Siyaset, ekonomi ve toplumsal olaylar uzman konukların değerlendirmeleriyle ele alınır. Günün manşetleri tarafsız ve anlaşılır bir dille izleyiciye sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/69/2305181000865eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/76/2305181000855eb78424.jpg" />
-  </programme>
   <programme start="20260915120000 +0000" stop="20260915121500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Bing</title>
     <desc lang="tr">Bing ve arkadaşlarıyla her gün yeni bir macera! Oyunlar, küçük sürprizler ve günlük yaşamın tatlı zorlukları arasında Bing; duygularını tanımayı, paylaşmayı ve sorunlarla baş etmeyi öğreniyor. Haydi, Bing&apos;le birlikte keşfedelim!</desc>
@@ -12564,6 +12550,13 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/29/1105353362995eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/48/1105353362985eb78424.jpg" />
+  </programme>
+  <programme start="20260915130000 +0000" stop="20260915150000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Gizem Çetin ile Parantez</title>
+    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/98/2305181000945eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/1/2305181000935eb78424.jpg" />
   </programme>
   <programme start="20260915130000 +0000" stop="20260915140000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Finans Merkezi</title>
@@ -12939,13 +12932,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/1/2204265290615eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/46/2204265290605eb78424.jpg" />
-  </programme>
-  <programme start="20260915140000 +0000" stop="20260915150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/98/2305181000945eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/1/2305181000935eb78424.jpg" />
   </programme>
   <programme start="20260915140000 +0000" stop="20260915144500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Kapanışa Doğru</title>
@@ -14003,11 +13989,11 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/95/1500169603875eb9542c.jpg" />
   </programme>
   <programme start="20260915170000 +0000" stop="20260916030000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Bilge Yurtdagülen ile Gündem Özel</title>
-    <desc lang="tr">İzleyicilere güncel haberleri ve toplumsal gelişmeleri derinlemesine analiz ederek sunan bir programdır. Olayların arka planı, nedenleri ve olası etkileri ele alınır. Bilge Yurtdağülen, anlaşılır ve tarafsız sunumuyla alanında uzman konuklarla farklı bakış açıları sunar.</desc>
+    <title lang="tr">Sinem Fıstıkoğlu ile Sansürsüz</title>
+    <desc lang="tr">Sinem Fıstıkoğlu ile Sansürsüz, gündemin en sıcak konularını özgürce ve sansürsüz bir biçimde ele alıyor. Siyaset, toplumsal olaylar, kültür ve medyanın güncel meseleleri, deneyimli sunucuların cesur yorumları ve canlı tartışmalarla masaya yatırılıyor. Program, tarafsızlık ve özgürlük temelinde izleyiciye farklı perspektifler sunarken, samimi ve açık söyleşi atmosferi yaratıyor.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/91/2305181001105eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260907/41/2305181001095eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/75/1905341570115eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/82/1905341570105eb7f426.jpg" />
   </programme>
   <programme start="20260915170000 +0000" stop="20260915191500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Kutsal Damacana 4</title>
@@ -16153,7 +16139,7 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/83/2204262512965eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/20/2204262512945eb9b42e.jpg" />
   </programme>
-  <programme start="20260916030000 +0000" stop="20260916050000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260916030000 +0000" stop="20260916040000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Günaydın Türkiye</title>
     <desc lang="tr">Günaydın Türkiye, günün öne çıkan haberlerini, politika ve toplumsal gelişmeleri ele alan bilgilendirici programdır. Uzman yorumları ve analizlerle desteklenen içerikler, izleyiciye olayları farklı açılardan değerlendirme ve bilinçli bir bakış kazandırır. Program gündemi tarafsız ve anlaşılır bir dille sunar.</desc>
     <category lang="tr">Haber</category>
@@ -16475,6 +16461,11 @@ Bu sırada Civan bir düğünün yemeklerini yapmak üzere İstanbul yoluna dü�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/20/1105353383315eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/36/1105353383305eb78424.jpg" />
   </programme>
+  <programme start="20260916040000 +0000" stop="20260916070000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Deniz Bayramoğlu İle Gün Doğarken</title>
+    <desc lang="tr">Gün yeni başlıyor, gündem hızla değişiyor. Deniz Bayramoğlu ile Gün Doğarken, Türkiye&apos;den ve dünyadan öne çıkan gelişmeleri, gündemin perde arkasını ve hayatın içinden hikâyeleri samimi bir anlatımla ekrana taşıyor. Güne doğru bilgiler, güçlü yorumlar ve keyifli sohbetlerle başlayın.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260916040000 +0000" stop="20260916051500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">İlk Söz</title>
     <desc lang="tr">Türkiye&apos;de piyasalar açılmadan küresel ekonomideki dinamiklerin yansımaları... Zeynep Erataman her sabah konuklarıyla güne merhaba diyor.</desc>
@@ -16679,13 +16670,6 @@ Ali ise zengin bir ailenin oğludur. Öğretmenlik eğitimi alan Ali, Kınalı K
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/96/1105353383395eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/91/1105353383385eb78424.jpg" />
-  </programme>
-  <programme start="20260916050000 +0000" stop="20260916080000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Ebru Baki İle Para Siyaset</title>
-    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/13/2305196305445eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/20/2305196305435eb9b42e.jpg" />
   </programme>
   <programme start="20260916050000 +0000" stop="20260916074500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">İlker Karagöz İle Çalar Saat Hafta Sonu</title>
@@ -17145,6 +17129,13 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/46/1105353393475eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/4/1105353383465eb78424.jpg" />
   </programme>
+  <programme start="20260916070000 +0000" stop="20260916100000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Ebru Baki İle Para Siyaset</title>
+    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/13/2305196305445eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/20/2305196305435eb9b42e.jpg" />
+  </programme>
   <programme start="20260916070000 +0000" stop="20260916072500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
     <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
@@ -17382,13 +17373,6 @@ Bunların yanı sıra Çağla Şıkel; hayatınızı kolaylaştıracak, bütçe 
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/2/2204383966675eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/23/2204383966665eb9542c.jpg" />
-  </programme>
-  <programme start="20260916080000 +0000" stop="20260916100000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Mehmet Tezkan ile Neden Sonuç</title>
-    <desc lang="tr">Güncel gelişmeler, toplumsal ve siyasi konuları ele alan bilgilendirici bir programdır. Mehmet Tezkan&apos;ın sunumuyla ekrana gelen programda uzman konuklar analiz ve yorumlarla gündemi tartışır. İzleyici olayları daha iyi anlar, farklı bakış açıları kazanır bilinçli perspektif elde eder.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/6/2305196305525eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/73/2305196305515eb9b42e.jpg" />
   </programme>
   <programme start="20260916080000 +0000" stop="20260916100000 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Hanımın Çiftliği</title>
@@ -17962,7 +17946,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/55/2204383997445eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/92/2204383997435eb9542c.jpg" />
   </programme>
-  <programme start="20260916100000 +0000" stop="20260916120000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260916100000 +0000" stop="20260916130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Haber Masası</title>
     <desc lang="tr">Günün en önemli gelişmelerini tarafsız bir bakış açısıyla ekrana taşıyan bir haber programıdır. Siyasetten ekonomiye, dünyadan ülke gündemine uzanan geniş içerik yelpazesiyle izleyiciyi bilgilendirir. Uzman konuklar ve canlı bağlantılarla gündem derinlemesine analiz edilir.</desc>
     <category lang="tr">Haber</category>
@@ -18531,13 +18515,6 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/17/2204198358845eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/81/2204198358835eb8f42a.jpg" />
   </programme>
-  <programme start="20260916120000 +0000" stop="20260916140000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Manşet 15</title>
-    <desc lang="tr">Manşet 15, gündemin en önemli gelişmelerini ekrana taşıyan bir haber ve yorum programıdır. Siyaset, ekonomi ve toplumsal olaylar uzman konukların değerlendirmeleriyle ele alınır. Günün manşetleri tarafsız ve anlaşılır bir dille izleyiciye sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/62/2305196315685eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/92/2305196315675eb9b42e.jpg" />
-  </programme>
   <programme start="20260916120000 +0000" stop="20260916123000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Küresel Bakış</title>
     <desc lang="tr">ABD, Avrupa, Asya ve Ortadoğu&apos;daki siyasi ve ekonomik gelişmeler bu programda ele alınır. Dış basındaki manşetler ve küresel gündem, analiz ve yorumlarla birlikte izleyiciye aktarılır. Güncel olaylar derinlemesine değerlendirilir.</desc>
@@ -18796,6 +18773,13 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/93/1105353393715eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/65/1105353393705eb78424.jpg" />
   </programme>
+  <programme start="20260916130000 +0000" stop="20260916150000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Gizem Çetin ile Parantez</title>
+    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/7/2305196315765eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/76/2305196315755eb9b42e.jpg" />
+  </programme>
   <programme start="20260916130000 +0000" stop="20260916140000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Finans Merkezi</title>
     <desc lang="tr">Finans Merkezi&apos;nde piyasaların seyrini etkileyen her konu sıra dışı analizler ve özgün yorumlarla ekrana taşınıyor.</desc>
@@ -19043,13 +19027,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/24/2204262574175eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/29/2204262574165eb9b42e.jpg" />
-  </programme>
-  <programme start="20260916140000 +0000" stop="20260916150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/7/2305196315765eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/76/2305196315755eb9b42e.jpg" />
   </programme>
   <programme start="20260916140000 +0000" stop="20260916144500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Kapanışa Doğru</title>
@@ -21587,7 +21564,7 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/86/2204296686285eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/18/2204296686275eb9542c.jpg" />
   </programme>
-  <programme start="20260917030000 +0000" stop="20260917050000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260917030000 +0000" stop="20260917040000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Günaydın Türkiye</title>
     <desc lang="tr">Günaydın Türkiye, günün öne çıkan haberlerini, politika ve toplumsal gelişmeleri ele alan bilgilendirici programdır. Uzman yorumları ve analizlerle desteklenen içerikler, izleyiciye olayları farklı açılardan değerlendirme ve bilinçli bir bakış kazandırır. Program gündemi tarafsız ve anlaşılır bir dille sunar.</desc>
     <category lang="tr">Haber</category>
@@ -21897,6 +21874,11 @@ Bu sırada Civan bir düğünün yemeklerini yapmak üzere İstanbul yoluna dü�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/91/1105353414035eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/63/1105353414025eb78424.jpg" />
   </programme>
+  <programme start="20260917040000 +0000" stop="20260917070000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Deniz Bayramoğlu İle Gün Doğarken</title>
+    <desc lang="tr">Gün yeni başlıyor, gündem hızla değişiyor. Deniz Bayramoğlu ile Gün Doğarken, Türkiye&apos;den ve dünyadan öne çıkan gelişmeleri, gündemin perde arkasını ve hayatın içinden hikâyeleri samimi bir anlatımla ekrana taşıyor. Güne doğru bilgiler, güçlü yorumlar ve keyifli sohbetlerle başlayın.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260917040000 +0000" stop="20260917051500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">İlk Söz</title>
     <desc lang="tr">Türkiye&apos;de piyasalar açılmadan küresel ekonomideki dinamiklerin yansımaları... Zeynep Erataman her sabah konuklarıyla güne merhaba diyor.</desc>
@@ -22108,13 +22090,6 @@ Ali ise zengin bir ailenin oğludur. Öğretmenlik eğitimi alan Ali, Kınalı K
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/78/1105353424115eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/45/1105353424105eb78424.jpg" />
-  </programme>
-  <programme start="20260917050000 +0000" stop="20260917080000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Ebru Baki İle Para Siyaset</title>
-    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/84/2305198080715eb88428.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/47/2305198080705eb88428.jpg" />
   </programme>
   <programme start="20260917050000 +0000" stop="20260917074500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">İlker Karagöz İle Çalar Saat Hafta Sonu</title>
@@ -22548,6 +22523,13 @@ Yeni işlem gününe yönelik son bilgiler canlı bağlantılar ve uzman konukla
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/70/1105353424195eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/74/1105353424185eb78424.jpg" />
   </programme>
+  <programme start="20260917070000 +0000" stop="20260917100000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Ebru Baki İle Para Siyaset</title>
+    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/84/2305198080715eb88428.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/47/2305198080705eb88428.jpg" />
+  </programme>
   <programme start="20260917070000 +0000" stop="20260917072500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
     <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
@@ -22764,13 +22746,6 @@ Bunların yanı sıra Çağla Şıkel; hayatınızı kolaylaştıracak, bütçe 
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/14/2204385620185eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/64/2204385620175eb8f42a.jpg" />
-  </programme>
-  <programme start="20260917080000 +0000" stop="20260917100000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Mehmet Tezkan ile Neden Sonuç</title>
-    <desc lang="tr">Güncel gelişmeler, toplumsal ve siyasi konuları ele alan bilgilendirici bir programdır. Mehmet Tezkan&apos;ın sunumuyla ekrana gelen programda uzman konuklar analiz ve yorumlarla gündemi tartışır. İzleyici olayları daha iyi anlar, farklı bakış açıları kazanır bilinçli perspektif elde eder.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/79/2305198090795eb88428.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/19/2305198090785eb88428.jpg" />
   </programme>
   <programme start="20260917080000 +0000" stop="20260917100000 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Hanımın Çiftliği</title>
@@ -23342,7 +23317,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/48/2204385650905eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/67/2204385650895eb8f42a.jpg" />
   </programme>
-  <programme start="20260917100000 +0000" stop="20260917120000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260917100000 +0000" stop="20260917130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Haber Masası</title>
     <desc lang="tr">Günün en önemli gelişmelerini tarafsız bir bakış açısıyla ekrana taşıyan bir haber programıdır. Siyasetten ekonomiye, dünyadan ülke gündemine uzanan geniş içerik yelpazesiyle izleyiciyi bilgilendirir. Uzman konuklar ve canlı bağlantılarla gündem derinlemesine analiz edilir.</desc>
     <category lang="tr">Haber</category>
@@ -23916,13 +23891,6 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/69/2204302431055eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/53/2204302431045eb8f42a.jpg" />
   </programme>
-  <programme start="20260917120000 +0000" stop="20260917140000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Manşet 15</title>
-    <desc lang="tr">Manşet 15, gündemin en önemli gelişmelerini ekrana taşıyan bir haber ve yorum programıdır. Siyaset, ekonomi ve toplumsal olaylar uzman konukların değerlendirmeleriyle ele alınır. Günün manşetleri tarafsız ve anlaşılır bir dille izleyiciye sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/72/2305198090955eb88428.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/39/2305198090945eb88428.jpg" />
-  </programme>
   <programme start="20260917120000 +0000" stop="20260917123000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Manşet Ekonomi</title>
     <desc lang="tr">Ekonomiyi çarşıdan pazara, sokaktan tezgâha taşıyor. KOBİ&apos;lerin, esnafın ve reel sektörün sorunları, enflasyonla mücadele yolları, gıdadan konuta yükselen fiyatlara karşı alınabilecek önlemler masaya yatırılıyor. Halkın finansal okuryazarlığı ve bilinçli tüketim konular uzman analizleriyle ele alınıyor.</desc>
@@ -24172,6 +24140,13 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/64/1105353434435eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/18/1105353434425eb78424.jpg" />
   </programme>
+  <programme start="20260917130000 +0000" stop="20260917150000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Gizem Çetin ile Parantez</title>
+    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/15/2305198091035eb88428.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/38/2305198091025eb88428.jpg" />
+  </programme>
   <programme start="20260917130000 +0000" stop="20260917140000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Finans Merkezi</title>
     <desc lang="tr">Finans Merkezi&apos;nde piyasaların seyrini etkileyen her konu sıra dışı analizler ve özgün yorumlarla ekrana taşınıyor.</desc>
@@ -24406,13 +24381,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/94/2204296736925eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/21/2204296736915eb9542c.jpg" />
-  </programme>
-  <programme start="20260917140000 +0000" stop="20260917150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/15/2305198091035eb88428.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260909/38/2305198091025eb88428.jpg" />
   </programme>
   <programme start="20260917140000 +0000" stop="20260917144500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Kapanışa Doğru</title>
@@ -26961,7 +26929,7 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/9/2204259851125eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/18/2204259851115eb78424.jpg" />
   </programme>
-  <programme start="20260918030000 +0000" stop="20260918050000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260918030000 +0000" stop="20260918040000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Günaydın Türkiye</title>
     <desc lang="tr">Günaydın Türkiye, günün öne çıkan haberlerini, politika ve toplumsal gelişmeleri ele alan bilgilendirici programdır. Uzman yorumları ve analizlerle desteklenen içerikler, izleyiciye olayları farklı açılardan değerlendirme ve bilinçli bir bakış kazandırır. Program gündemi tarafsız ve anlaşılır bir dille sunar.</desc>
     <category lang="tr">Haber</category>
@@ -27249,6 +27217,11 @@ Bu sırada Civan bir düğünün yemeklerini yapmak üzere İstanbul yoluna dü�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/63/1105353444755eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/37/1105353444745eb78424.jpg" />
   </programme>
+  <programme start="20260918040000 +0000" stop="20260918070000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Deniz Bayramoğlu İle Gün Doğarken</title>
+    <desc lang="tr">Gün yeni başlıyor, gündem hızla değişiyor. Deniz Bayramoğlu ile Gün Doğarken, Türkiye&apos;den ve dünyadan öne çıkan gelişmeleri, gündemin perde arkasını ve hayatın içinden hikâyeleri samimi bir anlatımla ekrana taşıyor. Güne doğru bilgiler, güçlü yorumlar ve keyifli sohbetlerle başlayın.</desc>
+    <category lang="tr">Haber</category>
+  </programme>
   <programme start="20260918040000 +0000" stop="20260918051500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">İlk Söz</title>
     <desc lang="tr">Türkiye&apos;de piyasalar açılmadan küresel ekonomideki dinamiklerin yansımaları... Zeynep Erataman her sabah konuklarıyla güne merhaba diyor.</desc>
@@ -27466,13 +27439,6 @@ Ali ise zengin bir ailenin oğludur. Öğretmenlik eğitimi alan Ali, Kınalı K
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/9/1105353454835eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/41/1105353454825eb78424.jpg" />
-  </programme>
-  <programme start="20260918050000 +0000" stop="20260918080000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Ebru Baki İle Para Siyaset</title>
-    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/51/2305200036155eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/78/2305200036145eb78424.jpg" />
   </programme>
   <programme start="20260918050000 +0000" stop="20260918074500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">İlker Karagöz İle Çalar Saat Hafta Sonu</title>
@@ -27917,6 +27883,13 @@ Selma, İstanbul’da Mihran’ı bulur. Böylece sadece Selma ve Mihran’ın d
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/35/1105353454915eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/59/1105353454905eb78424.jpg" />
   </programme>
+  <programme start="20260918070000 +0000" stop="20260918100000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Ebru Baki İle Para Siyaset</title>
+    <desc lang="tr">Gazeteci Ebru Baki, Para Siyaset&apos;te ekonomi ve siyasetin kesiştiği noktaları mercek altına alıyor. Türkiye ve dünyadaki ekonomik gelişmeler, piyasaların nabzı ve siyasi kararların topluma yansımaları uzman konuklarla ele alınıyor. Para, güç ve siyaset arasındaki bağlar ve analizlerle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/51/2305200036155eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/78/2305200036145eb78424.jpg" />
+  </programme>
   <programme start="20260918070000 +0000" stop="20260918072500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
     <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
@@ -28149,13 +28122,6 @@ Bunların yanı sıra Çağla Şıkel; hayatınızı kolaylaştıracak, bütçe 
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/29/2204371125735eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/22/2204371125725eb8f42a.jpg" />
-  </programme>
-  <programme start="20260918080000 +0000" stop="20260918100000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Mehmet Tezkan ile Neden Sonuç</title>
-    <desc lang="tr">Güncel gelişmeler, toplumsal ve siyasi konuları ele alan bilgilendirici bir programdır. Mehmet Tezkan&apos;ın sunumuyla ekrana gelen programda uzman konuklar analiz ve yorumlarla gündemi tartışır. İzleyici olayları daha iyi anlar, farklı bakış açıları kazanır bilinçli perspektif elde eder.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/51/2305200036235eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/68/2305200036225eb78424.jpg" />
   </programme>
   <programme start="20260918080000 +0000" stop="20260918100000 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Hanımın Çiftliği</title>
@@ -28733,7 +28699,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/12/2204371166455eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/41/2204371166445eb8f42a.jpg" />
   </programme>
-  <programme start="20260918100000 +0000" stop="20260918120000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260918100000 +0000" stop="20260918130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Haber Masası</title>
     <desc lang="tr">Günün en önemli gelişmelerini tarafsız bir bakış açısıyla ekrana taşıyan bir haber programıdır. Siyasetten ekonomiye, dünyadan ülke gündemine uzanan geniş içerik yelpazesiyle izleyiciyi bilgilendirir. Uzman konuklar ve canlı bağlantılarla gündem derinlemesine analiz edilir.</desc>
     <category lang="tr">Haber</category>
@@ -29320,13 +29286,6 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/52/2204204535255eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/2/2204204535245eb9b42e.jpg" />
   </programme>
-  <programme start="20260918120000 +0000" stop="20260918140000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Manşet 15</title>
-    <desc lang="tr">Manşet 15, gündemin en önemli gelişmelerini ekrana taşıyan bir haber ve yorum programıdır. Siyaset, ekonomi ve toplumsal olaylar uzman konukların değerlendirmeleriyle ele alınır. Günün manşetleri tarafsız ve anlaşılır bir dille izleyiciye sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/39/2305200046395eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/36/2305200046385eb78424.jpg" />
-  </programme>
   <programme start="20260918120000 +0000" stop="20260918123000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">İktisattan Çıkış</title>
     <desc lang="tr">Programda ekonomi uzmanları, akademisyenler ve sektör temsilcileri bir araya gelerek güncel ekonomik trendleri, piyasa hareketlerini ve kişisel finans stratejilerini detaylı şekilde izleyicilerle paylaşıyor. Tartışmalar, analizler ve örneklerle finans dünyasının karmaşık dinamikleri anlaşılır hale getiriliyor.</desc>
@@ -29605,6 +29564,13 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/59/1105353475155eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/32/1105353475145eb78424.jpg" />
   </programme>
+  <programme start="20260918130000 +0000" stop="20260918150000 +0000" channel="HalkTV.tr@SD">
+    <title lang="tr">Gizem Çetin ile Parantez</title>
+    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/21/2305200046475eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/9/2305200046465eb78424.jpg" />
+  </programme>
   <programme start="20260918130000 +0000" stop="20260918140000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Finans Merkezi</title>
     <desc lang="tr">Finans Merkezi&apos;nde piyasaların seyrini etkileyen her konu sıra dışı analizler ve özgün yorumlarla ekrana taşınıyor.</desc>
@@ -29845,13 +29811,6 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/68/2204259881765eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/64/2204259881755eb78424.jpg" />
-  </programme>
-  <programme start="20260918140000 +0000" stop="20260918150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gizem Çetin ile Parantez</title>
-    <desc lang="tr">Güncel haberler, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Programda uzman yorumları, analizler ve röportajlarla izleyiciye kapsamlı bir bakış açısı sunulur. İzleyici gündemi açık, tarafsız ve anlaşılır biçimde takip eder ve olayları değerlendirir daha.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/21/2305200046475eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/9/2305200046465eb78424.jpg" />
   </programme>
   <programme start="20260918140000 +0000" stop="20260918144500 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Kapanışa Doğru</title>
@@ -32783,8 +32742,8 @@ Vivaldi ve müziğinin rehberliğinde, Cecilia, kaçınılmaz sandığı kaderin
     <title lang="tr">Bilge Yurtdagülen ile Hafta Sonu Sabah</title>
     <desc lang="tr">Bilge Yurtdagülen ile Hafta Sonu Sabah, Türkiye ve dünya gündemindeki gelişmeleri izleyiciye aktaran kapsamlı bir haber programıdır. Güncel olaylar, politika, ekonomi ve önemli gelişmeler Bilge Yurtdagülen&apos;in sunumuyla ekranlara taşınır. Güvenilir haber anlayışıyla izleyicilerin gündemi takip etmesini sağlar.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/18/2305175672255eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/40/2305175672245eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/28/1905341508755eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/10/1905341508745eb7f426.jpg" />
   </programme>
   <programme start="20260919050000 +0000" stop="20260919060000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Perspektif</title>
@@ -33239,8 +33198,8 @@ değiştirecek en yeni magazin haberleri izleyiciler ile buluşuyor.</desc>
     <title lang="tr">Serhan Asker İle Görkemli Hatıralar</title>
     <desc lang="tr">Serhan Asker ile Görkemli Hatıralar, geçmişten günümüze unutulmaz anıları, kültürel ve toplumsal hikâyeleri ele alan bilgilendirici bir programdır. Arşiv görüntüleri ve analizlerle izleyiciye tarihî ve kültürel perspektifler sunulur. İzleyiciye geçmişi anlamak ve değerli hatıraları keşfetme fırsatı verir.</desc>
     <category lang="tr">Magazin</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/27/2305175672335eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/29/2305175672325eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/26/1905341518835eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/68/1905341518825eb7f426.jpg" />
   </programme>
   <programme start="20260919070000 +0000" stop="20260919073000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Girişimcilik Dünyası</title>
@@ -34035,12 +33994,12 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/18/2204269044195eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/46/2204269044185eb9b42e.jpg" />
   </programme>
-  <programme start="20260919100000 +0000" stop="20260919120000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260919100000 +0000" stop="20260919130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Gülşah Ekinci ile Öğle Haberleri</title>
     <desc lang="tr">Gülşah Ekinci&apos;nin sunumuyla Halk TV ekranlarında yayınlanan Öğle Haberleri, Türkiye ve dünyadan öne çıkan gelişmeleri tarafsız ve objektif şekilde izleyicilere aktarıyor. Siyasi gelişmeler, ekonomi, toplumsal olaylar ve günün önemli başlıkları, canlı bağlantılar ve özel haberlerle sunulur.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/42/2305175682415eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/44/2305175682405eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/76/1905341518915eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/38/1905341518905eb7f426.jpg" />
   </programme>
   <programme start="20260919100000 +0000" stop="20260919111500 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Çok Gezenti</title>
@@ -34569,13 +34528,6 @@ Burak Akkul&apos;un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip ner
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/33/2305227342495eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/74/2305227342485eb78424.jpg" />
   </programme>
-  <programme start="20260919120000 +0000" stop="20260919130000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Işın Eliçin ile Sınırsız</title>
-    <desc lang="tr">Güncel haberler, politika ve toplumsal gelişmeleri derinlemesine ele alan bilgilendirici bir programdır. Program, uzman yorumları ve analizlerle izleyiciye olayları farklı açılardan değerlendirme fırsatı sunar. Gündem, anlaşılır ve tarafsız bir dille aktarılır, izleyici doğru ve güvenilir bilgiye ulaşır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/90/2305175682495eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/24/2305175682485eb8f42a.jpg" />
-  </programme>
   <programme start="20260919120000 +0000" stop="20260919123000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Fon Saati</title>
     <desc lang="tr">Çağlar Kuzlukluoğlu, fon dünyasına dair tüm ayrıntı ve bilmeniz gerekenleri, sektör uzmanlarıyla ele alıyor. Birikimlerinizi yönlendirmede açık ve yalın bilgiler sunuyor.</desc>
@@ -34822,11 +34774,11 @@ Burak Akkul&apos;un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip ner
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/29/2204269054505eb9b42e.jpg" />
   </programme>
   <programme start="20260919130000 +0000" stop="20260919150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Aslında</title>
-    <desc lang="tr">Sorel Dağıstanlı ile Aslında, güncel olaylar, toplumsal ve siyasi gelişmeleri derinlemesine ele alan bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir şekilde sunularak doğru bilgi aktarılır.</desc>
+    <title lang="tr">Işın Eliçin ile Sınırsız</title>
+    <desc lang="tr">Güncel haberler, politika ve toplumsal gelişmeleri derinlemesine ele alan bilgilendirici bir programdır. Program, uzman yorumları ve analizlerle izleyiciye olayları farklı açılardan değerlendirme fırsatı sunar. Gündem, anlaşılır ve tarafsız bir dille aktarılır, izleyici doğru ve güvenilir bilgiye ulaşır.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/50/2305175682575eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/55/2305175682565eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/95/1905341528995eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/55/1905341518985eb7f426.jpg" />
   </programme>
   <programme start="20260919130000 +0000" stop="20260919133000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Leaders With Lacqua</title>
@@ -35333,11 +35285,9 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/33/2305227352725eb78424.jpg" />
   </programme>
   <programme start="20260919150000 +0000" stop="20260919170000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gözde Şeker ile Hafta Sonu Ana Haber</title>
-    <desc lang="tr">Hafta sonu gündemindeki önemli gelişmeleri, politika ve toplumsal olayları ele alan bilgilendirici bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir dille aktarılır; izleyici doğru bilgiye ulaşır.</desc>
+    <title lang="tr">Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/66/2305175682655eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/66/2305175682645eb8f42a.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/10/1905341529065eb7f426.jpg" />
   </programme>
   <programme start="20260919150000 +0000" stop="20260919170000 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Akasya Durağı</title>
@@ -35822,8 +35772,8 @@ Dünyada ve Türkiye&apos;de olup biten tüm gelişmeler Ana Haber&apos;de izley
     <title lang="tr">Açıkça</title>
     <desc lang="tr">Açıkça, güncel olaylar, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir şekilde aktarılır, doğru bilgi sağlanır.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/27/2305175692735eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260911/82/2305175692725eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/1/1905341529135eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/34/1905341529125eb7f426.jpg" />
   </programme>
   <programme start="20260919170000 +0000" stop="20260919191500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Mutluyuz</title>
@@ -37800,8 +37750,8 @@ Gerçeği öğrenen Suna, özür dilemek amacıyla Nejat&apos;ı ziyaret eder. K
     <title lang="tr">Bilge Yurtdagülen ile Hafta Sonu Sabah</title>
     <desc lang="tr">Bilge Yurtdagülen ile Hafta Sonu Sabah, Türkiye ve dünya gündemindeki gelişmeleri izleyiciye aktaran kapsamlı bir haber programıdır. Güncel olaylar, politika, ekonomi ve önemli gelişmeler Bilge Yurtdagülen&apos;in sunumuyla ekranlara taşınır. Güvenilir haber anlayışıyla izleyicilerin gündemi takip etmesini sağlar.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/0/2305195341505eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/12/2305195341495eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/13/1905341539215eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/6/1905341529205eb7f426.jpg" />
   </programme>
   <programme start="20260920050000 +0000" stop="20260920053000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Dış Ticarette Gündem</title>
@@ -38175,8 +38125,8 @@ değiştirecek en yeni magazin haberleri izleyiciler ile buluşuyor.</desc>
     <title lang="tr">Serhan Asker İle Görkemli Hatıralar</title>
     <desc lang="tr">Serhan Asker ile Görkemli Hatıralar, geçmişten günümüze unutulmaz anıları, kültürel ve toplumsal hikâyeleri ele alan bilgilendirici bir programdır. Arşiv görüntüleri ve analizlerle izleyiciye tarihî ve kültürel perspektifler sunulur. İzleyiciye geçmişi anlamak ve değerli hatıraları keşfetme fırsatı verir.</desc>
     <category lang="tr">Magazin</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/71/2305195341585eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/68/2305195341575eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/85/1905341539295eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/33/1905341539285eb7f426.jpg" />
   </programme>
   <programme start="20260920070000 +0000" stop="20260920080000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Alkin Lakin</title>
@@ -38839,12 +38789,12 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/96/2305219516665eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/49/2305219516655eb78424.jpg" />
   </programme>
-  <programme start="20260920100000 +0000" stop="20260920120000 +0000" channel="HalkTV.tr@SD">
+  <programme start="20260920100000 +0000" stop="20260920130000 +0000" channel="HalkTV.tr@SD">
     <title lang="tr">Gülşah Ekinci ile Öğle Haberleri</title>
     <desc lang="tr">Gülşah Ekinci&apos;nin sunumuyla Halk TV ekranlarında yayınlanan Öğle Haberleri, Türkiye ve dünyadan öne çıkan gelişmeleri tarafsız ve objektif şekilde izleyicilere aktarıyor. Siyasi gelişmeler, ekonomi, toplumsal olaylar ve günün önemli başlıkları, canlı bağlantılar ve özel haberlerle sunulur.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/22/2305195351665eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/11/2305195351655eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/68/1905341549375eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/23/1905341549365eb7f426.jpg" />
   </programme>
   <programme start="20260920100000 +0000" stop="20260920111500 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Rehber</title>
@@ -39224,13 +39174,6 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
     <desc lang="tr">Türkiye&apos;den ve dünyadan önemli gelişmeler, Haber Bülteni ile ekrana geliyor. Önemli gelişmeler, gündemde öne çıkan konular ve son dakika gelişmeleri izleyiciye aktarılıyor.</desc>
     <category lang="tr">Haber</category>
   </programme>
-  <programme start="20260920120000 +0000" stop="20260920130000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Işın Eliçin ile Sınırsız</title>
-    <desc lang="tr">Güncel haberler, politika ve toplumsal gelişmeleri derinlemesine ele alan bilgilendirici bir programdır. Program, uzman yorumları ve analizlerle izleyiciye olayları farklı açılardan değerlendirme fırsatı sunar. Gündem, anlaşılır ve tarafsız bir dille aktarılır, izleyici doğru ve güvenilir bilgiye ulaşır.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/6/2305195351745eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/39/2305195351735eb9b42e.jpg" />
-  </programme>
   <programme start="20260920120000 +0000" stop="20260920130000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Last Of The Giants</title>
     <category lang="tr">Diğer</category>
@@ -39456,11 +39399,11 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <category lang="tr">Haber</category>
   </programme>
   <programme start="20260920130000 +0000" stop="20260920150000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Aslında</title>
-    <desc lang="tr">Sorel Dağıstanlı ile Aslında, güncel olaylar, toplumsal ve siyasi gelişmeleri derinlemesine ele alan bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir şekilde sunularak doğru bilgi aktarılır.</desc>
+    <title lang="tr">Işın Eliçin ile Sınırsız</title>
+    <desc lang="tr">Güncel haberler, politika ve toplumsal gelişmeleri derinlemesine ele alan bilgilendirici bir programdır. Program, uzman yorumları ve analizlerle izleyiciye olayları farklı açılardan değerlendirme fırsatı sunar. Gündem, anlaşılır ve tarafsız bir dille aktarılır, izleyici doğru ve güvenilir bilgiye ulaşır.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/8/2305195351825eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/4/2305195351815eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/29/1905341549455eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/74/1905341549445eb7f426.jpg" />
   </programme>
   <programme start="20260920130000 +0000" stop="20260920140000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Celebrity Escapes To The Country</title>
@@ -39867,11 +39810,9 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/80/2305219516895eb78424.jpg" />
   </programme>
   <programme start="20260920150000 +0000" stop="20260920170000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Gözde Şeker ile Hafta Sonu Ana Haber</title>
-    <desc lang="tr">Hafta sonu gündemindeki önemli gelişmeleri, politika ve toplumsal olayları ele alan bilgilendirici bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir dille aktarılır; izleyici doğru bilgiye ulaşır.</desc>
+    <title lang="tr">Sinem Fıstıkoğlu ile Hafta Sonu Ana Haber</title>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/79/2305195351905eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/84/2305195351895eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/80/1905341549525eb7f426.jpg" />
   </programme>
   <programme start="20260920150000 +0000" stop="20260920181500 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Akasya Durağı</title>
@@ -40260,11 +40201,8 @@ Dünyada ve Türkiye&apos;de olup biten tüm gelişmeler Ana Haber&apos;de izley
     <category lang="tr">Dizi</category>
   </programme>
   <programme start="20260920170000 +0000" stop="20260921030000 +0000" channel="HalkTV.tr@SD">
-    <title lang="tr">Sansürsüz</title>
-    <desc lang="tr">Sansürsüz, güncel olaylar, toplumsal ve siyasi gelişmeleri ele alan bilgilendirici bir programdır. Uzman yorumları, analizler ve röportajlarla izleyiciye olayları farklı açılardan değerlendirme fırsatı sunulur. Gündem anlaşılır ve tarafsız bir şekilde sunularak doğru bilgiler aktarılır.</desc>
+    <title lang="tr">Söz Sende</title>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/98/2305195361985eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260912/6/2305195361975eb9b42e.jpg" />
   </programme>
   <programme start="20260920170000 +0000" stop="20260920190000 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Hava Muhalefeti</title>
