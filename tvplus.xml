@@ -10806,12 +10806,16 @@ Ancak altı aylık bir Avrupa seyahatinden dönen Muzaffer Bey, Güllü’yü te
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/23/2204229913715eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/14/2204229913705eb7f426.jpg" />
   </programme>
-  <programme start="20260916080000 +0000" stop="20260916081500 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Grafik Düellosu</title>
-    <desc lang="tr">Yurt içi ve yurt dışı piyasalarda öne çıkan gelişmelerin grafiklerle yorumlandığı Grafik Düellosü hafta içi her gün Bloomberg HT&apos;de.</desc>
-    <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/27/2204294467805eb8f42a.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260910/4/2204294467795eb8f42a.jpg" />
+  <programme start="20260916080000 +0000" stop="20260916090000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Özel Röportaj</title>
+    <desc lang="tr">Hazine ve Maliye Bakanı Mehmet Şimşek, Bloomberg HT ve Habertürk TV ortak yayınına konuk oluyor, canlı yayında merak edilenleri yanıtlıyor.
+
+Orta vadeli programın kilometre taşları neler olacak? Savaşın ekonomi üzerindeki etkileri ne zaman hafifleyecek? Enflasyon, bütçe ve büyüme cephesinde bizi nasıl bir dönem bekliyor?  
+
+Bloomberg HT Genel Yayın Yönetmeni Açıl Sezen soruyor; Hazine ve Maliye Bakanı Mehmet Şimşek, Bloomberg HT ve Habertürk TV ortak yayınında yanıtlıyor.</desc>
+    <category lang="tr">Röportaj</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/81/0841096232875eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/81/0841096232865eb78424.jpg" />
   </programme>
   <programme start="20260916080000 +0000" stop="20260916083000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Rafadan Tayfa</title>
@@ -10900,13 +10904,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/31/2305280663335eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260908/18/2305280663325eb88428.jpg" />
-  </programme>
-  <programme start="20260916081500 +0000" stop="20260916090000 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Fokus</title>
-    <desc lang="tr">Fokus uzman konuklarıyla ekonomi gündemindeki maddelere odaklanıyor.</desc>
-    <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/56/0800188812235eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/64/0800188812225eb78424.jpg" />
   </programme>
   <programme start="20260916081500 +0000" stop="20260916101500 +0000" channel="SinemaAksiyon.tr@SD">
     <title lang="tr">Kripto Vurgun</title>
