@@ -3154,12 +3154,12 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/45/2305295922175eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/72/2305295922165eb88428.jpg" />
   </programme>
-  <programme start="20260921081500 +0000" stop="20260921093000 +0000" channel="BloombergHT.tr@SD">
+  <programme start="20260921081500 +0000" stop="20260921090000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Fokus</title>
     <desc lang="tr">Fokus uzman konuklarıyla ekonomi gündemindeki maddelere odaklanıyor.</desc>
     <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/77/2204326404115eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/91/2204326404105eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/27/0600187501485eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/69/0600187501475eb9b42e.jpg" />
   </programme>
   <programme start="20260921081500 +0000" stop="20260921104500 +0000" channel="SinemaAksiyon.tr@SD">
     <title lang="tr">Godzılla</title>
@@ -3421,6 +3421,13 @@ seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/84/2204268026375eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/41/2204268026365eb78424.jpg" />
+  </programme>
+  <programme start="20260921090000 +0000" stop="20260921093000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Otomotiv Zirvesi</title>
+    <desc lang="tr">İç pazar büyüklüğü ve ihracat değerleriyle lokomotif sektör haline gelen otomotive dair önemli gelişmeler, sektörün önde gelen yöneticileriyle Bloomberg HT&apos;de ele alınıyor. Sürdürülebilirlik ve mobilite vizyonu ile otomotiv sektörüne ilişkin merak edilen tüm sorular bu programda yanıtlanıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/22/0600187470825eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/2/0600187470815eb9b42e.jpg" />
   </programme>
   <programme start="20260921090000 +0000" stop="20260921100000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Gün Ortası</title>
@@ -3995,11 +4002,11 @@ Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/16/2204282292785eb7f426.jpg" />
   </programme>
   <programme start="20260921103000 +0000" stop="20260921110000 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Varlık Yönetimi</title>
-    <desc lang="tr">Dünyada ve Türkiye&apos;de varlık yönetimi adına her türlü enstrüman, Varlık Yönetimi&apos;nde tartışılıyor.</desc>
+    <title lang="tr">Seans Ortası</title>
+    <desc lang="tr">Ekonomiye dair günün ilk yarısında öne çıkan tüm gelişmeler  Seans Ortası&apos;nda ele alınıyor.</desc>
     <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/93/2204326424355eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/58/2204326424345eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/68/0600187470905eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/22/0600187470895eb9b42e.jpg" />
   </programme>
   <programme start="20260921103000 +0000" stop="20260921105500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Belle Ve Sebastian</title>
@@ -7057,12 +7064,10 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/95/2204306315645eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/97/2204306305635eb9542c.jpg" />
   </programme>
-  <programme start="20260921201000 +0000" stop="20260921213000 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Spor Kulübü</title>
-    <desc lang="tr">Spor dünyasının önemli isimleri, spor yazarları, sporun profesyonelleri bu programda buluşuyor.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/77/2204326515315eb9b42e.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/56/2204326515305eb9b42e.jpg" />
+  <programme start="20260921201000 +0000" stop="20260921214000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Oyun Dışı</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/33/0600187470965eb9b42e.jpg" />
   </programme>
   <programme start="20260921201500 +0000" stop="20260921211000 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Ayı ve İnsan</title>
@@ -7350,13 +7355,6 @@ Gizemli Troya şehri gerçekten var mıydı? Böyle bir savaş gerçekten yaşan
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/55/2204253693455eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/24/2204253693445eb78424.jpg" />
   </programme>
-  <programme start="20260921213000 +0000" stop="20260921222000 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Aslı Şafak&apos;la İşin Aslı</title>
-    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/34/2204348696775eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/63/2204348696765eb78424.jpg" />
-  </programme>
   <programme start="20260921213000 +0000" stop="20260921223000 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Yavuz Bingöl İle Söz Ve Müzik</title>
     <desc lang="tr">Yavuz Bingöl, bu programda halk müziğinin usta isimlerini konuk ederek en güzel eserleri icra ediyor ve müziğe dair sohbet ediyor.</desc>
@@ -7383,6 +7381,13 @@ Gizemli Troya şehri gerçekten var mıydı? Böyle bir savaş gerçekten yaşan
     <category lang="tr">Çocuk</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/2/1500258913665eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/52/1500258913655eb9b42e.jpg" />
+  </programme>
+  <programme start="20260921214000 +0000" stop="20260921223000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Aslı Şafak&apos;la İşin Aslı</title>
+    <desc lang="tr">Eğlence ve sanat dünyasının tanınmış isimlerini programında ağırlayan Aslı Şafak, kendine has üslubu ve keyifli sorularıyla işin aslını konuşuyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/96/0600187511565eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/71/0600187511555eb9b42e.jpg" />
   </programme>
   <programme start="20260921214500 +0000" stop="20260922003000 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">İnadına Aşk</title>
@@ -7568,13 +7573,6 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/98/2204237129395eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/47/2204237119385eb9542c.jpg" />
   </programme>
-  <programme start="20260921222000 +0000" stop="20260921233500 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">HT Kulüp</title>
-    <desc lang="tr">Cemiyet hayatının seçkin simaları, iş dünyasının önde gelen isimleri ve sanatın gerçek temsilcileri HT Kulüp&apos;te.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/41/2204348696855eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/75/2204348696845eb78424.jpg" />
-  </programme>
   <programme start="20260921222500 +0000" stop="20260921225000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Rüzgar Gülü</title>
     <desc lang="tr">&apos;Rüzgâr Gülü&apos; yepyeni tasarımı, çok sevdiğiniz sunucuları, heyecan ve eğlence dolu yarışmalarıyla senin kanalın TRT Çocuk&apos;ta!</desc>
@@ -7588,6 +7586,13 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/44/2204217310535eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/74/2204217310525eb78424.jpg" />
+  </programme>
+  <programme start="20260921223000 +0000" stop="20260921232000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">HT Kulüp</title>
+    <desc lang="tr">Cemiyet hayatının seçkin simaları, iş dünyasının önde gelen isimleri ve sanatın gerçek temsilcileri HT Kulüp&apos;te.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/11/0600187511645eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/35/0600187511635eb9b42e.jpg" />
   </programme>
   <programme start="20260921223000 +0000" stop="20260921233000 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Yıldızlar Altında</title>
@@ -7767,6 +7772,13 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/22/2204282525815eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/77/2204282525805eb78424.jpg" />
   </programme>
+  <programme start="20260921232000 +0000" stop="20260921234500 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Fon Saati</title>
+    <desc lang="tr">Çağlar Kuzlukluoğlu, fon dünyasına dair tüm ayrıntı ve bilmeniz gerekenleri, sektör uzmanlarıyla ele alıyor. Birikimlerinizi yönlendirmede açık ve yalın bilgiler sunuyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/63/0600187511725eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/1/0600187511715eb9b42e.jpg" />
+  </programme>
   <programme start="20260921232500 +0000" stop="20260922001000 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Tom Hiddleston İle Pompeii: Zamanın Durduğu Gün</title>
     <desc lang="tr">Tom Hiddleston ile Pompeii: Zamanın Durduğu Gün, izleyiciyi MS 79 yılındaki Vezüv patlamasının tam ortasına ve ardında bıraktığı, zamanın ürkütücü şekilde donup kaldığı Roma kentine götüren, belgesel ile dramatik anlatımın büyüleyici bir karışımı. Cambridge Üniversitesi&apos;nde Klasik Çalışmalar eğitimi alan ve antik tarihe olan tutkusuyla bilinen Tom Hiddleston, Pompeii halkının kayıp seslerine yeniden hayat vermek amacıyla çığır açan bir tarihi keşfe liderlik ediyor. Bu yapım, yankıları bugün bile güçlü bir şekilde hissedilen, geçmişe doğru unutulmaz bir yolculuk.</desc>
@@ -7836,13 +7848,6 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/19/0200232397915eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/10/0200232397905eb9b42e.jpg" />
   </programme>
-  <programme start="20260921233500 +0000" stop="20260922000000 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Varlık Yönetimi</title>
-    <desc lang="tr">Dünyada ve Türkiye&apos;de varlık yönetimi adına her türlü enstrüman, Varlık Yönetimi&apos;nde tartışılıyor.</desc>
-    <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/67/2204348706935eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/58/2204348706925eb78424.jpg" />
-  </programme>
   <programme start="20260921234000 +0000" stop="20260922001000 +0000" channel="TRT1.tr@SD">
     <title lang="tr">Seksenler</title>
     <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com&apos;u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk... 
@@ -7858,6 +7863,13 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <category lang="tr">Spor</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/50/1500199881755eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/55/1500199881745eb9542c.jpg" />
+  </programme>
+  <programme start="20260921234500 +0000" stop="20260922001000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">İş Dünyası</title>
+    <desc lang="tr">Türkiye ekonomisinin lokomotif sektörleri detaylı analizlerle İş Dünyası&apos;nda.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/94/0600187481035eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/7/0600187481025eb9b42e.jpg" />
   </programme>
   <programme start="20260921234500 +0000" stop="20260922013000 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Altın Gol</title>
@@ -7934,13 +7946,6 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/20/2204253693295eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/94/2204253693285eb78424.jpg" />
   </programme>
-  <programme start="20260922000000 +0000" stop="20260922010500 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Spor Kulübü</title>
-    <desc lang="tr">Spor dünyasının önemli isimleri, spor yazarları, sporun profesyonelleri bu programda buluşuyor.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/58/2204348707015eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/4/2204348707005eb78424.jpg" />
-  </programme>
   <programme start="20260922000000 +0000" stop="20260922010000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Daybreak</title>
     <desc lang="tr">A new day, a new outlook on the latest news with Daybreak...</desc>
@@ -7982,6 +7987,11 @@ Adana&apos;nın varlıklı ve köklü ailelerinden birinin oğlu olan Kenan içi
     <category lang="tr">Yaşam</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/30/2204317588445eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/1/2204317588435eb7f426.jpg" />
+  </programme>
+  <programme start="20260922001000 +0000" stop="20260922013000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Oyun Dışı</title>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/74/0600187481095eb9b42e.jpg" />
   </programme>
   <programme start="20260922001000 +0000" stop="20260922022000 +0000" channel="TRT1.tr@SD">
     <title lang="tr">Gönül Dağı</title>
@@ -8201,13 +8211,6 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/35/2204315407385eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/75/2204315407375eb78424.jpg" />
   </programme>
-  <programme start="20260922010500 +0000" stop="20260922022000 +0000" channel="BloombergHT.tr@SD">
-    <title lang="tr">Fon Saati</title>
-    <desc lang="tr">Çağlar Kuzlukluoğlu, fon dünyasına dair tüm ayrıntı ve bilmeniz gerekenleri, sektör uzmanlarıyla ele alıyor. Birikimlerinizi yönlendirmede açık ve yalın bilgiler sunuyor.</desc>
-    <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/76/2204348707095eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/76/2204348707085eb78424.jpg" />
-  </programme>
   <programme start="20260922011000 +0000" stop="20260922013500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Elif ve Arkadaşları</title>
     <desc lang="tr">Elif&apos;in düşleri gerçek oldu! Artık o da okula gidiyor. Hem de yeni arkadaşları Ayşe, Selim ve Kerem ile. Elif ve arkadaşları, ana okulunda her gün yeni şeyler öğreniyor.</desc>
@@ -8276,6 +8279,13 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <category lang="tr">Kültür &amp; Sanat</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/71/2204329055925eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/99/2204329055915eb78424.jpg" />
+  </programme>
+  <programme start="20260922013000 +0000" stop="20260922015500 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Aile Ekonomisi</title>
+    <desc lang="tr">Aile bütçesinde harcama dağılımında nelere dikkat etmek gerekir? Ev veya araba almak için uygun zaman mı? Tasarruflarımı yatırıma nasıl döndürürüm? Türkiye&apos;de piyasalar açılmadan küresel ekonomideki dinamiklerin yansımaları...</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/93/0600187491165eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/51/0600187491155eb9b42e.jpg" />
   </programme>
   <programme start="20260922013000 +0000" stop="20260922033000 +0000" channel="TV8.tr@SD">
     <title lang="tr">Oynat Bakalım</title>
@@ -8373,6 +8383,13 @@ Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini 
     <category lang="tr">Hava Durumu</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/16/2204391465035eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/43/2204391465025eb9b42e.jpg" />
+  </programme>
+  <programme start="20260922015500 +0000" stop="20260922022000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Otomotiv Zirvesi</title>
+    <desc lang="tr">İç pazar büyüklüğü ve ihracat değerleriyle lokomotif sektör haline gelen otomotive dair önemli gelişmeler, sektörün önde gelen yöneticileriyle Bloomberg HT&apos;de ele alınıyor. Sürdürülebilirlik ve mobilite vizyonu ile otomotiv sektörüne ilişkin merak edilen tüm sorular bu programda yanıtlanıyor.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/77/0600187491245eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/49/0600187491235eb9b42e.jpg" />
   </programme>
   <programme start="20260922015500 +0000" stop="20260922021500 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Bagaj Savaşları</title>
@@ -10469,12 +10486,12 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/99/2305290114995eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/11/2305290114985eb88428.jpg" />
   </programme>
-  <programme start="20260922081500 +0000" stop="20260922093000 +0000" channel="BloombergHT.tr@SD">
+  <programme start="20260922081500 +0000" stop="20260922090000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Fokus</title>
     <desc lang="tr">Fokus uzman konuklarıyla ekonomi gündemindeki maddelere odaklanıyor.</desc>
     <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/15/2204348737815eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/85/2204348737805eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/59/0600187521805eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/52/0600187521795eb9b42e.jpg" />
   </programme>
   <programme start="20260922081500 +0000" stop="20260922090000 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Ahmet Özhan İle Gönül Yolu</title>
@@ -10719,6 +10736,13 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/82/2204250582305eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/49/2204250582295eb9b42e.jpg" />
+  </programme>
+  <programme start="20260922090000 +0000" stop="20260922093000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Maden Dünyası</title>
+    <desc lang="tr">Altın, krom, nikel, gümüş, demir, bor, kömür, bazalt ve mermer... Yeraltı zenginliklerimiz konusunda bilinmeyenler, az bilinenler, yanlış bilinenler... Hepsi bu programda.</desc>
+    <category lang="tr">Finans</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/34/0600187491325eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/9/0600187491315eb9b42e.jpg" />
   </programme>
   <programme start="20260922090000 +0000" stop="20260922100000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Gün Ortası</title>
@@ -13811,12 +13835,12 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/73/2204311847175eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/98/2204311847165eb78424.jpg" />
   </programme>
-  <programme start="20260922190000 +0000" stop="20260922213000 +0000" channel="BloombergHT.tr@SD">
+  <programme start="20260922190000 +0000" stop="20260922201000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Küresel Piyasalar</title>
     <desc lang="tr">Bu programda, canlı video ve telefon bağlantılarıyla tüm yatırım araçlarının günlük performansları mercek altına alınıyor.</desc>
     <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/56/2204348788935eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/77/2204348788925eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/89/0600187521885eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/78/0600187521875eb9b42e.jpg" />
   </programme>
   <programme start="20260922190000 +0000" stop="20260922194500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
@@ -14036,6 +14060,13 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/76/2204300884665eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/12/2204300884655eb8f42a.jpg" />
+  </programme>
+  <programme start="20260922201000 +0000" stop="20260922211000 +0000" channel="BloombergHT.tr@SD">
+    <title lang="tr">Açık Hava Sineması</title>
+    <desc lang="tr">Kuşakları büyüten kült yapımlar, hafızalara kazınan sahneler ve Türkiye&apos;nin sinema geçmişi, Gözde Atasoy&apos;un sunumuyla Açıkhava Sineması&apos;nda izleyiciyle buluşuyor.</desc>
+    <category lang="tr">Kültür &amp; Sanat</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/65/0600187501405eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/72/0600187491395eb9b42e.jpg" />
   </programme>
   <programme start="20260922201500 +0000" stop="20260922221500 +0000" channel="SinemaKomedi.tr@SD">
     <title lang="tr">Beyazlar Zıplayamaz</title>
