@@ -3289,10 +3289,11 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/63/2204312407165eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/21/2204312407155eb9542c.jpg" />
   </programme>
-  <programme start="20260921083000 +0000" stop="20260921084500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Anadolu Alperenleri</title>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/86/2204382287565eb78424.jpg" />
+  <programme start="20260921083000 +0000" stop="20260921090000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Tanıdık Kalpler</title>
+    <desc lang="tr">Bir nikah, bir bavul ve bir hayalle bir dilin iki kalbe sığdığı, Türk Cumhuriyetlerinden gelerek ülkemizde sıcacık yuvalar kuran ailelere konuk olacağımız aktüel belgesel programımız, ülkemizde yaşayan ailelerin yaşantısını doğrudan o ailelerin bireyleriyle yapılacak söyleşilerle ekrana taşıyarak, ailelerin mutluluklarını, aile yaşantılarını kendi hikayelerini anlatmaktadır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/64/0700192172535eb9b42e.jpg" />
   </programme>
   <programme start="20260921083500 +0000" stop="20260921092000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Hurdacılar</title>
@@ -3336,24 +3337,12 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/37/2204331212755eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/6/2204331212745eb7f426.jpg" />
   </programme>
-  <programme start="20260921084500 +0000" stop="20260921085000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Çizgilerle Tarih</title>
-    <desc lang="tr">Tarihin Çizgisi programı Türk - İslam Dünyasında yer etmiş tarihi karakterlerin kara kalem çizimi, müzik veseslendirmeyle tanıtılması amaçlanmaktadır.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/86/2204382287615eb78424.jpg" />
-  </programme>
   <programme start="20260921085000 +0000" stop="20260921085500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Sport</title>
     <desc lang="tr">All about the sports.</desc>
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/93/2204395426965eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/42/2204395426955eb7f426.jpg" />
-  </programme>
-  <programme start="20260921085000 +0000" stop="20260921085500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Türk&apos;ün Sözlüğü</title>
-    <desc lang="tr">Kelimelerin izinde yolculuğa çıkaran bu mini belgesel serisi, her bölümde bir kelimenin kökenini, tarihsel serüvenini ve kültürel anlamlarını ekrana taşıyor. Sadece bir dil unsuru değil; Türk tarihinin, coğrafyasının, inançlarının ve yaşam biçiminin aynası olan kelimeler, izleyiciye geçmişle bugünü buluşturan benzersiz bir anlatı sunuyor.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/49/2204382297665eb78424.jpg" />
   </programme>
   <programme start="20260921085500 +0000" stop="20260921090000 +0000" channel="NTV.tr@SD">
     <title lang="tr">Hava Durumu</title>
@@ -3384,15 +3373,6 @@ Yakışıklı ve başarılı bir iş adamı olan Hakan’a ve onun iki sevimli �
     <category lang="tr">Hava Durumu</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/51/2204293399805eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/94/2204293399795eb9542c.jpg" />
-  </programme>
-  <programme start="20260921085500 +0000" stop="20260921090000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Bir Mekan Bir Hikaye</title>
-    <desc lang="tr">Program, Türk kültür ve sanat mirasının korunmasına, gelecek nesillere aktarılmasına ve
-uluslararası alanda tanıtılmasına katkı sağlamayı amaçlamaktadır. Türkiye&apos;nin Türk dünyası ile ortak dil,
-tarih ve kültürel bağlarını yansıtan bu belgesel; Özbekistan, Kırgızistan, Kazakistan ve Türkmenistan&apos;dan
-seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/2/2204382307715eb78424.jpg" />
   </programme>
   <programme start="20260921090000 +0000" stop="20260921093500 +0000" channel="24TV.tr@SD">
     <title lang="tr">Moderatör</title>
@@ -3908,10 +3888,11 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/22/1606039199785eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/35/1606039199775eb8f42a.jpg" />
   </programme>
-  <programme start="20260921100000 +0000" stop="20260921103000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Yediler</title>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/65/2204382307865eb78424.jpg" />
+  <programme start="20260921100000 +0000" stop="20260921100500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Türk&apos;ün Sözlüğü</title>
+    <desc lang="tr">Kelimelerin izinde yolculuğa çıkaran bu mini belgesel serisi, her bölümde bir kelimenin kökenini, tarihsel serüvenini ve kültürel anlamlarını ekrana taşıyor. Sadece bir dil unsuru değil; Türk tarihinin, coğrafyasının, inançlarının ve yaşam biçiminin aynası olan kelimeler, izleyiciye geçmişle bugünü buluşturan benzersiz bir anlatı sunuyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/78/0700192172585eb9b42e.jpg" />
   </programme>
   <programme start="20260921100500 +0000" stop="20260921105000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Yaban Evler</title>
@@ -3919,6 +3900,15 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/86/2204340891345eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/69/2204340891335eb7f426.jpg" />
+  </programme>
+  <programme start="20260921100500 +0000" stop="20260921101500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Bir Mekan Bir Hikaye</title>
+    <desc lang="tr">Program, Türk kültür ve sanat mirasının korunmasına, gelecek nesillere aktarılmasına ve
+uluslararası alanda tanıtılmasına katkı sağlamayı amaçlamaktadır. Türkiye&apos;nin Türk dünyası ile ortak dil,
+tarih ve kültürel bağlarını yansıtan bu belgesel; Özbekistan, Kırgızistan, Kazakistan ve Türkmenistan&apos;dan
+seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/81/0700192172635eb9b42e.jpg" />
   </programme>
   <programme start="20260921100800 +0000" stop="20260921103500 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Konteyner Savaşları</title>
@@ -3956,6 +3946,12 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/9/2204331212835eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/98/2204331212825eb7f426.jpg" />
+  </programme>
+  <programme start="20260921101500 +0000" stop="20260921103000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">İzler</title>
+    <desc lang="tr">Program, Türk Dünyasının ortak geçmişinde iz bırakmış olayların ve kişilerin hikayelerini somut bir şekilde ortaya koymayı hedefleyen bir tarih - belgesel serisidir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/42/0700192182685eb9b42e.jpg" />
   </programme>
   <programme start="20260921102500 +0000" stop="20260921103000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Finance and Markets</title>
@@ -4031,10 +4027,10 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/74/2204312417315eb9542c.jpg" />
   </programme>
   <programme start="20260921103000 +0000" stop="20260921110000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Tercih Atlası 2026</title>
-    <desc lang="tr">Programın her bölümünde bir devlet üniversitesi tanıtılarak, ülkemizdeki üniversitelerin uluslararası öğrenci kapasitelerini, öğrenci hareketliliğini, başvuru şartlarını, yerleştirme puan türlerini, yurt - burs -  staj imkânlarını, değişim programlarını, sektör iş birliklerini, akademik başarılarını ve iş birliklerini, uluslararası sıralamalardaki yerlerini, farklı dillerde eğitim avantajlarını, araştırma ve yayın faaliyetlerini, akademik kadrolarını, akredite bölümlerini bizzat rektörlerin anlatımları ile ekrana yansıtan söyleşi programı.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/43/2204382307915eb78424.jpg" />
+    <title lang="tr">Musikihane</title>
+    <desc lang="tr">Klasik Türk müziğinin ruhuna açılan kapıda, her bölüm bir eser, bir hikâye ve bir gönül yolculuğu izleyici ile buluşuyor.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/92/0700192182735eb9b42e.jpg" />
   </programme>
   <programme start="20260921103500 +0000" stop="20260921112500 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Gizemli Tarih Troya</title>
@@ -4278,10 +4274,10 @@ Adana&apos;nın varlıklı ve köklü ailelerinden birinin oğlu olan Kenan içi
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/20/1606039199855eb8f42a.jpg" />
   </programme>
   <programme start="20260921110000 +0000" stop="20260921113000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Adım Adım Türkistan&apos;da</title>
-    <desc lang="tr">Bir gezgin, milyonların takip ettiği yerel fenomenlerle birlikte dünyanın dört bir yanını gezerken her bölümde yeni bir şehir, yeni bir hikaye, gerçek bir kültürel deneyim sunan belgesel programıdır.</desc>
+    <title lang="tr">Şifa Yolculuğu</title>
+    <desc lang="tr">Programda, Türklerin binlerce yıllık kültürel birikimiyle harmanlanan şifalı ve aromatik bitkilerin hikayesini anlatmak, halk hekimliğinden modern yaşamın sağlık, lezzet ve koku anlayışına kadar uzanan geniş bir perspektifle izleyicilere bilgi ve ilham vermek hedeflenmiştir.</desc>
     <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/55/2204382307965eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/55/0700192182785eb9b42e.jpg" />
   </programme>
   <programme start="20260921111000 +0000" stop="20260921130000 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Kalbim Sana Emanet</title>
@@ -4375,10 +4371,12 @@ Adana&apos;nın varlıklı ve köklü ailelerinden birinin oğlu olan Kenan içi
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/95/2204223953005eb9b42e.jpg" />
   </programme>
   <programme start="20260921113000 +0000" stop="20260921120000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Tanıdık Kalpler</title>
-    <desc lang="tr">Bir nikah, bir bavul ve bir hayalle bir dilin iki kalbe sığdığı, Türk Cumhuriyetlerinden gelerek ülkemizde sıcacık yuvalar kuran ailelere konuk olacağımız aktüel belgesel programımız, ülkemizde yaşayan ailelerin yaşantısını doğrudan o ailelerin bireyleriyle yapılacak söyleşilerle ekrana taşıyarak, ailelerin mutluluklarını, aile yaşantılarını kendi hikayelerini anlatmaktadır.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/66/2204382308015eb78424.jpg" />
+    <title lang="tr">Bir Millet Bin Tat</title>
+    <desc lang="tr">Program; Türk Cumhuriyetleri arasında kültürel ve gastronomik bağları güçlendirmek,
+izleyicilere hem damak tadına hem de sağlığa hitap eden içerikler sunmak amacıyla hazırlanmış yemek
+programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/7/0700192182835eb9b42e.jpg" />
   </programme>
   <programme start="20260921113000 +0000" stop="20260921131500 +0000" channel="Sinema2.tr@SD">
     <title lang="tr">Vur Kaç</title>
@@ -4599,9 +4597,10 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/79/1606039199925eb8f42a.jpg" />
   </programme>
   <programme start="20260921120000 +0000" stop="20260921123000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">İz Ve Dönüşüm</title>
-    <category lang="tr">Belgesel</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/22/2204382308065eb78424.jpg" />
+    <title lang="tr">Umudu Taşıyanlar</title>
+    <desc lang="tr">Hayatın görünmeyen kahramanlarının, azim, sevgi, sabır ve fedakârlık dolu gerçek yaşam hikâyelerini izleyiciyle buluşturan bir aktüel belgesel programıdır. Zorluklara rağmen hayata tutunan bireylerin ve ailelerin ilham verici mücadeleleri anlatılmaktadır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/93/0700192192885eb9b42e.jpg" />
   </programme>
   <programme start="20260921121500 +0000" stop="20260921130000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Akıllı Para</title>
@@ -4723,11 +4722,11 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/13/1606039190015eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/39/1606039190005eb8f42a.jpg" />
   </programme>
-  <programme start="20260921123000 +0000" stop="20260921124500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Bir Adım Bin Avaz</title>
-    <desc lang="tr">Türk dili konuşan halklar ve ülkeler arasında dostane ilişkiler kurarak,ortak Türk kültürüne ait folklorik özellikleri geliştirmeyi, korumayı ve gelecek kuşaklara aktarmayı amaçlayan belgesel serisi.</desc>
+  <programme start="20260921123000 +0000" stop="20260921130000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Mahtumkulu - Arkadağ</title>
+    <desc lang="tr">Türkmenistan için büyük öneme sahip iki değeri konu edinmiş olup; duygularını, düşüncelerini ve yaşam deneyimini Türkmen edebiyatına yansıtan Şair Mahtumkulu&apos;yu; aynı zamanda Türk dünyası ve Türkmenistan&apos;ın önemli tarihi yerleşimlerinden biri olan Arkadağ şehrini gelecek nesillere aktaran belgesel.</desc>
     <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/80/2204382318115eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/24/0700192192935eb9b42e.jpg" />
   </programme>
   <programme start="20260921123500 +0000" stop="20260921133000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Restoran Dedektifi</title>
@@ -4763,11 +4762,6 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Film</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/48/2204231566065eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/41/2204231566055eb7f426.jpg" />
-  </programme>
-  <programme start="20260921124500 +0000" stop="20260921130000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Alperen&apos;in Maceraları</title>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/70/2204382318165eb78424.jpg" />
   </programme>
   <programme start="20260921125000 +0000" stop="20260921125500 +0000" channel="NTV.tr@SD">
     <title lang="tr">Paranın Nabzı</title>
@@ -4937,10 +4931,11 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/85/2305236088805eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/62/2305236088795eb78424.jpg" />
   </programme>
-  <programme start="20260921130000 +0000" stop="20260921131000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Masal Otağı</title>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/84/2204382318215eb78424.jpg" />
+  <programme start="20260921130000 +0000" stop="20260921133000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Tercih Atlası 2026</title>
+    <desc lang="tr">Programın her bölümünde bir devlet üniversitesi tanıtılarak, ülkemizdeki üniversitelerin uluslararası öğrenci kapasitelerini, öğrenci hareketliliğini, başvuru şartlarını, yerleştirme puan türlerini, yurt - burs -  staj imkânlarını, değişim programlarını, sektör iş birliklerini, akademik başarılarını ve iş birliklerini, uluslararası sıralamalardaki yerlerini, farklı dillerde eğitim avantajlarını, araştırma ve yayın faaliyetlerini, akademik kadrolarını, akredite bölümlerini bizzat rektörlerin anlatımları ile ekrana yansıtan söyleşi programı.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/23/0700192192985eb9b42e.jpg" />
   </programme>
   <programme start="20260921130500 +0000" stop="20260921135000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Efsane Erkek Mekânları</title>
@@ -4948,12 +4943,6 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/80/2204340911665eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/74/2204340911655eb7f426.jpg" />
-  </programme>
-  <programme start="20260921131000 +0000" stop="20260921132000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Oyun Avcıları</title>
-    <desc lang="tr">Türk dünyasının ruhunu ataların oyunları ile çocuk kalbine taşıyan fantastik serüvende beş minik kahraman, Altay&apos;ın zirvesinden Anadolu&apos;nun meydanlarına uzanan yolculukta kurtun bilgeliği, kartalın gözü, geyiğin zarafeti ve ejderhanın kudretiyle kadim oyunların izi sürülüyor.</desc>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/90/2204382318265eb78424.jpg" />
   </programme>
   <programme start="20260921131000 +0000" stop="20260921140500 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Hazen Audel ile Afrika’da Safari</title>
@@ -4996,11 +4985,6 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Film</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/56/2204207253055eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/96/2204207253045eb8f42a.jpg" />
-  </programme>
-  <programme start="20260921132000 +0000" stop="20260921133500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Dedem Korkut&apos;un İzinde</title>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/24/2204382328315eb78424.jpg" />
   </programme>
   <programme start="20260921132500 +0000" stop="20260921133500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Kehribar İle Boncuk</title>
@@ -5087,6 +5071,12 @@ Murat&apos;ın kayboluşunun ardından Murat&apos;ın memleketi Halfeti&apos;ye 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/93/2204290413475eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/87/2204290413465eb78424.jpg" />
   </programme>
+  <programme start="20260921133000 +0000" stop="20260921133500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Oyun Avcıları</title>
+    <desc lang="tr">Türk dünyasının ruhunu ataların oyunları ile çocuk kalbine taşıyan fantastik serüvende beş minik kahraman, Altay&apos;ın zirvesinden Anadolu&apos;nun meydanlarına uzanan yolculukta kurtun bilgeliği, kartalın gözü, geyiğin zarafeti ve ejderhanın kudretiyle kadim oyunların izi sürülüyor.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/12/0700192193035eb9b42e.jpg" />
+  </programme>
   <programme start="20260921133500 +0000" stop="20260921135000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Z Takımı</title>
     <desc lang="tr">Heyecan dolu bir macera. Z elementini ele geçirmek isteyen Bay B ve buna izin vermemek için mücadele eden Z Takımı&apos;nın hikayesi.</desc>
@@ -5095,10 +5085,10 @@ Murat&apos;ın kayboluşunun ardından Murat&apos;ın memleketi Halfeti&apos;ye 
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/13/1500258842055eb9b42e.jpg" />
   </programme>
   <programme start="20260921133500 +0000" stop="20260921134500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Turanbot Ve Kardeş Takımı</title>
-    <desc lang="tr">Uzak gelecekte Gölgeler Birliği adlı hacker grubu Türk Dünyasının ortak dil projesine sızar ve insanların kullandıkları kelimeleri ve harfleri zihinlerinden silmeye çalışırlarken Dil Birliği grubu kelimeleri ve harfleri tekrar Türklerin hafızasına yerleştirmeye çalıştığı çizgi film projesidir.</desc>
+    <title lang="tr">Türk&apos;ün Masalları</title>
+    <desc lang="tr">Orta Asya&apos;nın bozkırlarından Anadolu&apos;nun bereketli topraklarına uzanan masal yolculuğu; modern animasyon tekniğiyle ekrana taşınıyor. Her hikâyede gelenekten geleceğe uzanan bir köprü kuran program, izleyiciyi hayal gücü, bilgelik ve duygularla örülü büyülü bir dünya ile buluşturuyor.</desc>
     <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/15/2204382328365eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/6/0700192203085eb9b42e.jpg" />
   </programme>
   <programme start="20260921134000 +0000" stop="20260921134500 +0000" channel="NTV.tr@SD">
     <title lang="tr">Piyasalar</title>
@@ -5142,10 +5132,11 @@ Murat&apos;ın kayboluşunun ardından Murat&apos;ın memleketi Halfeti&apos;ye 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/38/2204331222995eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/10/2204331222985eb7f426.jpg" />
   </programme>
-  <programme start="20260921134500 +0000" stop="20260921140000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Gülşen İle Nasıl Çizilir?</title>
+  <programme start="20260921134500 +0000" stop="20260921135500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Turanbot Ve Kardeş Takımı</title>
+    <desc lang="tr">Uzak gelecekte Gölgeler Birliği adlı hacker grubu Türk Dünyasının ortak dil projesine sızar ve insanların kullandıkları kelimeleri ve harfleri zihinlerinden silmeye çalışırlarken Dil Birliği grubu kelimeleri ve harfleri tekrar Türklerin hafızasına yerleştirmeye çalıştığı çizgi film projesidir.</desc>
     <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/58/2204382328415eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/4/0700192203135eb9b42e.jpg" />
   </programme>
   <programme start="20260921135000 +0000" stop="20260921144000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Tamirat Tadilat Dünya Turu</title>
@@ -5190,6 +5181,12 @@ Murat&apos;ın kayboluşunun ardından Murat&apos;ın memleketi Halfeti&apos;ye 
     <category lang="tr">Hava Durumu</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/3/2204395549045eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/49/2204395549035eb7f426.jpg" />
+  </programme>
+  <programme start="20260921135500 +0000" stop="20260921140000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Türk&apos;ün Sözlüğü</title>
+    <desc lang="tr">Kelimelerin izinde yolculuğa çıkaran bu mini belgesel serisi, her bölümde bir kelimenin kökenini, tarihsel serüvenini ve kültürel anlamlarını ekrana taşıyor. Sadece bir dil unsuru değil; Türk tarihinin, coğrafyasının, inançlarının ve yaşam biçiminin aynası olan kelimeler, izleyiciye geçmişle bugünü buluşturan benzersiz bir anlatı sunuyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/39/0700192203185eb9b42e.jpg" />
   </programme>
   <programme start="20260921140000 +0000" stop="20260921150000 +0000" channel="TRTHaber.tr@SD">
     <title lang="tr">Günün İçinden</title>
@@ -6042,11 +6039,11 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/65/2204373313195eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/45/2204373313185eb78424.jpg" />
   </programme>
-  <programme start="20260921161500 +0000" stop="20260921163000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Bir Adım Bin Avaz</title>
-    <desc lang="tr">Türk dili konuşan halklar ve ülkeler arasında dostane ilişkiler kurarak,ortak Türk kültürüne ait folklorik özellikleri geliştirmeyi, korumayı ve gelecek kuşaklara aktarmayı amaçlayan belgesel serisi.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/85/2204382359095eb78424.jpg" />
+  <programme start="20260921161500 +0000" stop="20260921173000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Payitaht Abdülhamid</title>
+    <desc lang="tr">Osmanlı İmparatorluğu&apos;nun var olma mücadelesinde tarihe damgasını vuran Sultan Abdülhamid Han&apos;ın, devleti yıkmaya çalışanlara karşı verdiği, her hamlesi akılla bezeli savaşına değiniliyor.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/26/0700192213235eb9b42e.jpg" />
   </programme>
   <programme start="20260921162000 +0000" stop="20260921165000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Rafadan Tayfa</title>
@@ -6110,12 +6107,6 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <category lang="tr">Film</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/57/1400156759325eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/82/1400156759315eb9542c.jpg" />
-  </programme>
-  <programme start="20260921163000 +0000" stop="20260921170000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Adım Adım Türkistan&apos;da</title>
-    <desc lang="tr">Bir gezgin, milyonların takip ettiği yerel fenomenlerle birlikte dünyanın dört bir yanını gezerken her bölümde yeni bir şehir, yeni bir hikaye, gerçek bir kültürel deneyim sunan belgesel programıdır.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/10/2204382359145eb78424.jpg" />
   </programme>
   <programme start="20260921163500 +0000" stop="20260921175000 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Sıradan Birkaç Gün</title>
@@ -6401,13 +6392,6 @@ Meryem’in cezaevinde karşılaştığı baskı giderek artarken Kadir’in att
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/97/2305236099205eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260913/40/2305236099195eb78424.jpg" />
   </programme>
-  <programme start="20260921170000 +0000" stop="20260921181500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Altaylardan Tuna&apos;ya</title>
-    <desc lang="tr">Türk müziğinin kadim nefesi, Türk dünyasının uçsuz bucaksız coğrafyalarından yükselen ezgilerle aynı sahnede yeniden hayat buldu.
-Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini ekranlara taşıyan bu özel buluşma TRT Avaz ekranlarında...</desc>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/18/2204382359195eb78424.jpg" />
-  </programme>
   <programme start="20260921170000 +0000" stop="20260921183000 +0000" channel="Sinema2.tr@SD">
     <title lang="tr">A Love Song</title>
     <desc lang="tr">Faye, karavanıyla ülkeyi dolaşan 40&apos;lı yaşlarında bir kadındır. Batı kırsalındaki bir kamp alanında geceyi geçirmeye karar verdikten sonra, zamanını kitap okuyarak, yemek pişirerek ve doğayı dinleyerek geçirir. Ama aslında Faye tüm bunları yaparken, yıllardır görmediği çocukluk aşkı Lito&apos;yu beklemektedir.</desc>
@@ -6499,6 +6483,13 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Spor</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/56/2204211917215eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/41/2204211917205eb8f42a.jpg" />
+  </programme>
+  <programme start="20260921173000 +0000" stop="20260921184500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Altaylardan Tuna&apos;ya</title>
+    <desc lang="tr">Türk müziğinin kadim nefesi, Türk dünyasının uçsuz bucaksız coğrafyalarından yükselen ezgilerle aynı sahnede yeniden hayat buldu.
+Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini ekranlara taşıyan bu özel buluşma TRT Avaz ekranlarında...</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/46/0700192213285eb9b42e.jpg" />
   </programme>
   <programme start="20260921174500 +0000" stop="20260921200000 +0000" channel="TRTHaber.tr@SD">
     <title lang="tr">Birinci Sayfa</title>
@@ -6651,12 +6642,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/94/2204244135695eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/39/2204244135685eb8f42a.jpg" />
   </programme>
-  <programme start="20260921181500 +0000" stop="20260921183000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Gönül Gözüyle</title>
-    <desc lang="tr">İnancın, kültürün ve geleneğin izinde. Bu program, tartışmalar, röportajlar ve samimi sohbetlerle, anlam dünyamızı şekillendiren kavramların gündelik hayatımıza nasıl yansıdığını gözler önüne seriyor. İzleyicisini derin düşüncelere davet ederken, hayatın özüne dair yeni kapılar aralıyor.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/5/2204382369245eb78424.jpg" />
-  </programme>
   <programme start="20260921182000 +0000" stop="20260921184500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Nils Ve Uçan Kaz</title>
     <desc lang="tr">Uçma hayalleri kuran Nils bir gün ufacık bir insana dönüşür. Nils bundan sonra, hayvanlarla konuşabildiğini fark eder. Ve yeni bir arkadaş edinir: Çiftlik kazı Martin. Nils, sadık arkadaşı ile birlikte bir yaban kazı sürüsüne katılarak sıra dışı bir yolculuğa çıkar.</desc>
@@ -6720,11 +6705,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/77/2204211927295eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/43/2204211927285eb8f42a.jpg" />
   </programme>
-  <programme start="20260921183000 +0000" stop="20260921190000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Zamana Konuşanlar</title>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/3/2204382369295eb78424.jpg" />
-  </programme>
   <programme start="20260921183000 +0000" stop="20260921201500 +0000" channel="Sinema2.tr@SD">
     <title lang="tr">Jerry  and  Marge Go Large</title>
     <desc lang="tr">Uzun süredir evli olan Jerry ve Marge çifti, Massachusetts piyangosunda matematiksel bir boşluk keşfeder. Keşifleri sayesinde piyangodan 27 milyon dolar kazanan çift, bu parayı yaşadıkları küçük kasabayı canlandırmak için kullanmaya karar verir.</desc>
@@ -6759,6 +6739,12 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Film</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/66/2204290235325eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/12/2204290235315eb9542c.jpg" />
+  </programme>
+  <programme start="20260921184500 +0000" stop="20260921190000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">İzler</title>
+    <desc lang="tr">Program, Türk Dünyasının ortak geçmişinde iz bırakmış olayların ve kişilerin hikayelerini somut bir şekilde ortaya koymayı hedefleyen bir tarih - belgesel serisidir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/92/0700192213335eb9b42e.jpg" />
   </programme>
   <programme start="20260921185000 +0000" stop="20260921185500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Sport</title>
@@ -6864,11 +6850,11 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/96/2204242294575eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/81/2204242294565eb8f42a.jpg" />
   </programme>
-  <programme start="20260921190000 +0000" stop="20260921194500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Vizyon 2040</title>
-    <desc lang="tr">Türk dünyasının geleceğini şekillendirecek stratejik dönüşümleri ekranlara taşıyan, enerji, savunma, teknoloji, ulaşım koridorları, dijitalleşme, gençlik, medya ve jeopolitik vb. konu başlıklarının uzman konuklarla analiz edileceği tartışma ve analiz programı.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/3/2204382369345eb78424.jpg" />
+  <programme start="20260921190000 +0000" stop="20260921193000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Diplomasi Masası</title>
+    <desc lang="tr">Prof. Dr. Fırat Purtaş moderatörlüğünde gerçekleştirilecek olan stüdyo programıdır. Programda Türk Dünyası Dış politika konuları uzman konuklarla ele alınacaktır.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/39/0700192213385eb9b42e.jpg" />
   </programme>
   <programme start="20260921190000 +0000" stop="20260921200000 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Tom Hiddleston ile Pompeii: Zamanın Durduğu Gün</title>
@@ -6925,6 +6911,12 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/66/0035269009425eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/72/0035269009415eb9b42e.jpg" />
   </programme>
+  <programme start="20260921193000 +0000" stop="20260921200000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Şifa Yolculuğu</title>
+    <desc lang="tr">Programda, Türklerin binlerce yıllık kültürel birikimiyle harmanlanan şifalı ve aromatik bitkilerin hikayesini anlatmak, halk hekimliğinden modern yaşamın sağlık, lezzet ve koku anlayışına kadar uzanan geniş bir perspektifle izleyicilere bilgi ve ilham vermek hedeflenmiştir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/99/0700192223435eb9b42e.jpg" />
+  </programme>
   <programme start="20260921193500 +0000" stop="20260921200000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Rafadan Tayfa</title>
     <desc lang="tr">İstanbul&apos;da bir mahalle. İşte bu mahallenin tam da ortasında bizim Rafadan Tayfa. Akın, Kamil, Hayri ve Mert. Sevim, Hale ve Basri Amca. Mahallende kim varsa burada da onlar var. Çık bir bak istersen! Mahalle yaşamı, dayanışma, dostluk, komedi ve eğlence hepsi burada bir arada. Çünkü, ne de olsa bizim çocukların adı &apos;Rafadan Tayfa&apos;. Ha, bu arada, Rafadan Tayfa diye isim mi olurmuş deme, sen de bilirsin Hayri acıkırsa her şey olabilir.</desc>
@@ -6945,12 +6937,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/76/2204395641205eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/49/2204395641195eb7f426.jpg" />
-  </programme>
-  <programme start="20260921194500 +0000" stop="20260921200000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Bir Adım Bin Avaz</title>
-    <desc lang="tr">Türk dili konuşan halklar ve ülkeler arasında dostane ilişkiler kurarak,ortak Türk kültürüne ait folklorik özellikleri geliştirmeyi, korumayı ve gelecek kuşaklara aktarmayı amaçlayan belgesel serisi.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/78/2204382369395eb78424.jpg" />
   </programme>
   <programme start="20260921195000 +0000" stop="20260921203500 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Polis Kamerası</title>
@@ -7052,10 +7038,10 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/11/1606039210405eb8f42a.jpg" />
   </programme>
   <programme start="20260921200000 +0000" stop="20260921203000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Podcast Avaz</title>
-    <desc lang="tr">Türkiye&apos;de yaşayan farklı Türk Cumhuriyetlerinden konukları ağırlayarak samimi ve eğlenceli sohbetlerin ekranlara taşındığı program, kültürler arası köprü kurmayı hedeflerken, konukların kendi ülkelerinden getirdikleri gelenek, yaşam tarzı ve deneyimleri izleyiciye aktarıyor.</desc>
+    <title lang="tr">Tanıdık Kalpler</title>
+    <desc lang="tr">Bir nikah, bir bavul ve bir hayalle bir dilin iki kalbe sığdığı, Türk Cumhuriyetlerinden gelerek ülkemizde sıcacık yuvalar kuran ailelere konuk olacağımız aktüel belgesel programımız, ülkemizde yaşayan ailelerin yaşantısını doğrudan o ailelerin bireyleriyle yapılacak söyleşilerle ekrana taşıyarak, ailelerin mutluluklarını, aile yaşantılarını kendi hikayelerini anlatmaktadır.</desc>
     <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/11/2204382369445eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/1/0700192223485eb9b42e.jpg" />
   </programme>
   <programme start="20260921200000 +0000" stop="20260921210000 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">CIA&apos;in Gizli Dünyası</title>
@@ -7138,11 +7124,11 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/27/2204211937375eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/12/2204211937365eb8f42a.jpg" />
   </programme>
-  <programme start="20260921203000 +0000" stop="20260921211500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Sence Bilir Mi?</title>
-    <desc lang="tr">İzleyicinin kendisini gözden geçirme, bildiklerini sınama, bilmediklerini öğrenme imkanı sağlayan hafta içi beş gün izleyicisine keyifli, öğretici, eğlenceli bir deneyim sunan yarışma programıdır.</desc>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/97/2204382369495eb78424.jpg" />
+  <programme start="20260921203000 +0000" stop="20260921204500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">İzler</title>
+    <desc lang="tr">Program, Türk Dünyasının ortak geçmişinde iz bırakmış olayların ve kişilerin hikayelerini somut bir şekilde ortaya koymayı hedefleyen bir tarih - belgesel serisidir.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/69/0700192233535eb9b42e.jpg" />
   </programme>
   <programme start="20260921203500 +0000" stop="20260921212000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Polis Kamerası</title>
@@ -7178,6 +7164,12 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Film</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/78/2204242304655eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/34/2204242304645eb8f42a.jpg" />
+  </programme>
+  <programme start="20260921204500 +0000" stop="20260921213000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Sence Bilir Mi?</title>
+    <desc lang="tr">İzleyicinin kendisini gözden geçirme, bildiklerini sınama, bilmediklerini öğrenme imkanı sağlayan hafta içi beş gün izleyicisine keyifli, öğretici, eğlenceli bir deneyim sunan yarışma programıdır.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/73/0700192243585eb9b42e.jpg" />
   </programme>
   <programme start="20260921205000 +0000" stop="20260921205500 +0000" channel="NTV.tr@SD">
     <title lang="tr">Paranın Nabzı</title>
@@ -7313,12 +7305,6 @@ Gizemli Troya şehri gerçekten var mıydı? Böyle bir savaş gerçekten yaşan
     <category lang="tr">Spor</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/10/2204331233235eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/78/2204331233225eb7f426.jpg" />
-  </programme>
-  <programme start="20260921211500 +0000" stop="20260921213000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Gönül Gözüyle</title>
-    <desc lang="tr">İnancın, kültürün ve geleneğin izinde. Bu program, tartışmalar, röportajlar ve samimi sohbetlerle, anlam dünyamızı şekillendiren kavramların gündelik hayatımıza nasıl yansıdığını gözler önüne seriyor. İzleyicisini derin düşüncelere davet ederken, hayatın özüne dair yeni kapılar aralıyor.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/20/2204382369545eb78424.jpg" />
   </programme>
   <programme start="20260921212000 +0000" stop="20260921220500 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Tamirat Tadilat</title>
@@ -7520,9 +7506,10 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/84/2204325607795eb9b42e.jpg" />
   </programme>
   <programme start="20260921220000 +0000" stop="20260921223000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Yediler</title>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/87/2204382389645eb78424.jpg" />
+    <title lang="tr">Mahtumkulu - Arkadağ</title>
+    <desc lang="tr">Türkmenistan için büyük öneme sahip iki değeri konu edinmiş olup; duygularını, düşüncelerini ve yaşam deneyimini Türkmen edebiyatına yansıtan Şair Mahtumkulu&apos;yu; aynı zamanda Türk dünyası ve Türkmenistan&apos;ın önemli tarihi yerleşimlerinden biri olan Arkadağ şehrini gelecek nesillere aktaran belgesel.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/45/0700192243635eb9b42e.jpg" />
   </programme>
   <programme start="20260921220500 +0000" stop="20260921225000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Çifte Kurtuluş</title>
@@ -7608,11 +7595,11 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/87/2204249579425eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/19/2204249579415eb7f426.jpg" />
   </programme>
-  <programme start="20260921223000 +0000" stop="20260921230000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Tercih Atlası 2026</title>
-    <desc lang="tr">Programın her bölümünde bir devlet üniversitesi tanıtılarak, ülkemizdeki üniversitelerin uluslararası öğrenci kapasitelerini, öğrenci hareketliliğini, başvuru şartlarını, yerleştirme puan türlerini, yurt - burs -  staj imkânlarını, değişim programlarını, sektör iş birliklerini, akademik başarılarını ve iş birliklerini, uluslararası sıralamalardaki yerlerini, farklı dillerde eğitim avantajlarını, araştırma ve yayın faaliyetlerini, akademik kadrolarını, akredite bölümlerini bizzat rektörlerin anlatımları ile ekrana yansıtan söyleşi programı.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/1/2204382389695eb78424.jpg" />
+  <programme start="20260921223000 +0000" stop="20260922001500 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Payitaht Abdülhamid</title>
+    <desc lang="tr">Osmanlı İmparatorluğu&apos;nun var olma mücadelesinde tarihe damgasını vuran Sultan Abdülhamid Han&apos;ın, devleti yıkmaya çalışanlara karşı verdiği, her hamlesi akılla bezeli savaşına değiniliyor.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/95/0700192243685eb9b42e.jpg" />
   </programme>
   <programme start="20260921223500 +0000" stop="20260921230500 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Günlük Hayat Bilimi</title>
@@ -7745,12 +7732,6 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/66/2204222928565eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/28/2204222928555eb9542c.jpg" />
   </programme>
-  <programme start="20260921230000 +0000" stop="20260921233000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Adım Adım Türkistan&apos;da</title>
-    <desc lang="tr">Bir gezgin, milyonların takip ettiği yerel fenomenlerle birlikte dünyanın dört bir yanını gezerken her bölümde yeni bir şehir, yeni bir hikaye, gerçek bir kültürel deneyim sunan belgesel programıdır.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/78/2204382389745eb78424.jpg" />
-  </programme>
   <programme start="20260921230500 +0000" stop="20260921233500 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Su Altı Ustaları</title>
     <desc lang="tr">Görmeye alışık olmadığımız su altı dünyasının bilinmeyen bir yüzü var. Tonlarca gemiyi kaldıran, ulaşımda kıtaları birleştiren, yiyecek konusunda insanoğlunu besleyen, içindeki esrarengiz yaşamla turizmi canlandıran bu devasa su birikintileri kendi içinde bir sanayiye de ev sahipliği yapıyor. Ve bu sanayinin doğaya zarar verilmeden ayakta tutulması gerekiyor.</desc>
@@ -7827,12 +7808,6 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <category lang="tr">Müzik</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/56/2204360944445eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/49/2204360944435eb9b42e.jpg" />
-  </programme>
-  <programme start="20260921233000 +0000" stop="20260922000000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Tanıdık Kalpler</title>
-    <desc lang="tr">Bir nikah, bir bavul ve bir hayalle bir dilin iki kalbe sığdığı, Türk Cumhuriyetlerinden gelerek ülkemizde sıcacık yuvalar kuran ailelere konuk olacağımız aktüel belgesel programımız, ülkemizde yaşayan ailelerin yaşantısını doğrudan o ailelerin bireyleriyle yapılacak söyleşilerle ekrana taşıyarak, ailelerin mutluluklarını, aile yaşantılarını kendi hikayelerini anlatmaktadır.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/12/2204382389795eb78424.jpg" />
   </programme>
   <programme start="20260921233500 +0000" stop="20260922002000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Hurda Avcıları</title>
@@ -7969,11 +7944,6 @@ Adana&apos;nın varlıklı ve köklü ailelerinden birinin oğlu olan Kenan içi
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/96/2204313261725eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/60/2204313261715eb88428.jpg" />
   </programme>
-  <programme start="20260922000000 +0000" stop="20260922003000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">İz Ve Dönüşüm</title>
-    <category lang="tr">Belgesel</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/5/2204382389845eb78424.jpg" />
-  </programme>
   <programme start="20260922000000 +0000" stop="20260922020000 +0000" channel="Sinema2.tr@SD">
     <title lang="tr">Handling The Undead</title>
     <desc lang="tr">Oslo&apos;da sıcak bir yaz günü, ölüler gizemli bir şekilde uyanır ve üç aile, ölen sevdiklerinin kendilerine geri gelmesiyle kaosa sürüklenir. Onlar kim ve ne istiyorlar?</desc>
@@ -8021,6 +7991,12 @@ Hayallerinin peşinden koşarak birçok başarılı icada imza atan amcaoğullar
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/45/2204331243395eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/24/2204331243385eb7f426.jpg" />
+  </programme>
+  <programme start="20260922001500 +0000" stop="20260922003000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Fotoğraflar</title>
+    <desc lang="tr">Her fotoğrafın arkasında kendine özgü bir hikayesi vardır. Bu programda da kısa kısa dünyaca ünlü fotoğrafların üstünden geçip arkalarında yatan çarpıcı hikayeler anlatılıyor.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/72/0700192243735eb9b42e.jpg" />
   </programme>
   <programme start="20260922002000 +0000" stop="20260922010500 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Hurda Avcıları: Tamirat</title>
@@ -8097,9 +8073,10 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/67/2204325628035eb9b42e.jpg" />
   </programme>
   <programme start="20260922003000 +0000" stop="20260922010000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Türkiye&apos;de Yetiştim</title>
-    <category lang="tr">Belgesel</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/25/2204382389895eb78424.jpg" />
+    <title lang="tr">Diplomasi Masası</title>
+    <desc lang="tr">Prof. Dr. Fırat Purtaş moderatörlüğünde gerçekleştirilecek olan stüdyo programıdır. Programda Türk Dünyası Dış politika konuları uzman konuklarla ele alınacaktır.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/69/0700192253785eb9b42e.jpg" />
   </programme>
   <programme start="20260922004500 +0000" stop="20260922011000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Doru</title>
@@ -8200,9 +8177,10 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/35/2204222928635eb9542c.jpg" />
   </programme>
   <programme start="20260922010000 +0000" stop="20260922013000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Zamana Konuşanlar</title>
+    <title lang="tr">Tercih Atlası 2026</title>
+    <desc lang="tr">Programın her bölümünde bir devlet üniversitesi tanıtılarak, ülkemizdeki üniversitelerin uluslararası öğrenci kapasitelerini, öğrenci hareketliliğini, başvuru şartlarını, yerleştirme puan türlerini, yurt - burs -  staj imkânlarını, değişim programlarını, sektör iş birliklerini, akademik başarılarını ve iş birliklerini, uluslararası sıralamalardaki yerlerini, farklı dillerde eğitim avantajlarını, araştırma ve yayın faaliyetlerini, akademik kadrolarını, akredite bölümlerini bizzat rektörlerin anlatımları ile ekrana yansıtan söyleşi programı.</desc>
     <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/63/2204382389945eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/69/0700192263835eb9b42e.jpg" />
   </programme>
   <programme start="20260922010500 +0000" stop="20260922012800 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Oto Tacirleri</title>
@@ -8308,11 +8286,11 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/54/2204360954685eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/7/2204360954675eb9b42e.jpg" />
   </programme>
-  <programme start="20260922013000 +0000" stop="20260922014500 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Gönül Gözüyle</title>
-    <desc lang="tr">İnancın, kültürün ve geleneğin izinde. Bu program, tartışmalar, röportajlar ve samimi sohbetlerle, anlam dünyamızı şekillendiren kavramların gündelik hayatımıza nasıl yansıdığını gözler önüne seriyor. İzleyicisini derin düşüncelere davet ederken, hayatın özüne dair yeni kapılar aralıyor.</desc>
-    <category lang="tr">Yaşam</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/66/2204382399995eb78424.jpg" />
+  <programme start="20260922013000 +0000" stop="20260922020000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Musikihane</title>
+    <desc lang="tr">Klasik Türk müziğinin ruhuna açılan kapıda, her bölüm bir eser, bir hikâye ve bir gönül yolculuğu izleyici ile buluşuyor.</desc>
+    <category lang="tr">Diğer</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/6/0700192263885eb9b42e.jpg" />
   </programme>
   <programme start="20260922013500 +0000" stop="20260922020000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Maysa ve Bulut</title>
@@ -8362,13 +8340,6 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/36/2204217320695eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/3/2204217320685eb78424.jpg" />
-  </programme>
-  <programme start="20260922014500 +0000" stop="20260923030000 +0000" channel="TRTAvaz.tr@SD">
-    <title lang="tr">Altaylardan Tuna&apos;ya</title>
-    <desc lang="tr">Türk müziğinin kadim nefesi, Türk dünyasının uçsuz bucaksız coğrafyalarından yükselen ezgilerle aynı sahnede yeniden hayat buldu.
-Her nota bir yolculuk, her sohbet bir köprü. Müziğin birleştiren kudretini ekranlara taşıyan bu özel buluşma TRT Avaz ekranlarında...</desc>
-    <category lang="tr">Diğer</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/9/2204382390045eb78424.jpg" />
   </programme>
   <programme start="20260922015000 +0000" stop="20260922023500 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">İşte Sürat İşte Ses: Yıkım Sahneleri</title>
@@ -8528,6 +8499,14 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/63/1700182260965eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/0/1700182260955eb8f42a.jpg" />
   </programme>
+  <programme start="20260922020000 +0000" stop="20260922023000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Bir Millet Bin Tat</title>
+    <desc lang="tr">Program; Türk Cumhuriyetleri arasında kültürel ve gastronomik bağları güçlendirmek,
+izleyicilere hem damak tadına hem de sağlığa hitap eden içerikler sunmak amacıyla hazırlanmış yemek
+programıdır.</desc>
+    <category lang="tr">Belgesel</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/83/0700192263935eb9b42e.jpg" />
+  </programme>
   <programme start="20260922020000 +0000" stop="20260922034500 +0000" channel="Sinema2.tr@SD">
     <title lang="tr">Çocuklarım İçin</title>
     <desc lang="tr">1970&apos;lerde geçen filmin yapımcılığı ve başrolü Anna Paquin&apos;e ait… Bekar bir anne olan Christina (Anna Paquin), birlikte olduğu erkek arkadaşından şiddet görmektedir. Sonunda iki kızını da yanına alarak kaçar ve Florida&apos;ya yerleşir. Burada bir arkadaşı ona uyuşturucu satıcılığı işi ayarlar. Artık Christina bu belalı işte çalışırken hem kendini, hem de kızlarını korumak için büyük bir mücadele vermek zorundadır.</desc>
@@ -8633,6 +8612,12 @@ Ferit 27 yaşında Adanalı zengin ailenin hayta oğlu. Kumar borcu yüzünden b
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/10/2204300076725eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/43/2204300076715eb9542c.jpg" />
+  </programme>
+  <programme start="20260922023000 +0000" stop="20260923040000 +0000" channel="TRTAvaz.tr@SD">
+    <title lang="tr">Umudu Taşıyanlar</title>
+    <desc lang="tr">Hayatın görünmeyen kahramanlarının, azim, sevgi, sabır ve fedakârlık dolu gerçek yaşam hikâyelerini izleyiciyle buluşturan bir aktüel belgesel programıdır. Zorluklara rağmen hayata tutunan bireylerin ve ailelerin ilham verici mücadeleleri anlatılmaktadır.</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/65/0700192273985eb9b42e.jpg" />
   </programme>
   <programme start="20260922023500 +0000" stop="20260922030000 +0000" channel="DiscoveryChannel.tr@SD">
     <title lang="tr">Ufak Tefek Evler</title>
@@ -8824,10 +8809,13 @@ Nuh ve Melek, annelerini bulmak için geldikleri Kapadokya&apos;da Şansalan ail
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/91/2204321959125eb88428.jpg" />
   </programme>
   <programme start="20260922030000 +0000" stop="20260922070000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Mesur Yar ile Gün Uyanıyor</title>
-    <desc lang="tr">Hafta içi Her Sabah Dünya&apos;dan ve Türkiye&apos;den Haberler ve Gazete Başlıkları...</desc>
+    <title lang="tr">Mesut Yar ile Gün Uyanıyor</title>
+    <desc lang="tr">Ülke ve dünya gündeminden önemli başlıkların yer aldığı program, Mesut Yar&apos;ın özgün tarzı ve izleyicinin interaktif katılımıyla sabah haberlerine farklı bir bakış açısı getiriyor. 
+ 
+Siyasetin, insanın ve sokağın nabzını tutan program; canlı bağlantılar, özel haberler ve seçkin konuklar ile izleyiciyi dinamik bir güne hazırlıyor.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/33/1700182261025eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/62/0700158664755eb88428.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/3/0700158664745eb88428.jpg" />
   </programme>
   <programme start="20260922030000 +0000" stop="20260922033000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Nasıl Yapılmış?</title>
@@ -11483,12 +11471,12 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/35/2305264868125eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/81/2305264868115eb9542c.jpg" />
   </programme>
-  <programme start="20260922110000 +0000" stop="20260922112500 +0000" channel="ANews.tr@SD">
+  <programme start="20260922110000 +0000" stop="20260922115000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Türkiye&apos;s Diplomacy</title>
     <desc lang="tr">Stay ahead of the world&apos;s most critical developments with Türkiye&apos;s Diplomacy.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/53/2204416845825eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/28/2204416845815eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/44/0700165087635eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/16/0700165077625eb9542c.jpg" />
   </programme>
   <programme start="20260922110000 +0000" stop="20260922130000 +0000" channel="ATV.tr@SD">
     <title lang="tr">Altı Üstü İstanbul</title>
@@ -11582,13 +11570,6 @@ Ziyankar, Hikmet&apos;in baskınına hazırlıksız yakalanır. Ancak bütün ma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/12/2204300853945eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/74/2204300853935eb8f42a.jpg" />
   </programme>
-  <programme start="20260922112500 +0000" stop="20260922113000 +0000" channel="ANews.tr@SD">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/29/2204416855905eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/91/2204416855895eb9542c.jpg" />
-  </programme>
   <programme start="20260922113000 +0000" stop="20260922122000 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Anadolu&apos;da Yaşam</title>
     <desc lang="tr">Anadolu&apos;nun doğal güzelliklerinin gerçek insan hikayeleri aracılığıyla gözler önüne serildiği belgeselde, insanın doğa ile uyum içinde yüzyıllardır yaşadığı hayatın izleri sürülüyor.</desc>
@@ -11602,13 +11583,6 @@ Ziyankar, Hikmet&apos;in baskınına hazırlıksız yakalanır. Ancak bütün ma
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/14/2204391577275eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/18/2204391577265eb9b42e.jpg" />
-  </programme>
-  <programme start="20260922113000 +0000" stop="20260922115000 +0000" channel="ANews.tr@SD">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/88/2204416855985eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/0/2204416855975eb9542c.jpg" />
   </programme>
   <programme start="20260922113000 +0000" stop="20260922120000 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Assolist</title>
@@ -12769,12 +12743,12 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/5/2305264898605eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/0/2305264898595eb9542c.jpg" />
   </programme>
-  <programme start="20260922150000 +0000" stop="20260922152500 +0000" channel="ANews.tr@SD">
+  <programme start="20260922150000 +0000" stop="20260922155000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Türkiye&apos;s Diplomacy</title>
     <desc lang="tr">Stay ahead of the world&apos;s most critical developments with Türkiye&apos;s Diplomacy.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/51/2204416927425eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/24/2204416927415eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/81/0700165087715eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/9/0700165087705eb9542c.jpg" />
   </programme>
   <programme start="20260922150000 +0000" stop="20260922170000 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Robin And The Hoods</title>
@@ -12869,13 +12843,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/5/0200232479395eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/68/0200232479385eb9b42e.jpg" />
   </programme>
-  <programme start="20260922152500 +0000" stop="20260922153000 +0000" channel="ANews.tr@SD">
-    <title lang="tr">Finance and Markets</title>
-    <desc lang="tr">All about the finance world.</desc>
-    <category lang="tr">Finans</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/58/2204416937505eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/67/2204416937495eb9542c.jpg" />
-  </programme>
   <programme start="20260922152500 +0000" stop="20260922170000 +0000" channel="ShowTV.tr@SD">
     <title lang="tr">Show Ana Haber</title>
     <desc lang="tr">Türkiye&apos;den ve dünyadan önemli gelişmeler ekrana taşınıyor. Ana Haber Bülteni&apos;nde, canlı bağlantılar ve program konuklarıyla gündemdeki olayların analizi yapılıyor.</desc>
@@ -12903,13 +12870,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/10/2305264918685eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260914/64/2305264918675eb9542c.jpg" />
-  </programme>
-  <programme start="20260922153000 +0000" stop="20260922155000 +0000" channel="ANews.tr@SD">
-    <title lang="tr">Newshour</title>
-    <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/91/2204416937585eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/14/2204416937575eb9542c.jpg" />
   </programme>
   <programme start="20260922153000 +0000" stop="20260922163000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Ya Sev Ya Sat Kanada</title>
@@ -14243,11 +14203,11 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/10/1405370341065eb9542c.jpg" />
   </programme>
   <programme start="20260922211500 +0000" stop="20260922233000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Aşk Yeniden</title>
-    <desc lang="tr">Zeynep, ailesini karşısına alarak sevdiği adamın ardından Amerika’ya gider ve yeni doğan çocuğuyla ortada kalır. Fatih ise eğitim için gittiği Amerika’dan hayal kırıklığıyla dönen zengin bir ailenin oğludur. Ailesinin kendisi için seçtiği gelin adayı İrem’den sıra dışı bir planla kurtulmak isteyen Fatih’in uçakta tanıştığı Zeynep’e karısı rolünü oynamasını teklif etmesiyle hikaye başlıyor. Hayatındaki mecburiyetlerden dolayı bu teklifi kabul etmek zorunda kalan Zeynep, küçük bebeği Selim’le kendini yeni bir maceranın ortasında buluyor.</desc>
+    <title lang="tr">Anne Yarısı</title>
+    <desc lang="tr">Sekiz yıl önce yaşanan büyük bir kaybın ardından yolları aynı çocuğun etrafında kesişen Ali ve Zeynep&apos;in duygu yüklü hikayesi...</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/49/2204223777575eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/73/2204223777565eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/68/0700169347795eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/81/0700169347785eb9542c.jpg" />
   </programme>
   <programme start="20260922211500 +0000" stop="20260922213500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Maysa ve Bulut</title>
@@ -14690,13 +14650,11 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/35/2204329168635eb78424.jpg" />
   </programme>
   <programme start="20260922233000 +0000" stop="20260923013000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">İnadına Aşk</title>
-    <desc lang="tr">Her şey Karadenizli bir ailenin kızı olan Defne’nin, Aras Teknoloji’nin yakışıklı ve çapkın patronu Yalın’ın yanında işe girmesiyle başlar.
-
-Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi ve sürtüşmeleriyle başlayan hikaye, Defne’nin maço ağabeyi Çınar’ın müdahaleleriyle iyice karışır. Ama asıl cümbüş, Çınar’ın Yalın’ın kız kardeşi Yeşim’e aşık olmasıyla kopacaktır!</desc>
+    <title lang="tr">Aşk Yeniden</title>
+    <desc lang="tr">Zeynep, ailesini karşısına alarak sevdiği adamın ardından Amerika’ya gider ve yeni doğan çocuğuyla ortada kalır. Fatih ise eğitim için gittiği Amerika’dan hayal kırıklığıyla dönen zengin bir ailenin oğludur. Ailesinin kendisi için seçtiği gelin adayı İrem’den sıra dışı bir planla kurtulmak isteyen Fatih’in uçakta tanıştığı Zeynep’e karısı rolünü oynamasını teklif etmesiyle hikaye başlıyor. Hayatındaki mecburiyetlerden dolayı bu teklifi kabul etmek zorunda kalan Zeynep, küçük bebeği Selim’le kendini yeni bir maceranın ortasında buluyor.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/69/2204223777655eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/71/2204223777645eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/45/0700169347875eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/98/0700169347865eb9542c.jpg" />
   </programme>
   <programme start="20260922233000 +0000" stop="20260922235500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Z Takımı</title>
@@ -17650,14 +17608,14 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/97/2204192294635eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/74/2204192294625eb7f426.jpg" />
   </programme>
-  <programme start="20260923103000 +0000" stop="20260923133000 +0000" channel="NOWTV.tr@SD">
+  <programme start="20260923103000 +0000" stop="20260923160000 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">En Hamarat Benim</title>
     <desc lang="tr">Birbirinden eğlenceli ve becerikli beş yarışmacı önce temizlik dedektifi Kadir Ezildi&apos;nin göz hapsinde kendi evlerinin temizliğini yapıyor, evler temizlendikten sonra ise mutfakta hünerlerini sergiliyor. 
 
 Kendine güvenen hamarat yarışmacılar ayrıca çay saati için de birbirinden nefis yiyecekler hazırlıyor, sofralar kuruyor. Haftanın finalinde ise en yüksek puanı alan yarışmacı, büyük ödülün sahibi oluyor.</desc>
     <category lang="tr">Yarışma</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/29/2204223808215eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/62/2204223808205eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/26/0700169347955eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/65/0700169347945eb9542c.jpg" />
   </programme>
   <programme start="20260923103000 +0000" stop="20260923105500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Belle Ve Sebastian</title>
@@ -18497,15 +18455,6 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/96/2204371719855eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/80/2204371719845eb78424.jpg" />
-  </programme>
-  <programme start="20260923133000 +0000" stop="20260923160000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Karagül</title>
-    <desc lang="tr">Doğulu zengin bir ailenin oğlu Murat, İstanbul&apos;da zarif eşi Ebru ve 3 çocuğuyla mutlu bir hayat sürmektedir. Bu peri masalı Murat&apos;ın aniden ortadan kaybolmasıyla Ebru ve çocuklar için büyük bir yıkıma dönüşür.
-
-Murat&apos;ın kayboluşunun ardından Murat&apos;ın memleketi Halfeti&apos;ye giden Ebru, kocasının kendinden gizlediği iflas gerçeğiyle yüzleşir. Diğer yandan eşinin ailesiyle mücadele etmek zorunda kalır. İstanbul&apos;dan gelen bu narin ve iyi yetişmiş kadın, karagül gibi bu topraklarda kalmak için direnecek mi yoksa tüm bu mücadeleden vazgeçip kendi yolunu mu çizecek?</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/43/2204223808295eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/74/2204223808285eb9542c.jpg" />
   </programme>
   <programme start="20260923133000 +0000" stop="20260923143000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Paratoner</title>
