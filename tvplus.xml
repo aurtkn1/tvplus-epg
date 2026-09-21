@@ -6774,6 +6774,12 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/34/2204340942305eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260915/53/2204340942295eb7f426.jpg" />
   </programme>
+  <programme start="20260921190000 +0000" stop="20260921210000 +0000" channel="SSport.tr@SD">
+    <title lang="tr">Euroleague Süper Kupa</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/68/0500152606285eb9542c.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/68/0500152606275eb9542c.jpg" />
+  </programme>
   <programme start="20260921190000 +0000" stop="20260921210000 +0000" channel="TRTSpor.tr@SD">
     <title lang="tr">Aktüel Futbol</title>
     <desc lang="tr">Futbol dünyasına dair bütün detaylar bu program ile ekranlarınıza geliyor. Liglerden özet görüntüler, günün öne çıkan ayrıntıları, analizler ve yorumlar Aktüel Futbol&apos;da.</desc>
