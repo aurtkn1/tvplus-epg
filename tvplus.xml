@@ -6877,6 +6877,13 @@ Fatih, Roma&apos;ya yürümeye hazırlanırken doğuda başlayacak bir savaşı 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/74/2204315499305eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260916/74/2204315499295eb78424.jpg" />
   </programme>
+  <programme start="20260922190000 +0000" stop="20260922210000 +0000" channel="SSport.tr@SD">
+    <title lang="tr">Euroleague</title>
+    <desc lang="tr">Sezon Maçları</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/75/0500160189945eb8f42a.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/20/0500160189935eb8f42a.jpg" />
+  </programme>
   <programme start="20260922190000 +0000" stop="20260922194500 +0000" channel="TRTBelgesel.tr@SD">
     <title lang="tr">Medeniyet Sayfaları</title>
     <category lang="tr">Yaşam</category>
@@ -7220,6 +7227,13 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <desc lang="tr">Anadolu&apos;da hayvan yetiştiriciliğinde kullanılan geleneksel tedavi yöntemlerini araştırmak için Almanya&apos;dan memleketine dönen veteriner Dilara ile babasından ödünç aldığı parayı yerine koyamadığı için memlekete dedesinin yanına çobanlık yapan Burak&apos;ın kesişen hayatlarını anlatan romantik komedi.</desc>
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260917/35/2204381202685eb88428.jpg" />
+  </programme>
+  <programme start="20260922203000 +0000" stop="20260922223000 +0000" channel="SSport2.tr@SD">
+    <title lang="tr">NBA</title>
+    <desc lang="tr">Sezon Maçları</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/93/0500152559245eb7f426.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/47/0500152559235eb7f426.jpg" />
   </programme>
   <programme start="20260922203000 +0000" stop="20260922213000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Hurda Avcıları</title>
@@ -13585,7 +13599,8 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <title lang="tr">Supertri Pro Series</title>
     <desc lang="tr">Final</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/12/2300193713615eb8f42a.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/96/0500160190025eb8f42a.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/96/0500160190015eb8f42a.jpg" />
   </programme>
   <programme start="20260923160000 +0000" stop="20260923170000 +0000" channel="TRTHaber.tr@SD">
     <title lang="tr">Sıcak Haber</title>
