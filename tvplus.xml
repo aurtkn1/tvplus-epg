@@ -13379,11 +13379,11 @@ Ali&apos;nin kızını almak için İzmir&apos;e geldiğini öğrenen Zeynep ön
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/42/2305224760995eb9542c.jpg" />
   </programme>
   <programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="DreamTurk.tr@SD">
-    <title lang="tr">Klip Sizden</title>
-    <desc lang="tr">Klip Sizden, müzikseverlerin favori şarkı ve kliplerini belirlediği, izleyici katılımına dayalı keyifli bir program sunuyor. Sevilen sanatçılar ve hit parçalar, izleyicilerin tercihleriyle ekrana geliyor.</desc>
+    <title lang="tr">Dream Türk Özel</title>
+    <desc lang="tr">Dream Türk Özel, Türk müziğine damga vuran sanatçıları, özel performansları ve dikkat çeken müzik içeriklerini bir araya getiriyor. Özel bölümler ve seçkilerle izleyiciye ayrıcalıklı bir müzik deneyimi sunuyor.</desc>
     <category lang="tr">Eğlence</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/87/2305203869255eb7f426.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/69/2305203869245eb7f426.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/20/1205215891235eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/76/1205215891225eb9b42e.jpg" />
   </programme>
   <programme start="20260926150000 +0000" stop="20260926154500 +0000" channel="TRTTurk.tr@SD">
     <title lang="tr">Haber 18</title>
@@ -13867,7 +13867,7 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/79/2005209761655eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/2/2005209761645eb78424.jpg" />
   </programme>
-  <programme start="20260926163000 +0000" stop="20260927040000 +0000" channel="DreamTurk.tr@SD">
+  <programme start="20260926163000 +0000" stop="20260926180000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
@@ -14316,6 +14316,10 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/90/2305224771245eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/92/2305224771235eb9542c.jpg" />
   </programme>
+  <programme start="20260926180000 +0000" stop="20260926190000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Konu Buraya Nasıl Geldi</title>
+    <category lang="tr">Eğlence</category>
+  </programme>
   <programme start="20260926180000 +0000" stop="20260926183000 +0000" channel="TRTTurk.tr@SD">
     <title lang="tr">Rafet El Roman İle Her Şey Yolunda</title>
     <desc lang="tr">Sevilen sanatçı Rafet El Roman, birbirinden değerli konuklarını arabasında ağırlıyor ve Avrupa sokaklarında keyifli bir sohbet eşliğinde yolculuğa çıkıyor...</desc>
@@ -14575,6 +14579,13 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/84/2305224771325eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260918/13/2305224771315eb9542c.jpg" />
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260927040000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/4/1205215901335eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/33/1205215901325eb9b42e.jpg" />
   </programme>
   <programme start="20260926190000 +0000" stop="20260926204500 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Çılgın Dostlar</title>
@@ -16986,7 +16997,7 @@ Maraz Ali ise İstanbul’un en büyük suç çetesinin lideridir. Dışarıdan 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/91/2305239455545eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/38/2305239455535eb7f426.jpg" />
   </programme>
-  <programme start="20260927040000 +0000" stop="20260927090000 +0000" channel="DreamTurk.tr@SD">
+  <programme start="20260927040000 +0000" stop="20260927080000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
@@ -18117,6 +18128,7 @@ Doğayla iç içe bir yolculuğa çıkan Taner Ölmez, çevre sorunlarına dikka
     <title lang="tr">Son 5</title>
     <desc lang="tr">Gündemde ve günlük yaşamda öne çıkan gelişmeler, dikkat çeken olaylar ve merak edilen konular ele alınıyor. Son dönemin öne çıkan başlıkları, ilgi çekici bilgiler ve farklı alanlardan gelişmeler kısa, anlaşılır ve dinamik bir anlatımla izleyiciye aktarılıyor. Güncel gelişmeleri takip etmek isteyenlere hızlı bir bakış sunuluyor.</desc>
     <category lang="tr">Magazin</category>
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/96/1205175379295eb7f426.jpg" />
   </programme>
   <programme start="20260927073000 +0000" stop="20260927074500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
@@ -18274,6 +18286,10 @@ Doğayla iç içe bir yolculuğa çıkan Taner Ölmez, çevre sorunlarına dikka
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/31/0035217014785eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/36/0035217014775eb7f426.jpg" />
+  </programme>
+  <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Yaşam Reçetesi</title>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260927080000 +0000" stop="20260927083000 +0000" channel="TRTTurk.tr@SD">
     <title lang="tr">Temizlik Kulübü</title>
@@ -18834,6 +18850,7 @@ Güntay Şimşek&apos;in hazırladığı program, havayolu şirketleri, havalima
     <title lang="tr">Paranın İzinden Uygarlık Tarihi</title>
     <desc lang="tr">Paranın ortaya çıkışından günümüze uzanan süreçte uygarlıkların ekonomik ve toplumsal dönüşümü ele alınıyor. Ticaret yolları, eski para birimleri, pazarlar ve ekonomik ilişkiler üzerinden medeniyetlerin gelişimine ışık tutulurken, paranın insanlık tarihindeki değişen rolü farklı yönleriyle inceleniyor.</desc>
     <category lang="tr">Magazin</category>
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/38/1205175409325eb7f426.jpg" />
   </programme>
   <programme start="20260927093000 +0000" stop="20260927094500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
@@ -19041,7 +19058,7 @@ Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaş�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/81/0035217024945eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/91/0035217024935eb7f426.jpg" />
   </programme>
-  <programme start="20260927100000 +0000" stop="20260927140000 +0000" channel="DreamTurk.tr@SD">
+  <programme start="20260927100000 +0000" stop="20260927110000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
@@ -19188,6 +19205,7 @@ Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaş�
     <title lang="tr">Açık Deniz</title>
     <desc lang="tr">Açık denizlerin büyüleyici dünyası, doğası ve insan hayatındaki yeri farklı yönleriyle ele alınıyor. Denizcilik kültürü, keşifler, deniz yaşamı ve engin sularda karşılaşılan ilgi çekici hikâyeler izleyiciyle buluşuyor. Ufukların ötesine uzanan bu yolculuk, denizlerin bilinmeyen yönlerini keşfe davet ediyor.</desc>
     <category lang="tr">Magazin</category>
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/38/1205175409355eb7f426.jpg" />
   </programme>
   <programme start="20260927103000 +0000" stop="20260927123000 +0000" channel="SinemaAksiyon.tr@SD">
     <title lang="tr">Kripto Vurgun</title>
@@ -19367,6 +19385,10 @@ Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaş�
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/64/2305239475965eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/14/2305239475955eb7f426.jpg" />
+  </programme>
+  <programme start="20260927110000 +0000" stop="20260927120000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Konu Buraya Nasıl Geldi</title>
+    <category lang="tr">Eğlence</category>
   </programme>
   <programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="TRTTurk.tr@SD">
     <title lang="tr">Kültür Noktası</title>
@@ -19664,6 +19686,13 @@ Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaş�
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/37/2305239476045eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/30/2305239476035eb7f426.jpg" />
+  </programme>
+  <programme start="20260927120000 +0000" stop="20260927140000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/36/1205215901455eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/2/1205215901445eb9b42e.jpg" />
   </programme>
   <programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="TRTTurk.tr@SD">
     <title lang="tr">Aklıselim</title>
@@ -20711,11 +20740,11 @@ uyandırırken, cezaevinden çıkmaya hazırlanan Ateş&apos;in gelişi bütün 
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/22/2305239496355eb7f426.jpg" />
   </programme>
   <programme start="20260927150000 +0000" stop="20260927153000 +0000" channel="DreamTurk.tr@SD">
-    <title lang="tr">Klip Sizden</title>
-    <desc lang="tr">Klip Sizden, müzikseverlerin favori şarkı ve kliplerini belirlediği, izleyici katılımına dayalı keyifli bir program sunuyor. Sevilen sanatçılar ve hit parçalar, izleyicilerin tercihleriyle ekrana geliyor.</desc>
+    <title lang="tr">Dream Türk Özel</title>
+    <desc lang="tr">Dream Türk Özel, Türk müziğine damga vuran sanatçıları, özel performansları ve dikkat çeken müzik içeriklerini bir araya getiriyor. Özel bölümler ve seçkilerle izleyiciye ayrıcalıklı bir müzik deneyimi sunuyor.</desc>
     <category lang="tr">Eğlence</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/44/2305204916795eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/61/2305204916785eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/44/1205215901535eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/89/1205215901525eb9b42e.jpg" />
   </programme>
   <programme start="20260927150000 +0000" stop="20260927170000 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Kaos Kardeşler Ve Penguen Paul</title>
@@ -21933,6 +21962,7 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <title lang="tr">Son 5</title>
     <desc lang="tr">Gündemde ve günlük yaşamda öne çıkan gelişmeler, dikkat çeken olaylar ve merak edilen konular ele alınıyor. Son dönemin öne çıkan başlıkları, ilgi çekici bilgiler ve farklı alanlardan gelişmeler kısa, anlaşılır ve dinamik bir anlatımla izleyiciye aktarılıyor. Güncel gelişmeleri takip etmek isteyenlere hızlı bir bakış sunuluyor.</desc>
     <category lang="tr">Magazin</category>
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/63/1205175409385eb7f426.jpg" />
   </programme>
   <programme start="20260927193000 +0000" stop="20260927213000 +0000" channel="SSport2.tr@SD">
     <title lang="tr">Euroleague</title>
@@ -22030,6 +22060,7 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <title lang="tr">Açık Deniz</title>
     <desc lang="tr">Açık denizlerin büyüleyici dünyası, doğası ve insan hayatındaki yeri farklı yönleriyle ele alınıyor. Denizcilik kültürü, keşifler, deniz yaşamı ve engin sularda karşılaşılan ilgi çekici hikâyeler izleyiciyle buluşuyor. Ufukların ötesine uzanan bu yolculuk, denizlerin bilinmeyen yönlerini keşfe davet ediyor.</desc>
     <category lang="tr">Magazin</category>
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/61/1205175409415eb7f426.jpg" />
   </programme>
   <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newsdesk</title>
@@ -23051,6 +23082,7 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <title lang="tr">Paranın İzinden Uygarlık Tarihi</title>
     <desc lang="tr">Paranın ortaya çıkışından günümüze uzanan süreçte uygarlıkların ekonomik ve toplumsal dönüşümü ele alınıyor. Ticaret yolları, eski para birimleri, pazarlar ve ekonomik ilişkiler üzerinden medeniyetlerin gelişimine ışık tutulurken, paranın insanlık tarihindeki değişen rolü farklı yönleriyle inceleniyor.</desc>
     <category lang="tr">Magazin</category>
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/37/1205175409445eb7f426.jpg" />
   </programme>
   <programme start="20260928003000 +0000" stop="20260928011500 +0000" channel="TRTTurk.tr@SD">
     <title lang="tr">Zamâne</title>
@@ -38299,7 +38331,7 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/23/2204375358485eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/67/2204375358475eb78424.jpg" />
   </programme>
-  <programme start="20260930163000 +0000" stop="20261001040000 +0000" channel="DreamTurk.tr@SD">
+  <programme start="20260930163000 +0000" stop="20260930170000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Dream Türk En İyiler</title>
     <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
     <category lang="tr">Eğlence</category>
@@ -38468,6 +38500,13 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <category lang="tr">Yarışma</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/73/2204235207055eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/76/2204235207045eb88428.jpg" />
+  </programme>
+  <programme start="20260930170000 +0000" stop="20260930180000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Smart Sahne</title>
+    <desc lang="tr">Spor gündeminin öne çıkan başlıkları, dikkat çeken gelişmeler ve başarı hikâyeleri bir araya geliyor. Farklı branşlardan güncel haberler, önemli değerlendirmeler ve merak edilen detaylar izleyiciyle buluşuyor. Sporun nabzını yakından takip etmek isteyenler için akıcı ve dinamik bir içerik sunuluyor.</desc>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/29/1205215911615eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/27/1205215911605eb9b42e.jpg" />
   </programme>
   <programme start="20260930170000 +0000" stop="20260930190000 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Olağanüstü Dünya</title>
@@ -38644,6 +38683,13 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/10/2305304482195eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/61/2305304482185eb9542c.jpg" />
+  </programme>
+  <programme start="20260930180000 +0000" stop="20261001040000 +0000" channel="DreamTurk.tr@SD">
+    <title lang="tr">Dream Türk En İyiler</title>
+    <desc lang="tr">Dream Türk En İyiler, listelerde zirveye çıkan, dönemine damga vuran ve dinleyicilerin favorisi olan şarkıları bir araya getiriyor. Türkçe popun en güçlü isimleri ve unutulmaz hit parçalar, klipleriyle ekrana gelirken, müzikseverlere nostalji ve güncel ritmi bir arada sunan keyifli bir müzik deneyimi yaşatıyor.</desc>
+    <category lang="tr">Eğlence</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/58/1205215911695eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/24/1205215911685eb9b42e.jpg" />
   </programme>
   <programme start="20260930180000 +0000" stop="20260930190000 +0000" channel="SportsTV.tr@SD">
     <title lang="tr">Euroformula Open</title>
