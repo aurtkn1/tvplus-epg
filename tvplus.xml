@@ -6561,7 +6561,7 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/42/2204213569035eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/50/2204213569025eb88428.jpg" />
   </programme>
-  <programme start="20260925170000 +0000" stop="20260925211500 +0000" channel="TRT1.tr@SD">
+  <programme start="20260925170000 +0000" stop="20260925203500 +0000" channel="TRT1.tr@SD">
     <title lang="tr">Taşacak Bu Deniz</title>
     <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil&apos;i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna&apos;yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil&apos;in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum&apos;u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon&apos;a gelmiştir.</desc>
     <category lang="tr">Dizi</category>
@@ -7375,6 +7375,14 @@ Ali&apos;nin kızını almak için İzmir&apos;e geldiğini öğrenen Zeynep ön
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/73/0400241460505eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/96/0400241460495eb88428.jpg" />
   </programme>
+  <programme start="20260925203500 +0000" stop="20260925225500 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Mehmed: Fetihler Sultanı</title>
+    <desc lang="tr">Şehzade Alaaddin&apos;in beklenmedik ölümüyle sarsılan Murad Han, Bursa&apos;ya çekilir. Yerine oğlu Şehzade Mehmed geçer. Mehmed, Avrupalı devletler tarafından toy gözükse de, gerçekte durum farklıdır. Tahta çıkan Sultan Mehmed, ilk büyük mücadelesini Bizans&apos;a sığınan ve destek alan Orhan&apos;a karşı verecektir. Orhan, Mehmed&apos;in genç ve toy olduğunu düşünerek onu alt etmek isterken, Mehmed tahtın sahibi olduğunu kanıtlamak için onunla mücadele etmektedir.
+Sultan Mehmed&apos;in aklında bir düş vardır: Konstantiniyye&apos;yi fethetmek.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/61/0700171622025eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/79/0700171622015eb9b42e.jpg" />
+  </programme>
   <programme start="20260925203500 +0000" stop="20260925205000 +0000" channel="TRTAvaz.tr@SD">
     <title lang="tr">İzler</title>
     <desc lang="tr">Program, Türk Dünyasının ortak geçmişinde iz bırakmış olayların ve kişilerin hikayelerini somut bir şekilde ortaya koymayı hedefleyen bir tarih - belgesel serisidir.</desc>
@@ -7542,14 +7550,6 @@ uyandırırken, cezaevinden çıkmaya hazırlanan Ateş&apos;in gelişi bütün 
     <category lang="tr">Yarışma</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/21/2204281047315eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/18/2204281047305eb9b42e.jpg" />
-  </programme>
-  <programme start="20260925211500 +0000" stop="20260925234500 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Mehmed: Fetihler Sultanı</title>
-    <desc lang="tr">Şehzade Alaaddin&apos;in beklenmedik ölümüyle sarsılan Murad Han, Bursa&apos;ya çekilir. Yerine oğlu Şehzade Mehmed geçer. Mehmed, Avrupalı devletler tarafından toy gözükse de, gerçekte durum farklıdır. Tahta çıkan Sultan Mehmed, ilk büyük mücadelesini Bizans&apos;a sığınan ve destek alan Orhan&apos;a karşı verecektir. Orhan, Mehmed&apos;in genç ve toy olduğunu düşünerek onu alt etmek isterken, Mehmed tahtın sahibi olduğunu kanıtlamak için onunla mücadele etmektedir.
-Sultan Mehmed&apos;in aklında bir düş vardır: Konstantiniyye&apos;yi fethetmek.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/69/2204302919095eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/59/2204302919085eb9542c.jpg" />
   </programme>
   <programme start="20260925211500 +0000" stop="20260925221500 +0000" channel="TV85.tr@SD">
     <title lang="tr">En İyi Nakavtlar</title>
@@ -7932,6 +7932,15 @@ Yıllar sonra oğluna kavuşmak için Adana&apos;ya dönen Leyla, karşısında 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/24/2204390675175eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/85/2204390665165eb9542c.jpg" />
   </programme>
+  <programme start="20260925225500 +0000" stop="20260926001500 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Seksenler</title>
+    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com&apos;u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk... 
+
+Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları, misket dolu torbaları ilk defa bu dizide görecek.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/41/0700171632185eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/41/0700171632175eb9b42e.jpg" />
+  </programme>
   <programme start="20260925230000 +0000" stop="20260926010000 +0000" channel="ASpor.tr@SD">
     <title lang="tr">İsveç - Romanya</title>
     <desc lang="tr">UEFA Uluslar Ligi H Grubu ilk maçı ekrana geliyor.</desc>
@@ -8099,15 +8108,6 @@ Yıllar sonra oğluna kavuşmak için Adana&apos;ya dönen Leyla, karşısında 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/97/2204185301745eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/42/2204185301735eb88428.jpg" />
   </programme>
-  <programme start="20260925234500 +0000" stop="20260926005500 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Seksenler</title>
-    <desc lang="tr">Klasik bir Türk ailesinin yaşamını konu alan eğlenceli bir dönem sit-com&apos;u... Sosyal hayattaki değişim, hayatımıza giren yeniliklerin bizleri nasıl etkilediği gözler önüne seriliyor. Seksenler dizisi bize kaybettiğimiz insani değerleri yeni nesillere tekrar kazandırmak amacıyla geçmişe yapılmış eğlenceli bir yolculuk... 
-
-Çocuklar; sobayı, merdaneli makineyi, pul yapıştırıp yolladığımız mektupları, anket defterlerini, siyah önlükleri, kolalı yakaları, sokaklarda koşturarak sürdüğümüz telli arabaları, misket dolu torbaları ilk defa bu dizide görecek.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/4/2204302919175eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/54/2204302919165eb9542c.jpg" />
-  </programme>
   <programme start="20260925234500 +0000" stop="20260926013000 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Dally  and  Spanky&apos;nin Maceraları</title>
     <desc lang="tr">2019 yapımı aile filminde bir kızın midillisinin üvey kız kardeşinin Jack Russell Terrier&apos;i ile kurduğu sıra dışı bağ konu alınıyor…</desc>
@@ -8241,6 +8241,13 @@ Konya Sarayı&apos;nda ise dengeler değişmektedir. Anna&apos;nın has odaya al
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/48/2204316936025eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/55/2204316936015eb9542c.jpg" />
+  </programme>
+  <programme start="20260926001500 +0000" stop="20260926031500 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Taşacak Bu Deniz</title>
+    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil&apos;i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna&apos;yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil&apos;in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum&apos;u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon&apos;a gelmiştir.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/79/0700171622105eb9b42e.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/90/0700171622095eb9b42e.jpg" />
   </programme>
   <programme start="20260926001500 +0000" stop="20260926014500 +0000" channel="SinemaTV.tr@SD">
     <title lang="tr">Hayatın Yolları</title>
@@ -8377,11 +8384,6 @@ Zincirleme Reaksiyon&apos;da her hafta yeni konular ve alanlarının en önemli 
     <category lang="tr">Hava Durumu</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/43/2204390695575eb9542c.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260920/88/2204390695565eb9542c.jpg" />
-  </programme>
-  <programme start="20260926005500 +0000" stop="20260926031500 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Dizi</title>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/53/2204302929235eb9542c.jpg" />
   </programme>
   <programme start="20260926005500 +0000" stop="20260926014000 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Hazen Audel ile Kabile Yaşamı: Amazon Macerası</title>
