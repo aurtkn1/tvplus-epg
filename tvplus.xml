@@ -10658,6 +10658,7 @@ Güzel, bakımlı ve şık olmak için basit ve uygulanabilir yöntemler, Tülin
   </programme>
   <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Yaşam Reçetesi</title>
+    <desc lang="tr">Sağlıklı ve dengeli bir yaşam için günlük hayatta uygulanabilecek pratik öneriler ele alınıyor. Beslenme, kişisel bakım, güzellik, yaşam alışkanlıkları ve iyi yaşamın farklı alanlarına dair faydalı bilgiler, uzman görüşleri ve öneriler eşliğinde aktarılıyor.</desc>
     <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260927080000 +0000" stop="20260927083000 +0000" channel="TRTTurk.tr@SD">
@@ -12970,9 +12971,12 @@ uyandırırken, cezaevinden çıkmaya hazırlanan Ateş&apos;in gelişi bütün 
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/70/2204216028245eb8f42a.jpg" />
   </programme>
   <programme start="20260927143000 +0000" stop="20260927160000 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Dizi</title>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/87/2204304007625eb9542c.jpg" />
+    <title lang="tr">Kod Adı Kırlangıç</title>
+    <desc lang="tr">İkiz Kapı büyük bir enerji gücüne açılır Kapının içinde yaşanan olayların ardından ağır yaralanan Fatih Hoca yoğun bakımda üç aydır yaşam mücadelesi vermektedir. Babasının durumu Yiğit Efe&apos;yi derinden sarsarken, Kırlangıç Takımı&apos;nda yol ayrımları yaşanır. Ekip bundan sonra yola iki eksikle devam edecektir. Bu zor dönemde gelen gizli bir çağrı, Kırlangıç ekibini gizli bir adaya götürür. Burada bayrak üzerine yemin edip Kırlangıç Tim adını alırlar. Artık yeni bir görevleri vardır; Uzaydan düşen taşın çekirdeğini fırlatma üssünde kullanmak ve kayıp yazıtları Şirket&apos;ten önce çözmek.
+Diğer taraftan İmparator adında büyük güç mücadeleye dâhil olur. İkiz Kapı yenilgisini hazmedemeyen Atlas ise okulu karıştırmaya kararlıdır.</desc>
+    <category lang="tr">Çocuk</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260926/54/1500169938865eb88428.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260926/81/1500169938855eb88428.jpg" />
   </programme>
   <programme start="20260927143000 +0000" stop="20260927150000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Dream Türk En İyiler</title>
