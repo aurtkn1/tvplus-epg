@@ -10667,12 +10667,12 @@ Güzel, bakımlı ve şık olmak için basit ve uygulanabilir yöntemler, Tülin
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/66/2204419237055eb88428.jpg" />
   </programme>
-  <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="CNNTurk.tr@SD">
+  <programme start="20260927080000 +0000" stop="20260927081500 +0000" channel="CNNTurk.tr@SD">
     <title lang="tr">Haber</title>
     <desc lang="tr">Türkiye&apos;de ve dünyada yaşanan önemli gelişmelerin ayrıntıları izleyiciye taşınıyor. Siyasetten ekonomiye, spordan sanata, gündemi oluşturan haberlerin aktarıldığı programda, hava-yol durumu güncellemeleri de ekrana taşınıyor.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/1/2204263977205eb7f426.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/69/2204263977195eb7f426.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260926/11/1600167929035eb88428.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260926/13/1600167929025eb88428.jpg" />
   </programme>
   <programme start="20260927080000 +0000" stop="20260927090000 +0000" channel="AHaber.tr@SD">
     <title lang="tr">Ajans Hafta Sonu</title>
@@ -10783,6 +10783,13 @@ Ali&apos;nin kızını almak için İzmir&apos;e geldiğini öğrenen Zeynep ön
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/51/2005160184575eb7f426.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/26/2005160184565eb7f426.jpg" />
+  </programme>
+  <programme start="20260927081500 +0000" stop="20260927090000 +0000" channel="CNNTurk.tr@SD">
+    <title lang="tr">5N1K</title>
+    <desc lang="tr">Cüneyt Özdemir&apos;in hazırlayıp sunduğu 5N1K, gazeteciliğin altı temel sorusu olan &apos;ne, nerede, ne zaman, nasıl, neden ve kim&apos;e yanıt arıyor. Programda, sanat, spor, siyaset dünyasından konuklarla gündemin öne çıkan konuları ele alınıyor.</desc>
+    <category lang="tr">Haber</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260926/8/1600167928955eb88428.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260926/54/1600167918945eb88428.jpg" />
   </programme>
   <programme start="20260927081500 +0000" stop="20260927091500 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Müzik Yolcuları</title>
