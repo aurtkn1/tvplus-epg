@@ -3815,14 +3815,12 @@ Okullarını bitirmeye çalışırken başlarına gelen bir olay yüzünden, bü
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/57/2204201267175eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/50/2204201267165eb8f42a.jpg" />
   </programme>
-  <programme start="20260927100000 +0000" stop="20260927143000 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Evlilik Güzeldir</title>
-    <desc lang="tr">Hayatı boyunca binlerce çiftin nikâhını kıyan Mesut Bahtiyar, yüz bininci nikâhıyla büyük bir rekora imza atar. Gelgelelim, bu rekortmen nikâh memurunun beş kızının beşi de bekârdır. Kızlarının hazırladığı sürpriz kutlama Mesut&apos;u duygulandırırken, başkalarının mutluluğuna şahitlik eden Mesut Bahtiyar&apos;ın asıl sınavı kendi evinde başlar.
-
-Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaşı Sinan&apos;la tesadüfen karşılaşan Mesut, genç adamın niyetini öğrenmek ister. Bu görüşmenin ardından Sinan&apos;ın ailesinin İstanbul&apos;a gelişi, Bahtiyarların eski konağında yaşanacakların ilk habercisi olur.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/33/2204302949625eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/57/2204302949615eb9542c.jpg" />
+  <programme start="20260927100000 +0000" stop="20260927111000 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Turgay Başyayla ile Lezzetli Tavsiye</title>
+    <desc lang="tr">Turgay Başyayla ile yurdumuzun yöresel lezzetlerini keşfetmeye hazır mısınız?</desc>
+    <category lang="tr">Yaşam</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/48/0700169278285eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/46/0700169278275eb78424.jpg" />
   </programme>
   <programme start="20260927100000 +0000" stop="20260927110000 +0000" channel="UlkeTV.tr@SD">
     <title lang="tr">Haber 13</title>
@@ -4245,6 +4243,15 @@ Bu bölümde, sevgilisinin gönlünü almak isterken babasının arabasını yak
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/77/2305225479065eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260919/9/2305225479055eb88428.jpg" />
+  </programme>
+  <programme start="20260927111000 +0000" stop="20260927143000 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Evlilik Güzeldir</title>
+    <desc lang="tr">Hayatı boyunca binlerce çiftin nikâhını kıyan Mesut Bahtiyar, yüz bininci nikâhıyla büyük bir rekora imza atar. Gelgelelim, bu rekortmen nikâh memurunun beş kızının beşi de bekârdır. Kızlarının hazırladığı sürpriz kutlama Mesut&apos;u duygulandırırken, başkalarının mutluluğuna şahitlik eden Mesut Bahtiyar&apos;ın asıl sınavı kendi evinde başlar.
+
+Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaşı Sinan&apos;la tesadüfen karşılaşan Mesut, genç adamın niyetini öğrenmek ister. Bu görüşmenin ardından Sinan&apos;ın ailesinin İstanbul&apos;a gelişi, Bahtiyarların eski konağında yaşanacakların ilk habercisi olur.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/90/0700169288525eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/30/0700169288515eb78424.jpg" />
   </programme>
   <programme start="20260927111500 +0000" stop="20260927120000 +0000" channel="24TV.tr@SD">
     <title lang="tr">8. Etap</title>
@@ -6250,13 +6257,12 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
   </programme>
   <programme start="20260927170000 +0000" stop="20260927211500 +0000" channel="TRT1.tr@SD">
     <title lang="tr">Teşkilat</title>
-    <desc lang="tr">Yedinci sezonuyla yeni bir dönemin kapılarını açan Teşkilatta, Türkiye&apos;ye yönelik tehditlerin
-farklı bir boyut kazanmasıyla Özel Operasyonlar Daire Başkanı Tuğrul Aslansoy harekete
-geçiyor. Farklı yetenekleri ve sahadaki tecrübeleriyle öne çıkan Defne, Cihan ve Zülküf,
-Tuğrul Başkan&apos;ın liderliğinde aynı amaç için bir araya geliyor.</desc>
+    <desc lang="tr">Ender&apos;in kaçırılmasından sonra öfkelenen Altay, yuvaya döner; ama onun en büyük önceliği oğluna kavuşmaktır. Altay&apos;ın öfkesi onu Tuğrul Başkan ile karşı karşıya getirir.
+Korkut ve Yahya arasında büyük bir hesaplaşma yaşanırken Şahin, hesap etmediği sonuçlara katlanmak zorunda kalır. Bahar&apos;ın nihayet sahaya inmesi ise Korkut için bir başka zorluk olacaktır.
+Ulak, Ender vasıtasıyla Altay&apos;ı ve Teşkilat&apos;ı yenme peşindedir. Azra ise bu büyük denklemde en önemli rollerden birini oynayacaktır. Düşman amacına ulaşamayacaktır çünkü artık kurt uyanmıştır.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/60/2204302949705eb9542c.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/61/2204302949695eb9542c.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/51/0700169298605eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/56/0700169298595eb78424.jpg" />
   </programme>
   <programme start="20260927170000 +0000" stop="20260927180000 +0000" channel="UlkeTV.tr@SD">
     <title lang="tr">En İyisi Gezmek</title>
@@ -6637,8 +6643,8 @@ Bu tuhaf soruların cevaplarınıTuhaf İşler takımıyla yanıtlayalım ...</d
     <title lang="tr">Almanya - Yunanistan</title>
     <desc lang="tr">Almanya ile Yunanistan, UEFA Uluslar Ligi maçında karşı karşıya geliyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260923/91/2204317573605eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260923/75/2204317573595eb78424.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/19/0700164717965eb88428.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/3/0700164717955eb88428.webp" />
   </programme>
   <programme start="20260927184500 +0000" stop="20260927211500 +0000" channel="TV85.tr@SD">
     <title lang="tr">Küçük Dev Adam</title>
@@ -7589,10 +7595,14 @@ Burak Akkul&apos;un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip ner
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/87/2204427058135eb78424.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/58/2204427058125eb78424.jpg" />
   </programme>
-  <programme start="20260927223500 +0000" stop="20260928022000 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Dizi</title>
+  <programme start="20260927223500 +0000" stop="20260928010500 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Evlilik Güzeldir</title>
+    <desc lang="tr">Hayatı boyunca binlerce çiftin nikâhını kıyan Mesut Bahtiyar, yüz bininci nikâhıyla büyük bir rekora imza atar. Gelgelelim, bu rekortmen nikâh memurunun beş kızının beşi de bekârdır. Kızlarının hazırladığı sürpriz kutlama Mesut&apos;u duygulandırırken, başkalarının mutluluğuna şahitlik eden Mesut Bahtiyar&apos;ın asıl sınavı kendi evinde başlar.
+
+Kızı Yasemin&apos;in üç yıldır onunla tanıştırmadığı erkek arkadaşı Sinan&apos;la tesadüfen karşılaşan Mesut, genç adamın niyetini öğrenmek ister. Bu görüşmenin ardından Sinan&apos;ın ailesinin İstanbul&apos;a gelişi, Bahtiyarların eski konağında yaşanacakların ilk habercisi olur.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/91/2204258189565eb9b42e.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/30/0700169278365eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/19/0700169278355eb78424.jpg" />
   </programme>
   <programme start="20260927224000 +0000" stop="20260927232500 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Kadim Şifanın Gizemleri</title>
@@ -8218,6 +8228,17 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/29/2204315212145eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260922/78/2204315202135eb9b42e.jpg" />
+  </programme>
+  <programme start="20260928010500 +0000" stop="20260928022000 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">3&apos;te 3</title>
+    <desc lang="tr">Başarılı programları ile bilinen Pelin Çift&apos;in sunduğu bilgi yarışması 3&apos;te 3&apos;te, Prof. Dr. Tufan Gündüz yorumları ve yarışmacılara yaptığı yardımlarla programa renk katmaya devam ediyor. 
+
+Büyük ödülün 500 bin lira olduğu yarışmada yarışmacıların kazanmak için yapmaları gereken tek şey ise üst üste üç soruyu doğru cevaplayarak 3&apos;te 3 yapmak...
+
+Yarışmacılara her 3&apos;te 3 ten sonra Tamam mı, devam mı? sorusu soruluyor. Tamam diyen yarışmacı doğru cevapladığı son sorunun ödül miktarını alarak yarışmadan ayrılabiliyor. Devam diyen yarışmacı ise daha yüksek bir ödül miktarına ulaşmak için yarışmaya devam edebiliyor. Ayrıca yarışmacı yarışmanın herhangi bir anında önünde bulunan kırmızı butona basarak yarışmayı kendisi için sonlandırabiliyor. Yarışmacı böylelikle 3&apos;te 3 yaparak ulaştığı son ödül rakamının yarısını kazanarak yarışmadan ayrılıyor.</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/92/0700169288445eb78424.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260927/18/0700169288435eb78424.jpg" />
   </programme>
   <programme start="20260928011000 +0000" stop="20260928013500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Elif ve Arkadaşları</title>
