@@ -11103,13 +11103,6 @@ seçilen mekânların kendi diliyle anlattığı hikâyeleri ekrana taşıyacak.
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/12/2204355045685eb8f42a.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260925/6/2204355045675eb8f42a.jpg" />
   </programme>
-  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="Ekoturk.tr@SD">
-    <title lang="tr">Gün Ortası</title>
-    <desc lang="tr">Türkiye ve dünyadaki ekonomik gelişmeler bu programda ele alınır. Enflasyon, faiz, piyasa hareketleri, üretim ve tüketim verileri ile enerji ve gıda fiyatları uzman yorumlarıyla birlikte değerlendirilerek günün ekonomik görünümü izleyiciye sunulur.</desc>
-    <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/89/2305278368025eb78424.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260921/42/2305278368015eb78424.jpg" />
-  </programme>
   <programme start="20260929090000 +0000" stop="20260929092500 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
     <desc lang="tr">Take the pulse of the day with all the latest updates and breaking news on Newshour.</desc>
@@ -11300,6 +11293,11 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Gün Or
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260923/9/2204341512875eb9b42e.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260923/77/2204341512865eb9b42e.jpg" />
+  </programme>
+  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="Ekoturk.tr@SD">
+    <title lang="tr">Tarım Ve Gıda Ajansı</title>
+    <desc lang="tr">Tarım ve gıda sektörünün gündemi mercek altına alınıyor. Üretim, tüketim, sürdürülebilirlik ve sektördeki yeni gelişmeler; uzman görüşleri ve güncel veriler eşliğinde değerlendiriliyor. Gıdanın geleceğini şekillendiren başlıklar, farklı yönleriyle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260929093000 +0000" stop="20260929095000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
@@ -15835,6 +15833,11 @@ Tamamen zıt karakterler olan Defne ve Yalın’ın birbirlerinden nefret etmesi
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/8/2204347290065eb88428.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202609/20260924/16/2204347280055eb88428.jpg" />
+  </programme>
+  <programme start="20260930013000 +0000" stop="20260930020000 +0000" channel="Ekoturk.tr@SD">
+    <title lang="tr">Tarım Ve Gıda Ajansı</title>
+    <desc lang="tr">Tarım ve gıda sektörünün gündemi mercek altına alınıyor. Üretim, tüketim, sürdürülebilirlik ve sektördeki yeni gelişmeler; uzman görüşleri ve güncel veriler eşliğinde değerlendiriliyor. Gıdanın geleceğini şekillendiren başlıklar, farklı yönleriyle izleyiciye aktarılıyor.</desc>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20260930013000 +0000" stop="20260930030000 +0000" channel="TV8.tr@SD">
     <title lang="tr">Oynat Bakalım</title>
