@@ -6277,12 +6277,12 @@ Yürek burkan kaza ve devamında Behram&apos;ın vurulması bütün aileyi dehş
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/2/140021977079e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/53/140021977078e87ecbc8.jpg" />
   </programme>
-  <programme start="20261018170000 +0000" stop="20261018193000 +0000" channel="StarTV.tr@SD">
+  <programme start="20261018170000 +0000" stop="20261018183000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Erkek Güzeli Sefil Bilo</title>
     <desc lang="tr">Bir zamanlar sözde eşkıyalık yapmış olan Şivan ve Hüso, sürekli geçmişteki anılarını anlatıp durmaktadırlar. Özellikle Hüso, eşkıyalık günlerini sıkça hatırlayarak, çevresine inandırıcılıkta zorlandığı bu hikayeleri paylaşmaktadır. Köyün gençlerinden Bilo, bu hikayelere inanarak olayları heyecanla dinlemektedir. Eşkıya olma hayaline kapılan Bilo, Şivan ve Hüso&apos;yu zorla dağa çıkarır. Ancak bu eğlenceli üçlüyü, gerçek bir eşkıyalık deneyiminden çok, talihsiz ve komik olaylar beklemektedir.</desc>
     <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/83/220426293052e87f6bcc.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/44/220426293051e87f6bcc.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/95/150016201411e87ecbc8.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/60/150016201410e87ecbc8.jpg" />
   </programme>
   <programme start="20261018170000 +0000" stop="20261018210000 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Ömür Usta</title>
@@ -6690,6 +6690,13 @@ Bu tuhaf soruların cevaplarınıTuhaf İşler takımıyla yanıtlayalım ...</d
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261014/10/220430442748e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261014/44/220430442747e8805bd2.jpg" />
   </programme>
+  <programme start="20261018183000 +0000" stop="20261018205000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Hazine</title>
+    <desc lang="tr">Devlet memuru olan Mesut, annesinin ölüm haberini alır ve cenazesine katılmak için yıllar önce ayrıldığı, doğup büyüdüğü kasabaya geri döner. Annesine karşı son görevini yerine getirmek için kasabaya gelen Mesut&apos;un aklındaki tek şey, bir an önce İstanbul&apos;a dönüp yarım kalan gönül meselesini tamamlamaktır. Ancak işler Mesut&apos;un planladığı gibi gitmez ve düşündüğünden daha fazla köyde kalmak zorunda kalır. Bu sırada kardeşi Musa yüzünden bir define kazısına katılan Mesut, kendisini türlü maceraların içinde bulur.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/23/150016201419e87ecbc8.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/52/150016201418e87ecbc8.jpg" />
+  </programme>
   <programme start="20261018183000 +0000" stop="20261018190000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Son 5</title>
     <desc lang="tr">Gündemde ve günlük yaşamda öne çıkan gelişmeler, dikkat çeken olaylar ve merak edilen konular ele alınıyor. Son dönemin öne çıkan başlıkları, ilgi çekici bilgiler ve farklı alanlardan gelişmeler kısa, anlaşılır ve dinamik bir anlatımla izleyiciye aktarılıyor. Güncel gelişmeleri takip etmek isteyenlere hızlı bir bakış sunuluyor.</desc>
@@ -6923,13 +6930,6 @@ Bu tuhaf soruların cevaplarınıTuhaf İşler takımıyla yanıtlayalım ...</d
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261012/4/220421919615e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261012/85/220421919614e87f1bca.jpg" />
-  </programme>
-  <programme start="20261018193000 +0000" stop="20261018205000 +0000" channel="StarTV.tr@SD">
-    <title lang="tr">Hazine</title>
-    <desc lang="tr">Devlet memuru olan Mesut, annesinin ölüm haberini alır ve cenazesine katılmak için yıllar önce ayrıldığı, doğup büyüdüğü kasabaya geri döner. Annesine karşı son görevini yerine getirmek için kasabaya gelen Mesut&apos;un aklındaki tek şey, bir an önce İstanbul&apos;a dönüp yarım kalan gönül meselesini tamamlamaktır. Ancak işler Mesut&apos;un planladığı gibi gitmez ve düşündüğünden daha fazla köyde kalmak zorunda kalır. Bu sırada kardeşi Musa yüzünden bir define kazısına katılan Mesut, kendisini türlü maceraların içinde bulur.</desc>
-    <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/75/220426294060e87f6bcc.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/38/220426294059e87f6bcc.jpg" />
   </programme>
   <programme start="20261018193000 +0000" stop="20261018200000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Halkın Ekonomisi</title>
@@ -7231,11 +7231,12 @@ Bu tuhaf soruların cevaplarınıTuhaf İşler takımıyla yanıtlayalım ...</d
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261012/52/220432732220e87f1bca.jpg" />
   </programme>
   <programme start="20261018205000 +0000" stop="20261018233000 +0000" channel="StarTV.tr@SD">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&apos;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+    <title lang="tr">Başkalarının Hayatı</title>
+    <desc lang="tr">Hülya, yoksul bir ailenin üniversiteyi yarı burslu kazanmış, güzel ve hırslı kızıdır. Annesi terzilik yaparken ablası da hem evin yükünü hem de Hülya&apos;nın eğitim masraflarını üstlenmiştir. Hülya&apos;nın üniversitede tanıştığı, varlıklı bir ailenin kızı olan Neslihan, ona hayalini kurduğu ihtişamlı dünyanın kapılarını açar. Bu sırada karşısına çıkan Doktor Sarp&apos;tan çok etkilenen Hülya, onun da bu dünyanın bir parçası olduğunu düşünür.
+Neslihan, çocukluk aşkı Erim&apos;in Londra&apos;dan dönüşü yaklaştıkça korkuya kapılır. Erim&apos;e anlatamadığı bir sırrı vardır. Hülya, Neslihan&apos;ın zayıf anlarında yanında olarak onun güvenini ve dostluğunu kazanır.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261012/39/220420016204e8800bd0.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261012/36/220420016203e8800bd0.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/49/150016201403e87ecbc8.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/40/150016201402e87ecbc8.jpg" />
   </programme>
   <programme start="20261018205000 +0000" stop="20261018211500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Sagun</title>
@@ -13776,14 +13777,14 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261013/42/220420088396e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261013/5/220420088395e87ecbc8.jpg" />
   </programme>
-  <programme start="20261019160000 +0000" stop="20261019213000 +0000" channel="StarTV.tr@SD">
+  <programme start="20261019160000 +0000" stop="20261019170000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Star Haber</title>
     <desc lang="tr">Türkiye&apos;den ve dünyadan önemli gelişmeler, Star Haber&apos;de ekrana taşınıyor.
 
 Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261013/21/220422354693e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261013/27/220422354692e87f1bca.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/97/160016992053e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/54/160016992052e8805bd2.jpg" />
   </programme>
   <programme start="20261019160000 +0000" stop="20261019184500 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Gelin</title>
@@ -14152,6 +14153,13 @@ Yürek burkan kaza ve devamında Behram&apos;ın vurulması bütün aileyi dehş
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/65/220423728108e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/85/220423728107e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261019170000 +0000" stop="20261019213000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Dizi</title>
+    <desc lang="tr">Star TV&apos;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/19/160016992045e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/81/160016992044e8805bd2.jpg" />
   </programme>
   <programme start="20261019170000 +0000" stop="20261019191500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Sevdam Karadeniz</title>
@@ -27824,9 +27832,10 @@ Yürek burkan kaza ve devamında Behram&apos;ın vurulması bütün aileyi dehş
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261015/26/220419221552e8800bd0.jpg" />
   </programme>
   <programme start="20261021190000 +0000" stop="20261021224500 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Dizi</title>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261015/67/220422321849e87ecbc8.jpg" />
+    <title lang="tr">Bayern Munich - Arsenal</title>
+    <category lang="tr">Spor</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/14/160016144906e87f1bca.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261018/31/160016143905e87f1bca.webp" />
   </programme>
   <programme start="20261021190000 +0000" stop="20261022040000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Dream Türk En İyiler</title>
