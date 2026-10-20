@@ -19750,9 +19750,9 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/45/220509006510e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/82/220509006509e8805bd2.jpg" />
   </programme>
-  <programme start="20261022103000 +0000" stop="20261022113000 +0000" channel="Ekoturk.tr@SD">
-    <title lang="tr">TCMB Özel Yayını</title>
-    <category lang="tr">Haber</category>
+  <programme start="20261022103000 +0000" stop="20261022110000 +0000" channel="Ekoturk.tr@SD">
+    <title lang="tr">Sigorta Özel Yayını</title>
+    <category lang="tr">Magazin</category>
   </programme>
   <programme start="20261022103000 +0000" stop="20261022105000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newshour</title>
@@ -19945,6 +19945,10 @@ Ayşe Süberker; sorulması gereken soruları sorarak ve konuları her açıdan 
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/7/220429242828e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/88/220429242827e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261022110000 +0000" stop="20261022113000 +0000" channel="Ekoturk.tr@SD">
+    <title lang="tr">TCMB Özel Yayını</title>
+    <category lang="tr">Haber</category>
   </programme>
   <programme start="20261022110000 +0000" stop="20261022115000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Türkiye&apos;s Diplomacy</title>
@@ -21886,9 +21890,10 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
   </programme>
   <programme start="20261022163000 +0000" stop="20261022183000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Hobbit: Smaug&apos;un Çorak Toprakları</title>
-    <desc lang="tr">Bilbo, Gandalf ve bir grup cüce, cüce krallığı Erebor&apos;u hain ejderha Smaug&apos;dan kurtarmak için göreve devam eder.</desc>
+    <desc lang="tr">Bilbo, Thorin Meşekalkan ve 12 cüce ile çıktığı yolculuğa devam etmektedir. Kuytuorman&apos;a doğru giden ve ejderha Smaug&apos;un yıllardır hüküm sürdüğü Yalnız Dağ&apos;a ve kayıp Erebor Cüce Krallığı&apos;na ulaşmak için atıldıkları macerada başlarına yine akıl almaz olaylar gelecektir.</desc>
     <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/2/220429596024e87f6bcc.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/17/160016029575e87fbbce.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/29/160016029574e87fbbce.jpg" />
   </programme>
   <programme start="20261022163000 +0000" stop="20261022173000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Lojistiğin Kahramanları</title>
@@ -22475,10 +22480,11 @@ Türkiye&apos;nin nabzı nerede atıyorsa, sokağın gündemi neyse, sahanın ge
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/4/220420840028e87fbbce.jpg" />
   </programme>
   <programme start="20261022183000 +0000" stop="20261022203000 +0000" channel="TLC.tr@SD">
-    <title lang="tr">Alien Predator&apos;e Karşı 2</title>
-    <desc lang="tr">Uzun zamandır birbirine düşman olan iki uzaylı ırk Dünya&apos;da çatışmaya girince Gunnison, Colorado sakinleri çapraz ateş arasında kalır.</desc>
+    <title lang="tr">Alien Predator&apos;a Karşı 2</title>
+    <desc lang="tr">Filmde iki uzaylı ırkın savaşı Colorado&apos;daki bir kasabaya taşınıyor. Bu iki tür burada birbirlerinden intikam almaya çalışıyor.</desc>
     <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/79/220429596029e87f6bcc.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/46/160016029583e87fbbce.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/57/160016029582e87fbbce.jpg" />
   </programme>
   <programme start="20261022183000 +0000" stop="20261022193000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Dev Nakliyatçılar</title>
@@ -22859,9 +22865,10 @@ Türkiye&apos;nin nabzı nerede atıyorsa, sokağın gündemi neyse, sahanın ge
   </programme>
   <programme start="20261022203000 +0000" stop="20261022223000 +0000" channel="TLC.tr@SD">
     <title lang="tr">Hobbit: Smaug&apos;un Çorak Toprakları</title>
-    <desc lang="tr">Bilbo, Gandalf ve bir grup cüce, cüce krallığı Erebor&apos;u hain ejderha Smaug&apos;dan kurtarmak için göreve devam eder.</desc>
+    <desc lang="tr">Bilbo, Thorin Meşekalkan ve 12 cüce ile çıktığı yolculuğa devam etmektedir. Kuytuorman&apos;a doğru giden ve ejderha Smaug&apos;un yıllardır hüküm sürdüğü Yalnız Dağ&apos;a ve kayıp Erebor Cüce Krallığı&apos;na ulaşmak için atıldıkları macerada başlarına yine akıl almaz olaylar gelecektir.</desc>
     <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261016/12/220429596034e87f6bcc.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/73/160016029591e87fbbce.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/61/160016029590e87fbbce.jpg" />
   </programme>
   <programme start="20261022203000 +0000" stop="20261022210000 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Nakliye Savaşları</title>
