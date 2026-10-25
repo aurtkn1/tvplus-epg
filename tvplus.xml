@@ -4813,11 +4813,12 @@ Gizem Ösün hem grafiklerle anlatıyor hem de farklı ülkelerden uzmanlarla ko
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/38/220434759766e87ecbc8.jpg" />
   </programme>
   <programme start="20261025123000 +0000" stop="20261025160000 +0000" channel="StarTV.tr@SD">
-    <title lang="tr">Dizi</title>
-    <desc lang="tr">Star TV&apos;nin sevilen yerli dizileri tekrar bölümleriyle ekrana geliyor.</desc>
+    <title lang="tr">Başkalarının Hayatı</title>
+    <desc lang="tr">Hülya, yoksul bir ailenin üniversiteyi yarı burslu kazanmış, güzel ve hırslı kızıdır. Annesi terzilik yaparken ablası da hem evin yükünü hem de Hülya&apos;nın eğitim masraflarını üstlenmiştir. Hülya&apos;nın üniversitede tanıştığı, varlıklı bir ailenin kızı olan Neslihan, ona hayalini kurduğu ihtişamlı dünyanın kapılarını açar. Bu sırada karşısına çıkan Doktor Sarp&apos;tan çok etkilenen Hülya, onun da bu dünyanın bir parçası olduğunu düşünür.
+Neslihan, çocukluk aşkı Erim&apos;in Londra&apos;dan dönüşü yaklaştıkça korkuya kapılır. Erim&apos;e anlatamadığı bir sırrı vardır. Hülya, Neslihan&apos;ın zayıf anlarında yanında olarak onun güvenini ve dostluğunu kazanır.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/1/220427287168e8805bd2.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/39/220427287167e8805bd2.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/96/084117702971e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/40/084117702970e87f1bca.jpg" />
   </programme>
   <programme start="20261025123000 +0000" stop="20261025132000 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Dünyayı Geziyorum</title>
@@ -7283,13 +7284,13 @@ Naz ve Fahriye hiç hesapta yokken yakınlaşır. Bu yakınlaşma Naz&apos;ı uz
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/33/220509055318e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261019/49/220509055317e8805bd2.jpg" />
   </programme>
-  <programme start="20261025203000 +0000" stop="20261026003000 +0000" channel="StarTV.tr@SD">
+  <programme start="20261025203000 +0000" stop="20261025230000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Tuzlu Kahve</title>
     <desc lang="tr">Yıllardır birbirine düşman olan İpekli ve Kutaygil ailelerinin kızları, farkında olmadan aynı ailenin iki oğluyla karşı karşıya gelir. Selin ve Murat evlilik hazırlıkları yaparken, diğer tarafta Murat&apos;ın Amerika&apos;dan yeni dönen abisi Mehmet&apos;in yolu Derin&apos;le kesişir.
 Hakan&apos;la evlenmeye hazırlanan Derin, ihaneti öğrenmesiyle ilişkisini bitirirken, Mehmet&apos;le arasında beklenmedik bir yakınlaşma başlar. Böylece geçmişten gelen büyük bir düşmanlığın ortasında, iki kızın kaderi Aydınoğlu ailesinin iki kardeşiyle birbirine bağlanır.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/55/220424128386e87ecbc8.webp" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/73/220424128385e87ecbc8.webp" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/92/084117702003e87f1bca.webp" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/24/084117702002e87f1bca.webp" />
   </programme>
   <programme start="20261025203000 +0000" stop="20261025223000 +0000" channel="SinemaKomedi.tr@SD">
     <title lang="tr">Katil Kim?</title>
@@ -7928,6 +7929,14 @@ Burak Akkul&apos;un hazırlayıp sunduğu Çok Gezenti ile ülke ülke gezip ner
     <category lang="tr">Kültür &amp; Sanat</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261021/98/220432786457e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261021/13/220432786456e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261025230000 +0000" stop="20261026003000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Başkalarının Hayatı</title>
+    <desc lang="tr">Hülya, yoksul bir ailenin üniversiteyi yarı burslu kazanmış, güzel ve hırslı kızıdır. Annesi terzilik yaparken ablası da hem evin yükünü hem de Hülya&apos;nın eğitim masraflarını üstlenmiştir. Hülya&apos;nın üniversitede tanıştığı, varlıklı bir ailenin kızı olan Neslihan, ona hayalini kurduğu ihtişamlı dünyanın kapılarını açar. Bu sırada karşısına çıkan Doktor Sarp&apos;tan çok etkilenen Hülya, onun da bu dünyanın bir parçası olduğunu düşünür.
+Neslihan, çocukluk aşkı Erim&apos;in Londra&apos;dan dönüşü yaklaştıkça korkuya kapılır. Erim&apos;e anlatamadığı bir sırrı vardır. Hülya, Neslihan&apos;ın zayıf anlarında yanında olarak onun güvenini ve dostluğunu kazanır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/56/084117702979e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/97/084117702978e87f1bca.jpg" />
   </programme>
   <programme start="20261025230000 +0000" stop="20261026040000 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Tekrar</title>
@@ -13780,14 +13789,14 @@ her Zaman Macera Arayan Belle Ve Sebastian, Ne Olursa Olsun Herkesin Yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/3/150023198106e8800bd0.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/89/150023198105e8800bd0.jpg" />
   </programme>
-  <programme start="20261026160000 +0000" stop="20261026213000 +0000" channel="StarTV.tr@SD">
+  <programme start="20261026160000 +0000" stop="20261026170000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Star Haber</title>
     <desc lang="tr">Türkiye&apos;den ve dünyadan önemli gelişmeler, Star Haber&apos;de ekrana taşınıyor.
 
 Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki olayların analizi yapılıyor.</desc>
     <category lang="tr">Haber</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/79/220419934364e8805bd2.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/97/220419934363e8805bd2.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/82/084117703012e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/87/084117703011e87f1bca.jpg" />
   </programme>
   <programme start="20261026160000 +0000" stop="20261026184500 +0000" channel="Kanal7.tr@SD">
     <title lang="tr">Gelin</title>
@@ -14121,6 +14130,13 @@ Yürek burkan kaza ve devamında Behram&apos;ın vurulması bütün aileyi dehş
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/76/220422435512e87fbbce.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/44/220422435511e87fbbce.jpg" />
+  </programme>
+  <programme start="20261026170000 +0000" stop="20261026192000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Beyaz Saray Düştü</title>
+    <desc lang="tr">Küçük kızıyla birlikte Beyaz Saray turuna katılan özel kuvvet polisi, kendini bir anda hem kızını hem de başkanı silahlı teröristlerden kurtarmaya çalışırken bulur</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/68/084117702987e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/9/084117702986e87f1bca.jpg" />
   </programme>
   <programme start="20261026170000 +0000" stop="20261026210000 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Sevdam Karadeniz</title>
@@ -14744,6 +14760,13 @@ her Zaman Macera Arayan Belle Ve Sebastian, Ne Olursa Olsun Herkesin Yardımına
     <title lang="tr">Keşif Gezisi</title>
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261020/25/220425915651e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261026192000 +0000" stop="20261026213000 +0000" channel="StarTV.tr@SD">
+    <title lang="tr">Beyaz Saray Düştü</title>
+    <desc lang="tr">Küçük kızıyla birlikte Beyaz Saray turuna katılan özel kuvvet polisi, kendini bir anda hem kızını hem de başkanı silahlı teröristlerden kurtarmaya çalışırken bulur</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/77/084117702995e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/2/084117702994e87f1bca.jpg" />
   </programme>
   <programme start="20261026193000 +0000" stop="20261026220000 +0000" channel="tvplus-2">
     <title lang="tr">Kuruluş Osman</title>
