@@ -6378,7 +6378,7 @@ Yürek burkan kaza ve devamında Behram&apos;ın vurulması bütün aileyi dehş
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/49/220436792909e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/79/220436792908e87f1bca.jpg" />
   </programme>
-  <programme start="20261028165500 +0000" stop="20261028195000 +0000" channel="TRT1.tr@SD">
+  <programme start="20261028165500 +0000" stop="20261028170000 +0000" channel="TRT1.tr@SD">
     <title lang="tr">İddiaların Aksine</title>
     <desc lang="tr">Her gün farklı mecralarda birçok haberle karşılaşıyoruz. Peki bu haberler ne kadar doğru? Haberlerin doğru mu yoksa çarpıtma mı olduğunu nasıl anlayabiliriz?</desc>
     <category lang="tr">Haber</category>
@@ -6496,6 +6496,14 @@ Yürek burkan kaza ve devamında Behram&apos;ın vurulması bütün aileyi dehş
     <category lang="tr">Yarışma</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/18/220423852163e8800bd0.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/0/220423852162e8800bd0.jpg" />
+  </programme>
+  <programme start="20261028170000 +0000" stop="20261028194500 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Ambulans</title>
+    <desc lang="tr">Eski asker Will Sharp, ağır hasta olan eşinin ameliyat masraflarını karşılayabilmek için çaresiz kalır. Yardım istememesi gerektiğini bilse de suç dünyasının içinde yaşayan evlatlık kardeşi Danny&apos;ye başvurur.
+Danny ise Will&apos;e para vermek yerine büyük bir banka soygununa katılmasını teklif eder. Karısını kurtarmak isteyen Will, istemeden de olsa bu plana dahil olur. Los Angeles tarihinin en büyük soygunlarından biri için harekete geçen kardeşlerin planı kısa sürede kontrolden çıkar. İşler ters gidince Will ve Danny, içinde yaralı bir polis ile sağlık görevlisinin bulunduğu bir ambulansı kaçırarak nefes kesen bir kaçışa sürüklenir.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261028/54/080017008821e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261028/45/080017008820e8800bd0.jpg" />
   </programme>
   <programme start="20261028170000 +0000" stop="20261028180000 +0000" channel="DreamTurk.tr@SD">
     <title lang="tr">Smart Sahne</title>
@@ -7087,6 +7095,14 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/66/220436795005e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/46/220436795004e87f1bca.jpg" />
   </programme>
+  <programme start="20261028194500 +0000" stop="20261028215000 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Emeklilik Planı</title>
+    <desc lang="tr">Ashley ve küçük kızı Sarah, kendilerini tehlikeli bir suç olayının ortasında bulunca hayatta kalmak için çaresizce bir çıkış yolu arar. Başvurabilecekleri tek kişi ise Ashley&apos;in uzun süredir görüşmediği babası Matt&apos;tir. Cayman Adaları&apos;nda sakin ve umursamaz bir hayat süren Matt, torunu ve kızıyla yeniden bir araya gelir.
+Ancak peşlerindeki acımasız suç lideri Donnie ve adamı Bobo, onları rahat bırakmaz. Tehlike giderek büyürken Ashley, babasının sandığından çok daha karanlık ve gizemli bir geçmişe sahip olduğunu keşfeder.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/28/070028216221e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/29/070028216220e87f1bca.jpg" />
+  </programme>
   <programme start="20261028194500 +0000" stop="20261028200000 +0000" channel="TRTAvaz.tr@SD">
     <title lang="tr">Bir Adım Bin Avaz</title>
     <desc lang="tr">Türk dili konuşan halklar ve ülkeler arasında dostane ilişkiler kurarak,ortak Türk kültürüne ait folklorik özellikleri geliştirmeyi, korumayı ve gelecek kuşaklara aktarmayı amaçlayan belgesel serisi.</desc>
@@ -7099,14 +7115,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/55/220426310383e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261022/49/220426310382e87ecbc8.jpg" />
-  </programme>
-  <programme start="20261028195000 +0000" stop="20261028215500 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Emeklilik Planı</title>
-    <desc lang="tr">Ashley ve küçük kızı Sarah, kendilerini tehlikeli bir suç olayının ortasında bulunca hayatta kalmak için çaresizce bir çıkış yolu arar. Başvurabilecekleri tek kişi ise Ashley&apos;in uzun süredir görüşmediği babası Matt&apos;tir. Cayman Adaları&apos;nda sakin ve umursamaz bir hayat süren Matt, torunu ve kızıyla yeniden bir araya gelir.
-Ancak peşlerindeki acımasız suç lideri Donnie ve adamı Bobo, onları rahat bırakmaz. Tehlike giderek büyürken Ashley, babasının sandığından çok daha karanlık ve gizemli bir geçmişe sahip olduğunu keşfeder.</desc>
-    <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/28/070028216221e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/29/070028216220e87f1bca.jpg" />
   </programme>
   <programme start="20261028195500 +0000" stop="20261028200000 +0000" channel="NTV.tr@SD">
     <title lang="tr">Hava Durumu</title>
@@ -7598,6 +7606,13 @@ Suzi&apos;nin konaktaki varlığı Kenan&apos;ın gittikçe gözüne batmaya ba�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/81/220433201938e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/77/220433201937e87ecbc8.jpg" />
   </programme>
+  <programme start="20261028215000 +0000" stop="20261029003000 +0000" channel="TRT1.tr@SD">
+    <title lang="tr">Taşacak Bu Deniz</title>
+    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil&apos;i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna&apos;yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil&apos;in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum&apos;u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon&apos;a gelmiştir.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261028/9/080017009829e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261028/59/080017009828e8800bd0.jpg" />
+  </programme>
   <programme start="20261028215000 +0000" stop="20261028224000 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Uçak Kazası Raporu Özel</title>
     <desc lang="tr">National Geographic’in en sevilen serilerinden Uçak Kazası Raporu özel sezonu ile ekranlara dönüyor. Uçak kazalarının sır perdesini aralayan, arkalarında yatan nedenleri ve hiç görülmemiş kayıtları ortaya çıkartan Uçak Kazası Raporu, havacılık tarihinin efsanevi felaketlerini araştırarak neyin neden yanlış gittiğini araştırmaya devam ediyor.</desc>
@@ -7613,13 +7628,6 @@ Suzi&apos;nin konaktaki varlığı Kenan&apos;ın gittikçe gözüne batmaya ba�
     <category lang="tr">Hava Durumu</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/20/220433202946e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/58/220433202945e87ecbc8.jpg" />
-  </programme>
-  <programme start="20261028215500 +0000" stop="20261029003000 +0000" channel="TRT1.tr@SD">
-    <title lang="tr">Taşacak Bu Deniz</title>
-    <desc lang="tr">İki düşman aile, Furtunalılar ve Koçarililerin bitmek bilmeyen savaşı yıllardır sürüp gitmektedir. Geçmişte çok büyük bir sevda yaşayan Adil Koçari ile Esme Furtuna kan hakkı yüzünden karşı karşıya gelirler, Esme Adil&apos;i vurur. Aralarındaki tüm düşmanlığa rağmen Adil Koçari Esme Furtuna&apos;yı ele vermez ve ben kendimi vurdum der. Tam o sırada çok uzaklardan gelen Yunan bir Doktor Adil&apos;in hayatını kurtarır. Yunanlı bir anne ve İstanbul Rum&apos;u bir babanın kızı olan bu kız büyük bir sırrın peşine düşüp Trabzon&apos;a gelmiştir.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/1/220428696831e87ecbc8.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/61/220428696830e87ecbc8.jpg" />
   </programme>
   <programme start="20261028220000 +0000" stop="20261029000000 +0000" channel="tvplus-2">
     <title lang="tr">Yahşi Cazibe</title>
