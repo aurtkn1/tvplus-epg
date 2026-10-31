@@ -2928,13 +2928,6 @@ değiştirecek en yeni magazin haberleri izleyiciler ile buluşuyor.</desc>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261028/15/220426742861e8800bd0.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261028/11/220426742860e8800bd0.jpg" />
   </programme>
-  <programme start="20261031070000 +0000" stop="20261031080000 +0000" channel="Tele1.tr@SD">
-    <title lang="tr">İş&apos;te Sağlık</title>
-    <desc lang="tr">İş hayatında sağlığımızı korumak, günlük yaşamda doğru alışkanlıklar geliştirmek ve bedenimizin verdiği sinyalleri anlamak için kapsamlı bir bakış. Sağlıkla ilgili merak edilenler, güncel bilgiler, uzman değerlendirmeleri ve yaşam kalitesini artırmaya yönelik öneriler anlaşılır bir dille ele alınıyor.</desc>
-    <category lang="tr">Magazin</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/62/230528279515e87f6bcc.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/40/230528279514e87f6bcc.jpg" />
-  </programme>
   <programme start="20261031070000 +0000" stop="20261031071500 +0000" channel="TRTAvaz.tr@SD">
     <title lang="tr">Gülşen&apos;le Nasıl Çizilir?</title>
     <category lang="tr">Diğer</category>
@@ -3062,6 +3055,13 @@ Birlikte, yaklaşan büyük bir fırtınanın ortasında tehlikeli ama büyüley
     <category lang="tr">Müzik</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/7/030443594505e87f6bcc.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261027/13/030443594504e87f6bcc.jpg" />
+  </programme>
+  <programme start="20261031073000 +0000" stop="20261031090000 +0000" channel="Tele1.tr@SD">
+    <title lang="tr">İş&apos;te Sağlık</title>
+    <desc lang="tr">İş hayatında sağlığımızı korumak, günlük yaşamda doğru alışkanlıklar geliştirmek ve bedenimizin verdiği sinyalleri anlamak için kapsamlı bir bakış. Sağlıkla ilgili merak edilenler, güncel bilgiler, uzman değerlendirmeleri ve yaşam kalitesini artırmaya yönelik öneriler anlaşılır bir dille ele alınıyor.</desc>
+    <category lang="tr">Magazin</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/62/230528279515e87f6bcc.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/40/230528279514e87f6bcc.jpg" />
   </programme>
   <programme start="20261031073000 +0000" stop="20261031100000 +0000" channel="Sinema1002.tr@SD">
     <title lang="tr">Geçmiş</title>
@@ -3273,13 +3273,6 @@ Hakan&apos;la evlenmeye hazırlanan Derin, ihaneti öğrenmesiyle ilişkisini bi
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/58/220423033788e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261025/47/220423033787e87ecbc8.jpg" />
-  </programme>
-  <programme start="20261031080000 +0000" stop="20261031090000 +0000" channel="Tele1.tr@SD">
-    <title lang="tr">Yağmur Zamanı</title>
-    <desc lang="tr">Tutku, aşk ve kaderin iç içe geçtiği bu hikayede bir adam geçmişiyle hesaplaşır. Yaşadıkları onu sınarken, umut ve cesaretiyle ayakta duran bir kadın hayatına yön verir. İki farklı yol, acılarla dolu bir kaderde kesişir. Duygusal anlatımıyla insanın iç dünyasına dokunan bir yaşam mücadelesi sunulur.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/89/230528280523e87f6bcc.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202610/20261023/91/230528279522e87f6bcc.jpg" />
   </programme>
   <programme start="20261031080000 +0000" stop="20261031084500 +0000" channel="TRTAvaz.tr@SD">
     <title lang="tr">Türkçe Sanat</title>
