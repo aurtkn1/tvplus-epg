@@ -7510,13 +7510,6 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261104/70/220439665723e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261104/17/220439665722e87ecbc8.jpg" />
   </programme>
-  <programme start="20261107213000 +0000" stop="20261107220000 +0000" channel="TV100.tr@SD">
-    <title lang="tr">Başak Şengül ile Doğru Yorum</title>
-    <desc lang="tr">Başak Şengül moderatörlüğünde Doğru Yorum, alanında uzman konukların yorumlarıyla siyaset, ekonomi, hukuk, dış politika konularını masaya yatırıyor.</desc>
-    <category lang="tr">Tartışma</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261103/34/220421241364e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261103/61/220421241363e87f1bca.jpg" />
-  </programme>
   <programme start="20261107213000 +0000" stop="20261107220000 +0000" channel="TRTAvaz.tr@SD">
     <title lang="tr">Avaz Gündem</title>
     <desc lang="tr">Hedef Coğrafyamız ağırlıklı haber bülteni programı</desc>
@@ -7692,6 +7685,13 @@ Hepimizin yakından tanıdığı sorular masaya yatırılıyor, biyolog ve sinir
     <category lang="tr">Yaşam</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261102/24/220433465191e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261102/44/220433465190e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261107220000 +0000" stop="20261108010000 +0000" channel="TV100.tr@SD">
+    <title lang="tr">Başak Şengül ile Doğru Yorum</title>
+    <desc lang="tr">Başak Şengül moderatörlüğünde Doğru Yorum, alanında uzman konukların yorumlarıyla siyaset, ekonomi, hukuk, dış politika konularını masaya yatırıyor.</desc>
+    <category lang="tr">Tartışma</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/14/084110890968e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/78/084110890967e8805bd2.jpg" />
   </programme>
   <programme start="20261107220000 +0000" stop="20261107230000 +0000" channel="Tele1.tr@SD">
     <title lang="tr">Asla Vazgeçmem</title>
@@ -21608,12 +21608,12 @@ Deneyimli spiker Nazlı Çelik&apos;in sunduğu Star Haber&apos;de gündemdeki o
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261103/31/220422837046e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261103/78/220422837045e87f1bca.jpg" />
   </programme>
-  <programme start="20261109170000 +0000" stop="20261109203000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Ömür Usta</title>
-    <desc lang="tr">Kocası tarafından terk edildikten sonra oto sanayide ustalık yapmaya başlayan Ömür&apos;ün hayattaki tek gayesi, çocuklarına onurlu bir gelecek sunmaktır. Ömür&apos;ün verdiği bu yaşam mücadelesi, tıp fakültesinde okuyan oğlu Mete&apos;nin yoksulluktan kaçma hırsıyla büyük bir sınava dönüşür. Yoksul hayatından utanan ve gösterişli bir ailenin kızı olan İpek&apos;e âşık olan Mete, gerçek kimliğini saklayarak çifte bir hayat yaşamaya başlar. Ömür&apos;ün çocukları için kurduğu güvenli liman sadece Mete&apos;nin yalanlarıyla değil, büyük oğlu Cüneyt&apos;in sürüklendiği karanlık çıkmazlar ve kızı Nazlı&apos;nın tek başına yüzleşmek zorunda kalacağı beklenmedik gerçeklerle de temelinden sarsılacaktır.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/82/160018143979e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/20/160018143978e87f1bca.jpg" />
+  <programme start="20261109170000 +0000" stop="20261109194500 +0000" channel="NOWTV.tr@SD">
+    <title lang="tr">Recep İvedik 7</title>
+    <desc lang="tr">Recep İvedik, şehirdeki hayat pahalılığından dolayı yaşam şartlarının ağırlaşması üzerine İstanbul&apos;u terk edip babaannesinin köyündeki evinde yaşamaya karar verir. Köye vardığı zaman köyün tam üstüne yapılacak ve doğaya bir o kadar da zarar verecek bir projenin planlandığını öğrenir. Arkadaşı Nurullah ve komşusu Büşra ile projeyi engelleyip köyü kurtarmak üzere çalışmalara başlarlar.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/94/084111862689e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/48/084111862688e8800bd0.jpg" />
   </programme>
   <programme start="20261109170000 +0000" stop="20261109180000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Aslı Şafak&apos;la İşin Aslı</title>
@@ -22234,6 +22234,14 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261103/14/220421527507e87fbbce.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261103/9/220421527506e87fbbce.jpg" />
   </programme>
+  <programme start="20261109194500 +0000" stop="20261109223000 +0000" channel="NOWTV.tr@SD">
+    <title lang="tr">Anne Yarısı</title>
+    <desc lang="tr">Hamile sevgilisine saldıran iki holiganı bıçaklayarak sekiz yıl Alman hapishanesinde yatan Ali, çıktığı gün çocuğunun yaşadığını öğrenir. Artık tek amacı kızını bulmaktır. Ablasının ölümü üzerine yeni doğmuş yeğenini sahiplenen Zeynep, bebeğe Ege ismini verir ve onu hayatının merkezine koyar. Annesi ölmüş, babası ise belki de hiç hapishaneden çıkamayacak olan yeğenini öz çocuğu gibi bağrına basar. 
+Ali&apos;nin kızını almak için İzmir&apos;e geldiğini öğrenen Zeynep önce onu kaçırmaya çalışacak ancak Ali buna izin vermeyecektir. Ali kızını yanına alarak ailesinin yaşadığı Kapadokya&apos;ya döner ancak hesaplayamadığı tek nokta Zeynep ve Ege&apos;nin birbirlerine olan düşkünlükleri, aralarındaki güçlü ve sarsılmaz bağdır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/35/160018143987e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/21/160018143986e87f1bca.jpg" />
+  </programme>
   <programme start="20261109194500 +0000" stop="20261109200000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Finance and Markets</title>
     <desc lang="tr">All about the finance world.</desc>
@@ -22391,14 +22399,6 @@ Her zaman macera arayan Belle ve Sebastian, ne olursa olsun herkesin yardımına
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261102/83/160632026776e8800bd0.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261102/95/160632026775e8800bd0.jpg" />
-  </programme>
-  <programme start="20261109203000 +0000" stop="20261109231500 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Anne Yarısı</title>
-    <desc lang="tr">Hamile sevgilisine saldıran iki holiganı bıçaklayarak sekiz yıl Alman hapishanesinde yatan Ali, çıktığı gün çocuğunun yaşadığını öğrenir. Artık tek amacı kızını bulmaktır. Ablasının ölümü üzerine yeni doğmuş yeğenini sahiplenen Zeynep, bebeğe Ege ismini verir ve onu hayatının merkezine koyar. Annesi ölmüş, babası ise belki de hiç hapishaneden çıkamayacak olan yeğenini öz çocuğu gibi bağrına basar. 
-Ali&apos;nin kızını almak için İzmir&apos;e geldiğini öğrenen Zeynep önce onu kaçırmaya çalışacak ancak Ali buna izin vermeyecektir. Ali kızını yanına alarak ailesinin yaşadığı Kapadokya&apos;ya döner ancak hesaplayamadığı tek nokta Zeynep ve Ege&apos;nin birbirlerine olan düşkünlükleri, aralarındaki güçlü ve sarsılmaz bağdır.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/35/160018143987e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/21/160018143986e87f1bca.jpg" />
   </programme>
   <programme start="20261109203000 +0000" stop="20261110033000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Gün Ortası</title>
@@ -22892,6 +22892,13 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261104/86/220421735066e8800bd0.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261104/52/220421735065e8800bd0.jpg" />
   </programme>
+  <programme start="20261109223000 +0000" stop="20261110011500 +0000" channel="NOWTV.tr@SD">
+    <title lang="tr">Halef</title>
+    <desc lang="tr">Yelduran ve Kordağlı, Urfa&apos;daki iki büyük, köklü ailedir. Aralarındaki yıllardır süren husumet, Serhat ve Yıldız&apos;ın evlenmesi üzerine yapılan bir akitle son bulmuştur. Ancak ailesinden uzak yaşayan ve İstanbul&apos;da başarılı bir cerrah olan Serhat, bu evliliği hiçbir zaman istememiştir. Üstelik yakın zamanda yurtdışına yerleşme planı yapıyordur. Fakat Serhat&apos;ın hayatı, Melek&apos;le tanışınca tamamen değişir. Melek&apos;e âşık olur ve onunla evlenip İstanbul&apos;da yeni bir hayat kurmak ister. Ancak Serhat&apos;ın Urfa&apos;ya dönüşü, Melek de dahil olmak üzere herkesin hayatını kökten değiştirecektir.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/95/084111862705e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/94/084111862704e8800bd0.jpg" />
+  </programme>
   <programme start="20261109223000 +0000" stop="20261109233000 +0000" channel="Teve2.tr@SD">
     <title lang="tr">Kelime Oyunu</title>
     <desc lang="tr">İbrahim Selim&apos;in sunduğu sevilen yarışma programı Kelime Oyunu ekrana geliyor.</desc>
@@ -23099,13 +23106,6 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <category lang="tr">Çocuk</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261104/74/220421736082e8800bd0.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261104/50/220421736081e8800bd0.jpg" />
-  </programme>
-  <programme start="20261109231500 +0000" stop="20261110020000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Halef</title>
-    <desc lang="tr">Yelduran ve Kordağlı, Urfa&apos;daki iki büyük, köklü ailedir. Aralarındaki yıllardır süren husumet, Serhat ve Yıldız&apos;ın evlenmesi üzerine yapılan bir akitle son bulmuştur. Ancak ailesinden uzak yaşayan ve İstanbul&apos;da başarılı bir cerrah olan Serhat, bu evliliği hiçbir zaman istememiştir. Üstelik yakın zamanda yurtdışına yerleşme planı yapıyordur. Fakat Serhat&apos;ın hayatı, Melek&apos;le tanışınca tamamen değişir. Melek&apos;e âşık olur ve onunla evlenip İstanbul&apos;da yeni bir hayat kurmak ister. Ancak Serhat&apos;ın Urfa&apos;ya dönüşü, Melek de dahil olmak üzere herkesin hayatını kökten değiştirecektir.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/40/220422098416e8805bd2.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/59/220422098415e8805bd2.jpg" />
   </programme>
   <programme start="20261109231500 +0000" stop="20261110011500 +0000" channel="Sinema1002.tr@SD">
     <title lang="tr">Metrodan Kaçış</title>
@@ -23631,6 +23631,13 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/23/220425052587e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261106/79/220425052586e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261110011500 +0000" stop="20261110020000 +0000" channel="NOWTV.tr@SD">
+    <title lang="tr">Şevkat Yerimdar</title>
+    <desc lang="tr">Paris’ten İstanbul’a dönen güzeller güzeli Esin ayağının tozuyla önce Şevkat’in arabasını çarpa çarpa ufalar, daha sonra buna ufak bir kaza daha ekleyerek Şevkat’in başını yarar. Şevkat ve Esin arasında komik aşk macerası böyle başlar. Esin öyle bir kızdır ki, türlü sakarlıkları ve dik başlılığıyla Şevkat’in sinirlerini tavana çıkarır, temiz kalbi ve can yakan güzelliğiyle onu dibe vurdurur. Bütün bu maceralar öyle bir mahallede cereyan eder ki, zaten başka yerde olamaz dersiniz.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/6/084111862697e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261107/29/084111862696e8800bd0.jpg" />
   </programme>
   <programme start="20261110011500 +0000" stop="20261110034500 +0000" channel="Sinema1001.tr@SD">
     <title lang="tr">Ye Dua Et Sev</title>
