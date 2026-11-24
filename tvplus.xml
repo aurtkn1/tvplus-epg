@@ -3001,11 +3001,11 @@ Ayrıca yurdun dört bir yayınından farklı konu ve konuklar, ünlü şef Beyh
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/2/220458247293e87f6bcc.jpg" />
   </programme>
   <programme start="20261124074500 +0000" stop="20261124080000 +0000" channel="TRTCocuk.tr@SD">
-    <title lang="tr">Elif ve Arkadaşları</title>
-    <desc lang="tr">Elif&apos;in düşleri gerçek oldu! Artık o da okula gidiyor. Hem de yeni arkadaşları Ayşe, Selim ve Kerem ile. Elif ve arkadaşları, ana okulunda her gün yeni şeyler öğreniyor.</desc>
+    <title lang="tr">Canım Kardeşim</title>
+    <desc lang="tr">Hayal gücü çok geniş olan Mine ve ablası Müge, sevimli kedileri Mıncır ile birlikte her gün yeni maceralar yaşıyor. Anneleri Lale ve babaları Galip&apos;in de eşlik ettiği bu sıcacık ailede oyun, kahkaha ve kardeş sevgisi hiç eksik olmuyor. Üstelik bütün bu eğlenceli olaylara Mıncır&apos;ın gözünden tanık oluyoruz!</desc>
     <category lang="tr">Çocuk</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/76/150035363386e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/84/150035363385e87f1bca.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/62/070016772358e87fbbce.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/26/070016772357e87fbbce.jpg" />
   </programme>
   <programme start="20261124074500 +0000" stop="20261124083000 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Aranjman</title>
@@ -4021,7 +4021,7 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/66/220439553787e8805bd2.jpg" />
   </programme>
-  <programme start="20261124102000 +0000" stop="20261124103000 +0000" channel="TRTSpor.tr@SD">
+  <programme start="20261124102000 +0000" stop="20261124110000 +0000" channel="TRTSpor.tr@SD">
     <title lang="tr">UEFA Şampiyonlar Ligi Özetler</title>
     <desc lang="tr">UEFA Şampiyonlar Liginde haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.</desc>
     <category lang="tr">Spor</category>
@@ -4048,13 +4048,6 @@ Ulusal basının olaylar hakkındaki yorumları, günün gündemini etkileyen ge
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/72/200020508038e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/55/200020508037e8805bd2.jpg" />
-  </programme>
-  <programme start="20261124103000 +0000" stop="20261124110000 +0000" channel="TRTSpor.tr@SD">
-    <title lang="tr">Trendyol Süper Lig Özetler</title>
-    <desc lang="tr">Trendyol Süper Lig&apos;de haftanın karşılaşmalarının özet görüntüleri ekranlarınıza geliyor.</desc>
-    <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/88/090019971160e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/24/090019971159e87f1bca.jpg" />
   </programme>
   <programme start="20261124103000 +0000" stop="20261124111500 +0000" channel="TRT2.tr@SD">
     <title lang="tr">Kilit Taşı</title>
@@ -4672,13 +4665,13 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261117/15/010521910403e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261117/96/010521910402e87ecbc8.jpg" />
   </programme>
-  <programme start="20261124120000 +0000" stop="20261124143000 +0000" channel="NOWTV.tr@SD">
+  <programme start="20261124120000 +0000" stop="20261124144500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Anne Yarısı</title>
     <desc lang="tr">Hamile sevgilisine saldıran iki holiganı bıçaklayarak sekiz yıl Alman hapishanesinde yatan Ali, çıktığı gün çocuğunun yaşadığını öğrenir. Artık tek amacı kızını bulmaktır. Ablasının ölümü üzerine yeni doğmuş yeğenini sahiplenen Zeynep, bebeğe Ege ismini verir ve onu hayatının merkezine koyar. Annesi ölmüş, babası ise belki de hiç hapishaneden çıkamayacak olan yeğenini öz çocuğu gibi bağrına basar. 
 Ali&apos;nin kızını almak için İzmir&apos;e geldiğini öğrenen Zeynep önce onu kaçırmaya çalışacak ancak Ali buna izin vermeyecektir. Ali kızını yanına alarak ailesinin yaşadığı Kapadokya&apos;ya döner ancak hesaplayamadığı tek nokta Zeynep ve Ege&apos;nin birbirlerine olan düşkünlükleri, aralarındaki güçlü ve sarsılmaz bağdır.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/35/220423715399e8805bd2.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/57/220423715398e8805bd2.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/16/070016186744e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/40/070016186743e8805bd2.jpg" />
   </programme>
   <programme start="20261124120000 +0000" stop="20261124121500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Bing</title>
@@ -5178,7 +5171,7 @@ Yıllar sonra tekrar bir araya gelirler. Şimdi bütün sırların çözülme za
   </programme>
   <programme start="20261124132500 +0000" stop="20261124133500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Kehribar İle Boncuk</title>
-    <desc lang="tr">Ormanya&apos;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&apos;un okuldan mezun olup Uzay Akademisi&apos;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersen Kehribar ile Boncuk, senin kanalın TRT Çocuk&apos;ta.</desc>
+    <desc lang="tr">Ormanya&apos;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&apos;un okuldan mezun olup Uzay Akademisi&apos;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersenKehribar ile Boncuk, senin kanalın TRT Çocuk&apos;ta.</desc>
     <category lang="tr">Çocuk</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/94/150035367522e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/13/150035367521e87f1bca.jpg" />
@@ -5576,13 +5569,6 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/54/220431449018e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/20/220431449017e8805bd2.jpg" />
   </programme>
-  <programme start="20261124143000 +0000" stop="20261124160000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Ali İhsan Varol ile Kumbara</title>
-    <desc lang="tr">Yarışmacıların doğru cevaplarla kumbaralarını dolduracağı bu yarışmada, biriktiren kazanacak; hızını ve bilgisini konuşturanlar büyük ödüle bir adım daha yaklaşacak.</desc>
-    <category lang="tr">Yarışma</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/4/220423420753e87f6bcc.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/29/220423420752e87f6bcc.jpg" />
-  </programme>
   <programme start="20261124143000 +0000" stop="20261124153000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Gün Sonu</title>
     <desc lang="tr">Yurt içi ve küresel piyasaların gün sonu performansı ve yarına dair beklentiler bu programda ele alınır. Öne çıkan gelişmeler, konuşulan başlıklar ve uzman yorumlarıyla birlikte piyasa görünümü izleyiciye kapsamlı biçimde sunulur.</desc>
@@ -5666,6 +5652,13 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261117/98/010529937444e87f6bcc.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261117/23/010529937443e87f6bcc.jpg" />
+  </programme>
+  <programme start="20261124144500 +0000" stop="20261124160000 +0000" channel="NOWTV.tr@SD">
+    <title lang="tr">Ali İhsan Varol ile Kumbara</title>
+    <desc lang="tr">Yarışmacıların doğru cevaplarla kumbaralarını dolduracağı bu yarışmada, biriktiren kazanacak; hızını ve bilgisini konuşturanlar büyük ödüle bir adım daha yaklaşacak.</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/16/070016187752e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/70/070016187751e8805bd2.jpg" />
   </programme>
   <programme start="20261124144500 +0000" stop="20261124152000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Seans Notları</title>
@@ -6602,7 +6595,7 @@ Dünyada ve Türkiye&apos;de olup biten tüm gelişmeler Ana Haber&apos;de izley
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/13/220508219776e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/82/220508219775e87ecbc8.jpg" />
   </programme>
-  <programme start="20261124170000 +0000" stop="20261124202000 +0000" channel="ATV.tr@SD">
+  <programme start="20261124170000 +0000" stop="20261124212000 +0000" channel="ATV.tr@SD">
     <title lang="tr">Var Mısın Yok Musun</title>
     <desc lang="tr">Türkiye&apos;nin dört bir yanından gelen 22 yarışmacı büyük ödül olan 5 milyonu kazanabilmek için bankaya karşı yarışıyor. Banka her turun sonunda yarışmacıların kutusunu satın alabilmek için bir teklifte bulunuyor. Kutular açıldıkça yarışmacıların alması gereken risk daha da büyüyor. Yarışmada şans kadar strateji de çok önemli...</desc>
     <category lang="tr">Yarışma</category>
@@ -6616,7 +6609,7 @@ Dünyada ve Türkiye&apos;de olup biten tüm gelişmeler Ana Haber&apos;de izley
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/18/220422007439e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/31/220422007438e8805bd2.jpg" />
   </programme>
-  <programme start="20261124170000 +0000" stop="20261124211500 +0000" channel="ShowTV.tr@SD">
+  <programme start="20261124170000 +0000" stop="20261124204500 +0000" channel="ShowTV.tr@SD">
     <title lang="tr">Güldür Güldür Show</title>
     <desc lang="tr">Günlük hayatta yaşanan olaylara farklı bir bakış açısı ile yaklaşan Güldür Güldür Show&apos;da, kahkaha tufanına hazır olun!</desc>
     <category lang="tr">Dizi</category>
@@ -7425,16 +7418,9 @@ Sultan Mehmed&apos;in aklında bir düş vardır: Konstantiniyye&apos;yi fethetm
     <category lang="tr">Yaşam</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/2/220439556892e8805bd2.jpg" />
   </programme>
-  <programme start="20261124202000 +0000" stop="20261124232000 +0000" channel="ATV.tr@SD">
-    <title lang="tr">Altı Üstü İstanbul</title>
-    <desc lang="tr">Hasan ölümle burun buruna gelirken Uzay, bencilliğine rağmen kaçmayı başaramaz. Uzay&apos;dan hesap sormaya hazırlanan Emir ve arkadaşları büyük bir duvara toslar. İzledikleri görüntülerden sonra ne çiftler için ne de Hasan için hiçbir şey eskisi gibi olmayacaktır. Rami&apos;nin yaralanması ise Fahriye&apos;yi duygularıyla yüzleşmeye zorlarken Gülten ve Soner&apos;in varlığı işleri iyice karıştırır. Melek ise ailesiyle bağları kopma noktasına gelirken henüz son sözünü söylemeye niyeti yoktur. Cezaevinde yaşananlar Hasan&apos;ın geçmişteki yaralarını yeniden açarken; Emir, kardeşi için kendisini feda etmeye hazırdır.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/76/100017552205e8800bd0.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/98/100017552204e8800bd0.jpg" />
-  </programme>
   <programme start="20261124202500 +0000" stop="20261124205000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Kehribar İle Boncuk</title>
-    <desc lang="tr">Ormanya&apos;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&apos;un okuldan mezun olup Uzay Akademisi&apos;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersen Kehribar ile Boncuk, senin kanalın TRT Çocuk&apos;ta.</desc>
+    <desc lang="tr">Ormanya&apos;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&apos;un okuldan mezun olup Uzay Akademisi&apos;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersenKehribar ile Boncuk, senin kanalın TRT Çocuk&apos;ta.</desc>
     <category lang="tr">Çocuk</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/86/150035372666e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/14/150035372665e87f1bca.jpg" />
@@ -7506,6 +7492,13 @@ Sultan Mehmed&apos;in aklında bir düş vardır: Konstantiniyye&apos;yi fethetm
     <category lang="tr">Dizi</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/41/220418946139e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/78/220418946138e87f1bca.jpg" />
+  </programme>
+  <programme start="20261124204500 +0000" stop="20261124231500 +0000" channel="ShowTV.tr@SD">
+    <title lang="tr">Sevdan Bir Ateş</title>
+    <desc lang="tr">Mirza ve Leyla&apos;nın düğünü nikaha birkaç saat kala Leyla&apos;nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla&apos;dan kimse bir haber alamaz. Mirza&apos;nın yeniden hayatını kurmaya karar verdiği ve Destan&apos;la evlenmek üzere olduğu gün Mirza&apos;nın yedi aylık yeğeni Kerem insan kaçakçılığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep&apos;e gider. Ancak Halep sadece Kerem&apos;i değil, yedi senedir kendisini acılar içinde bırakan Leyla&apos;yı da geri verecektir Mirza&apos;ya. Leyla&apos;yı ve 6 yaşındaki Hüma&apos;yı Suriye&apos;den kaçırmak için zorlu bir maceraya giren Mirza&apos;yı Kapadokya&apos;da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/77/110014959663e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/73/110014959662e8805bd2.jpg" />
   </programme>
   <programme start="20261124204500 +0000" stop="20261124223000 +0000" channel="SinemaKomedi.tr@SD">
     <title lang="tr">Strong Fathers, Strong Daughters</title>
@@ -7677,13 +7670,6 @@ Sultan Mehmed&apos;in aklında bir düş vardır: Konstantiniyye&apos;yi fethetm
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/3/220420363595e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/21/220420363594e8805bd2.jpg" />
   </programme>
-  <programme start="20261124211500 +0000" stop="20261124234500 +0000" channel="ShowTV.tr@SD">
-    <title lang="tr">Sevdan Bir Ateş</title>
-    <desc lang="tr">Mirza ve Leyla&apos;nın düğünü nikaha birkaç saat kala Leyla&apos;nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla&apos;dan kimse bir haber alamaz. Mirza&apos;nın yeniden hayatını kurmaya karar verdiği ve Destan&apos;la evlenmek üzere olduğu gün Mirza&apos;nın yedi aylık yeğeni Kerem insan kaçakçılığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep&apos;e gider. Ancak Halep sadece Kerem&apos;i değil, yedi senedir kendisini acılar içinde bırakan Leyla&apos;yı da geri verecektir Mirza&apos;ya. Leyla&apos;yı ve 6 yaşındaki Hüma&apos;yı Suriye&apos;den kaçırmak için zorlu bir maceraya giren Mirza&apos;yı Kapadokya&apos;da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/42/220427120178e8800bd0.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/11/220427120177e8800bd0.jpg" />
-  </programme>
   <programme start="20261124211500 +0000" stop="20261124223000 +0000" channel="TV8.tr@SD">
     <title lang="tr">Temizlik Benim İşim</title>
     <desc lang="tr">Birbirinden eğlenceli ve becerikli beş yarışmacı önce temizlik dedektifi Kadir Ezildi&apos;nin göz hapsinde kendi evlerinin temizliğini yapıyor, evler temizlendikten sonra ise mutfakta hünerlerini sergiliyor. Haftanın finalinde ise en yüksek puanı alan yarışmacı, büyük ödülün sahibi oluyor.</desc>
@@ -7710,6 +7696,13 @@ Sultan Mehmed&apos;in aklında bir düş vardır: Konstantiniyye&apos;yi fethetm
     <category lang="tr">Belgesel</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/48/220425371719e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/52/220425371718e87f1bca.jpg" />
+  </programme>
+  <programme start="20261124212000 +0000" stop="20261125000000 +0000" channel="ATV.tr@SD">
+    <title lang="tr">Altı Üstü İstanbul</title>
+    <desc lang="tr">Hasan ölümle burun buruna gelirken Uzay, bencilliğine rağmen kaçmayı başaramaz. Uzay&apos;dan hesap sormaya hazırlanan Emir ve arkadaşları büyük bir duvara toslar. İzledikleri görüntülerden sonra ne çiftler için ne de Hasan için hiçbir şey eskisi gibi olmayacaktır. Rami&apos;nin yaralanması ise Fahriye&apos;yi duygularıyla yüzleşmeye zorlarken Gülten ve Soner&apos;in varlığı işleri iyice karıştırır. Melek ise ailesiyle bağları kopma noktasına gelirken henüz son sözünü söylemeye niyeti yoktur. Cezaevinde yaşananlar Hasan&apos;ın geçmişteki yaralarını yeniden açarken; Emir, kardeşi için kendisini feda etmeye hazırdır.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/6/100017972934e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/66/100017972933e87f1bca.jpg" />
   </programme>
   <programme start="20261124212000 +0000" stop="20261124221000 +0000" channel="NationalGeographic.tr@SD">
     <title lang="tr">Uçak Kazası Raporu: Özel</title>
@@ -8265,6 +8258,13 @@ Savaş çıktığında köyde yaşayan herkesi üzen gelişmeler yaşanır. Tür
     <category lang="tr">Yaşam</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/56/100019242116e87fbbce.jpg" />
   </programme>
+  <programme start="20261124231500 +0000" stop="20261125013000 +0000" channel="ShowTV.tr@SD">
+    <title lang="tr">Muhtemel Aşk</title>
+    <desc lang="tr">Bir hafta içinde borcunu ödemediği takdirde yıllardır emek verdiği avukatlık bürolarını kaybetme tehlikesiyle karşı karşıya kalan Defne, son şansını ortak bir projeye bağlıyor. Ancak bunun için yolları yeniden kesişen Kadir ve Tolga&apos;yı aynı projede buluşturması gerekiyor. Defne, ikiliyi ikna etmeye çalışırken aralarındaki geçmişten gelen sorunun sandığından çok daha derin olduğunu fark etmiyor.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/52/110014959679e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/81/110014959678e8805bd2.jpg" />
+  </programme>
   <programme start="20261124231500 +0000" stop="20261125011500 +0000" channel="Sinema1002.tr@SD">
     <title lang="tr">Metrodan Kaçış</title>
     <desc lang="tr">New York metrosunu silahla zapt eden bir adam, yolcuları rehin alır, onları ancak fidye karşılığında serbest bırakacaktır. Bu olaylar güvenlik şefi Walter Garbe&apos;ın gününü alt üst eder ve onu suçun arkasındaki ustaca planla yüzleşmek zorunda bırakır.</desc>
@@ -8278,13 +8278,6 @@ Savaş çıktığında köyde yaşayan herkesi üzen gelişmeler yaşanır. Tür
     <category lang="tr">Finans</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/69/220434218772e87f6bcc.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/78/220434218771e87f6bcc.jpg" />
-  </programme>
-  <programme start="20261124232000 +0000" stop="20261125020000 +0000" channel="ATV.tr@SD">
-    <title lang="tr">Var Mısın Yok Musun</title>
-    <desc lang="tr">Türkiye&apos;nin dört bir yanından gelen 22 yarışmacı büyük ödül olan 5 milyonu kazanabilmek için bankaya karşı yarışıyor. Banka her turun sonunda yarışmacıların kutusunu satın alabilmek için bir teklifte bulunuyor. Kutular açıldıkça yarışmacıların alması gereken risk daha da büyüyor. Yarışmada şans kadar strateji de çok önemli...</desc>
-    <category lang="tr">Yarışma</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/7/220421710891e87ecbc8.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/40/220421710890e87ecbc8.jpg" />
   </programme>
   <programme start="20261124232000 +0000" stop="20261125000500 +0000" channel="DMAX.tr@SD">
     <title lang="tr">Müzedeki Gizem</title>
@@ -8353,7 +8346,8 @@ Savaş çıktığında köyde yaşayan herkesi üzen gelişmeler yaşanır. Tür
     <title lang="tr">Racemax</title>
     <desc lang="tr">Formula 1, IndyCar, ralli, motokros, drag ve karting gibi dünyanın en prestijli yarışlarından nefes kesen anlar bu programda.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/38/084120952062e87ecbc8.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/81/070016922776e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/52/070016922775e8805bd2.jpg" />
   </programme>
   <programme start="20261124233000 +0000" stop="20261125013000 +0000" channel="Sinema1001.tr@SD">
     <title lang="tr">Babam</title>
@@ -8394,13 +8388,6 @@ Savaş çıktığında köyde yaşayan herkesi üzen gelişmeler yaşanır. Tür
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/13/220434219780e87f6bcc.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/12/220434219779e87f6bcc.jpg" />
   </programme>
-  <programme start="20261124234500 +0000" stop="20261125030000 +0000" channel="ShowTV.tr@SD">
-    <title lang="tr">Muhtemel Aşk</title>
-    <desc lang="tr">Bir hafta içinde borcunu ödemediği takdirde yıllardır emek verdiği avukatlık bürolarını kaybetme tehlikesiyle karşı karşıya kalan Defne, son şansını ortak bir projeye bağlıyor. Ancak bunun için yolları yeniden kesişen Kadir ve Tolga&apos;yı aynı projede buluşturması gerekiyor. Defne, ikiliyi ikna etmeye çalışırken aralarındaki geçmişten gelen sorunun sandığından çok daha derin olduğunu fark etmiyor.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/80/220427121186e8800bd0.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/83/220427121185e8800bd0.jpg" />
-  </programme>
   <programme start="20261124234500 +0000" stop="20261125004500 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Yüz Yüze Akustik</title>
     <desc lang="tr">5 Quartet grubunun sunumuyla hazırlanan programda, halk müziği ve sanat müziğinin unutulmayan eserleri farklı müzik tarzlarıyla harmanlanarak icra ediliyor.</desc>
@@ -8426,10 +8413,10 @@ Savaş çıktığında köyde yaşayan herkesi üzen gelişmeler yaşanır. Tür
   </programme>
   <programme start="20261124235500 +0000" stop="20261125002000 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Kehribar İle Boncuk</title>
-    <desc lang="tr">Ormanya&apos;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&apos;un okuldan mezun olup Uzay Akademisi&apos;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersen Kehribar ile Boncuk, senin kanalın TRT Çocuk&apos;ta.</desc>
+    <desc lang="tr">Ormanya&apos;da oyun, eğlence, dostluk ve macera var!Kehribar ile Boncuk&apos;un okuldan mezun olup Uzay Akademisi&apos;ne gitmek için staj listesini tamamlamaları gerekiyor. Bu heyecanlı serüvene katılmak istersenKehribar ile Boncuk, senin kanalın TRT Çocuk&apos;ta.</desc>
     <category lang="tr">Çocuk</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/92/220509548197e87ecbc8.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/85/220509548196e87ecbc8.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/11/070016772366e87fbbce.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/8/070016772365e87fbbce.jpg" />
   </programme>
   <programme start="20261124235700 +0000" stop="20261125000000 +0000" channel="CNNTurk.tr@SD">
     <title lang="tr">Hava Durumu</title>
@@ -8483,6 +8470,13 @@ Savaş çıktığında köyde yaşayan herkesi üzen gelişmeler yaşanır. Tür
     <category lang="tr">Haber</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/99/220508226984e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/72/220508226983e87ecbc8.jpg" />
+  </programme>
+  <programme start="20261125000000 +0000" stop="20261125023000 +0000" channel="ATV.tr@SD">
+    <title lang="tr">Var Mısın Yok Musun</title>
+    <desc lang="tr">Türkiye&apos;nin dört bir yanından gelen 22 yarışmacı büyük ödül olan 5 milyonu kazanabilmek için bankaya karşı yarışıyor. Banka her turun sonunda yarışmacıların kutusunu satın alabilmek için bir teklifte bulunuyor. Kutular açıldıkça yarışmacıların alması gereken risk daha da büyüyor. Yarışmada şans kadar strateji de çok önemli...</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/25/100017972942e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/74/100017972941e87f1bca.jpg" />
   </programme>
   <programme start="20261125000000 +0000" stop="20261125014500 +0000" channel="SinemaAile.tr@SD">
     <title lang="tr">Anderssonlar Dağların Kralı</title>
@@ -8891,6 +8885,13 @@ Zülfikar Ali Aydın, doğru haberin ve bilginin değerini bilerek, her gün do�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/2/220420363611e8805bd2.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/31/220420363610e8805bd2.jpg" />
   </programme>
+  <programme start="20261125013000 +0000" stop="20261125030000 +0000" channel="ShowTV.tr@SD">
+    <title lang="tr">Lodos Zühtü</title>
+    <desc lang="tr">Kasaba halkı, yıllar önce gecekondu olarak inşa ettikleri evlerinden arsa sahibi Fethi Bey tarafından tahliye edilmek istenir. Arsasına bir otel yaptırmayı plânlar. Ancak kasabalı uzun süredir yaşadıkları evlerini bırakmak istemez. Fethi Bey&apos;le görüşmeye çalışırlar. Ne var ki kendisine bir türlü ulaşamazlar. Son çare olarak Fethi Bey&apos;in kızını kaçırıp şantaj yaparak otel projesinden vazgeçirmeye karar verirler. Bu iş için kasabadan Zühtü&apos;yü görevlendirirler. Zühtü, İstanbul&apos;a gidip Fethi Bey&apos;i ikna etmeye çalışacaktır.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/86/110014959671e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/63/110014959670e8805bd2.jpg" />
+  </programme>
   <programme start="20261125013000 +0000" stop="20261125021500 +0000" channel="TRTMuzik.tr@SD">
     <title lang="tr">Asırlık Ezgiler</title>
     <desc lang="tr">Türk halk müziği ses sanatçısı Muzaffer Ertürk ve Bora Uymaz&apos;un sunduğu programda, sanat müziğinin hafızalardan silinmeyen eserleri icra edilirken, arşivden derlenen kıymetli görüntüler eşliğinde musikiye dair keyifli bir sohbet gerçekleştiriliyor.</desc>
@@ -9085,13 +9086,6 @@ Ancak bir gün, Halil efe oğullarının İstanbul&apos;da nasıl yaşadığın�
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/48/220508227000e87ecbc8.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/42/220508227999e87ecbc8.jpg" />
   </programme>
-  <programme start="20261125020000 +0000" stop="20261125050000 +0000" channel="ATV.tr@SD">
-    <title lang="tr">Bir Gece Masalı</title>
-    <desc lang="tr">Komiser Mahir ile Yörük kızı Canfeza&apos;nın Pamukkale&apos;nin büyülü atmosferinde başlayıp İstanbul&apos;da Asaf Bey konağına uzanan imkansız aşkları konu ediliyor.</desc>
-    <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/28/220423001612e8800bd0.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/43/220423001611e8800bd0.jpg" />
-  </programme>
   <programme start="20261125020000 +0000" stop="20261125040000 +0000" channel="SinemaKomedi.tr@SD">
     <title lang="tr">Yedek Polisler</title>
     <desc lang="tr">Christopher Danson ve P.K. Highsmith, New York Polis Departmanı&apos;nın kahraman polisleridir. Herkesin hayran olduğu memurlar, ofisteki diğer adamlar olarak anılan ve masa başında evrak işlerini yürüten Allen Gamble ve Terry Holtz ile birlikte çalışmaktadırlar. Ancak Danson ve Highsmith, zorlu bir görev sırasında hayatını kaybederler. Diğer adamlar Allen ve Terry ise bunu fırsat bilerek New York&apos;un yeni kahraman polisleri olmak üzere harekete geçerler.</desc>
@@ -9230,6 +9224,13 @@ Ancak bir gün, Halil efe oğullarının İstanbul&apos;da nasıl yaşadığın�
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/23/130626228736e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/38/130626228735e87f1bca.jpg" />
+  </programme>
+  <programme start="20261125023000 +0000" stop="20261125050000 +0000" channel="ATV.tr@SD">
+    <title lang="tr">Bir Gece Masalı</title>
+    <desc lang="tr">Komiser Mahir ile Yörük kızı Canfeza&apos;nın Pamukkale&apos;nin büyülü atmosferinde başlayıp İstanbul&apos;da Asaf Bey konağına uzanan imkansız aşkları konu ediliyor.</desc>
+    <category lang="tr">Dizi</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/4/100017972950e87f1bca.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/2/100017972949e87f1bca.jpg" />
   </programme>
   <programme start="20261125023000 +0000" stop="20261125033000 +0000" channel="TV8.tr@SD">
     <title lang="tr">Oynat Bakalım</title>
@@ -12725,12 +12726,12 @@ Hiçbir dert çözümsüz değildir sloganıyla yola çıkan Didem Arslan Yılma
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/66/000520741769e87fbbce.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/77/000520741768e87fbbce.jpg" />
   </programme>
-  <programme start="20261125120000 +0000" stop="20261125143000 +0000" channel="NOWTV.tr@SD">
+  <programme start="20261125120000 +0000" stop="20261125144500 +0000" channel="NOWTV.tr@SD">
     <title lang="tr">Yeraltı</title>
     <desc lang="tr">Derin devlet tarafından mafyanın içine yerleştirilen bir adamın, narkomafya ve İstanbul kartelinin ortasında şekillenen soluksuz macerası ve aşkla sınavı.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/63/220423716439e8805bd2.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/30/220423716438e8805bd2.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/13/070016187760e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/73/070016187759e8805bd2.jpg" />
   </programme>
   <programme start="20261125120000 +0000" stop="20261125121500 +0000" channel="TRTCocuk.tr@SD">
     <title lang="tr">Bing</title>
@@ -13618,13 +13619,6 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/44/220434943913e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/27/220434943912e87f1bca.jpg" />
   </programme>
-  <programme start="20261125143000 +0000" stop="20261125160000 +0000" channel="NOWTV.tr@SD">
-    <title lang="tr">Ali İhsan Varol ile Kumbara</title>
-    <desc lang="tr">Yarışmacıların doğru cevaplarla kumbaralarını dolduracağı bu yarışmada, biriktiren kazanacak; hızını ve bilgisini konuşturanlar büyük ödüle bir adım daha yaklaşacak.</desc>
-    <category lang="tr">Yarışma</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/62/220423717495e8805bd2.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261119/77/220423717494e8805bd2.jpg" />
-  </programme>
   <programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Gün Sonu</title>
     <desc lang="tr">Yurt içi ve küresel piyasaların gün sonu performansı ve yarına dair beklentiler bu programda ele alınır. Öne çıkan gelişmeler, konuşulan başlıklar ve uzman yorumlarıyla birlikte piyasa görünümü izleyiciye kapsamlı biçimde sunulur.</desc>
@@ -13687,6 +13681,13 @@ Tahir Kaleli, nam-ı diğer Deli Tahir, Karadenizli muhafazakar bir ailenin oğl
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/17/000529136299e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261118/45/000529136298e87f1bca.jpg" />
+  </programme>
+  <programme start="20261125144500 +0000" stop="20261125160000 +0000" channel="NOWTV.tr@SD">
+    <title lang="tr">Ali İhsan Varol ile Kumbara</title>
+    <desc lang="tr">Yarışmacıların doğru cevaplarla kumbaralarını dolduracağı bu yarışmada, biriktiren kazanacak; hızını ve bilgisini konuşturanlar büyük ödüle bir adım daha yaklaşacak.</desc>
+    <category lang="tr">Yarışma</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/51/070016187768e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/44/070016187767e8805bd2.jpg" />
   </programme>
   <programme start="20261125144500 +0000" stop="20261125152000 +0000" channel="BloombergHT.tr@SD">
     <title lang="tr">Seans Notları</title>
@@ -14546,12 +14547,12 @@ Dünyada ve Türkiye&apos;de olup biten tüm gelişmeler Ana Haber&apos;de izley
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/14/220434944945e87f1bca.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/37/220434944944e87f1bca.jpg" />
   </programme>
-  <programme start="20261125170000 +0000" stop="20261125203000 +0000" channel="KanalD.tr@SD">
+  <programme start="20261125170000 +0000" stop="20261125193000 +0000" channel="KanalD.tr@SD">
     <title lang="tr">Örümcek Adam</title>
     <desc lang="tr">Teyzesi May ve amcası Ben ile yaşayan Peter, ders dışında pek başarılı olamayan, gizlice sevdiği Mary Jane’e aşkını itiraf edemeyen, kendine güvensiz biridir. Bir gün bir okul gezisi sırasında radyoaktif bir örümcek tarafından ısırılır. Gün geçtikçe, kendinde sıra dışı güçler olduğunu keşfetmeye başlayan genç adam artık duvarlarda yürüyebilmekte, elleriyle ağ fırlatabilmektedir. İlk başlarda bu yeteneklerini sadece eğlenmek için kullanır. Fakat kısa bir süre sonra amcası, bir suçlunun elinde can verince, genç adam kötülüklerin üzerine gitmeye karar verir.</desc>
     <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/11/220424239988e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/29/220424239987e87f1bca.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/20/110011657564e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/63/110011657563e8800bd0.jpg" />
   </programme>
   <programme start="20261125170000 +0000" stop="20261125213000 +0000" channel="StarTV.tr@SD">
     <title lang="tr">Dizi</title>
@@ -14597,10 +14598,10 @@ Dünyada ve Türkiye&apos;de olup biten tüm gelişmeler Ana Haber&apos;de izley
   </programme>
   <programme start="20261125170000 +0000" stop="20261125211500 +0000" channel="ShowTV.tr@SD">
     <title lang="tr">Sevdan Bir Ateş</title>
-    <desc lang="tr">Mirza ve Leyla&apos;nın düğünü nikaha birkaç saat kala Leyla&apos;nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla&apos;dan kimse bir haber alamaz. Mirza&apos;nın yeniden hayatını kurmaya karar verdiği ve Destan&apos;la evlenmek üzere olduğu gün Mirza&apos;nın yedi aylık yeğeni Kerem insan kaçakçılığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep&apos;e gider. Ancak Halep sadece Kerem&apos;i değil, yedi senedir kendisini acılar içinde bırakan Leyla&apos;yı da geri verecektir Mirza&apos;ya. Leyla&apos;yı ve 6 yaşındaki Hüma&apos;yı Suriye&apos;den kaçırmak için zorlu bir maceraya giren Mirza&apos;yı Kapadokya&apos;da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.</desc>
+    <desc lang="tr">Yedi yıllık ayrılığın, acının ve hasretin ardından Leyla, Mirza ve Hüma için nihayet mutluluğun kapıları aralanır. Bütün zorluklara rağmen birbirlerine kavuşan üç kişilik küçük aile, geçmişin karanlığını geride bırakıp yeni bir hayata başlamaya hazırlanır. Küçük Hüma&apos;nın anne ve babasını bir araya getirmek için çıktığı umut dolu yolculuk, Kapadokya&apos;nın büyülü atmosferinde unutulmaz bir kavuşmaya dönüşür.</desc>
     <category lang="tr">Dizi</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/81/220427121194e8800bd0.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/5/220427121193e8800bd0.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/11/110014959687e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/20/110014959686e8805bd2.jpg" />
   </programme>
   <programme start="20261125170000 +0000" stop="20261125211500 +0000" channel="TV8.tr@SD">
     <title lang="tr">MasterChef Türkiye</title>
@@ -15192,6 +15193,13 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/44/170017108495e87fbbce.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/47/170017108494e87fbbce.jpg" />
   </programme>
+  <programme start="20261125193000 +0000" stop="20261125213000 +0000" channel="KanalD.tr@SD">
+    <title lang="tr">Venom Zehirli Öfke</title>
+    <desc lang="tr">Eddie Brock hırslı bir muhabirdir. Sevgilisinin çalıştığı araştırma firmasının sahibi de peşinde olduğu hikayelerden biridir. Kötü niyetli ve kendi amaçları doğrultusunda hareket eden bu adamın hikayesinin peşinde koşarken, Eddie, sadece simbiyoz halinde yaşayabilen ve adrenalinle beslenen uzaylı bir organizmanın firma tarafından keşfedildiğini ve insan deneklerle birleştirilmeye çalışıldığını öğrenir.</desc>
+    <category lang="tr">Film</category>
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/84/110011657572e8800bd0.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/95/110011657571e8800bd0.jpg" />
+  </programme>
   <programme start="20261125193000 +0000" stop="20261125195000 +0000" channel="ANews.tr@SD">
     <title lang="tr">Newsroom</title>
     <desc lang="tr">Politics, economy, sports... Keep abreast of world headlines with Newsroom.</desc>
@@ -15447,13 +15455,6 @@ Günün flaş gelişmeleri, son dakika haberleri ve canlı bağlantılar Spor Ak
     <category lang="tr">Magazin</category>
     <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/50/013537981312e87fbbce.jpg" />
     <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/14/013537981311e87fbbce.jpg" />
-  </programme>
-  <programme start="20261125203000 +0000" stop="20261125230000 +0000" channel="KanalD.tr@SD">
-    <title lang="tr">Venom Zehirli Öfke</title>
-    <desc lang="tr">Eddie Brock hırslı bir muhabirdir. Sevgilisinin çalıştığı araştırma firmasının sahibi de peşinde olduğu hikayelerden biridir. Kötü niyetli ve kendi amaçları doğrultusunda hareket eden bu adamın hikayesinin peşinde koşarken, Eddie, sadece simbiyoz halinde yaşayabilen ve adrenalinle beslenen uzaylı bir organizmanın firma tarafından keşfedildiğini ve insan deneklerle birleştirilmeye çalışıldığını öğrenir.</desc>
-    <category lang="tr">Film</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/67/220424240996e87f1bca.jpg" />
-    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261120/28/220424240995e87f1bca.jpg" />
   </programme>
   <programme start="20261125203000 +0000" stop="20261125210000 +0000" channel="Ekoturk.tr@SD">
     <title lang="tr">Marka Değeri</title>
@@ -15856,7 +15857,8 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
     <title lang="tr">Real Madrid - Zalgiris Kaunas</title>
     <desc lang="tr">Euroleague</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/47/220428475599e8800bd0.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/1/070016922782e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/43/070016922781e8805bd2.jpg" />
   </programme>
   <programme start="20261125215000 +0000" stop="20261125233000 +0000" channel="TRTSpor.tr@SD">
     <title lang="tr">Maç Özel</title>
@@ -16497,8 +16499,10 @@ Doğa’nın kocası Fatih’in ailesi oldukça muhafazakâr bir ailedir. Kıvı
   </programme>
   <programme start="20261126000000 +0000" stop="20261126010000 +0000" channel="SSport2.tr@SD">
     <title lang="tr">Watersports World</title>
+    <desc lang="tr">Dünyanın dört bir yanından yelken, sörf, wakeboard ve sürat teknesi yarışlarının en heyecanlı anları ve özel röportajları Watersports World ile ekranlara geliyor.</desc>
     <category lang="tr">Spor</category>
-    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261123/80/220428476612e8800bd0.jpg" />
+    <icon src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/3/070016922790e8805bd2.jpg" />
+    <image src="https://izmaottvsc14.tvplus.com.tr:33207/CPS/images/universal/film/program/202611/20261124/43/070016922789e8805bd2.jpg" />
   </programme>
   <programme start="20261126000000 +0000" stop="20261126003000 +0000" channel="Tele1.tr@SD">
     <title lang="tr">Senin Şehrin</title>
